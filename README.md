@@ -5,4 +5,4 @@
 * Discuss various Use Cases.  Eventually these should be posted to LinkedIn.
 * GPS = latitude + Longitude, as opposed to (proprietary, per CPC) Postal Code.
 * This should likely link to DgH to start and then DocsH
-* Can juergen help with this technology?
+* Can Juergen help with this technology?
