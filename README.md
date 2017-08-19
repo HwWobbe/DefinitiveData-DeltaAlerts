@@ -6,3 +6,4 @@
 * GPS = latitude + Longitude, as opposed to (proprietary, per CPC) Postal Code.
 * This should likely link to DgH to start and then DocsH
 * Can Juergen help with this technology?
+* CXonsider using to WayBack machine to access (lost) content.
