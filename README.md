@@ -1,4 +1,5 @@
 # DefinitiveData-DeltaAlerts
+* "DefintitiveData" is (are?) ...
 * Provide examples of "Definitive Data"; most especially those that support the developing Address Management Authority
 * Discuss the reasons for Changes (Deltas) that should trigger "Alerts".
 * Emphasize that "shared" alerts are more economical ... $0.80/#1.00 @ N=2 ; note 1 + 2 x 0.15 x devCost / userGroup
