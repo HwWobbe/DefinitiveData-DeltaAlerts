@@ -9,4 +9,5 @@
 * GPS = latitude + Longitude, as opposed to (proprietary, per CPC) Postal Code.
 * This should likely link to DgH to start and then DocsH
 * Can JW help with this technology?
+* Consider the need to create contexts for specific Audiences.
 * Consider using to WayBack machine to access (lost) content (that I still consider "definitive").
