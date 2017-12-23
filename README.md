@@ -1,3 +1,6 @@
+DefinitiveData is dimply the best data for a particular use.  This, of course, is highly context sensitive.
+...
+
 # DefinitiveData-DeltaAlerts
 * started formatting this repo's wiki
 * Discuss the reasons for Changes (Deltas) that should trigger "Alerts".
