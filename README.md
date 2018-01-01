@@ -11,7 +11,7 @@ DefinitiveData is simply the best data for a particular use.  This, of course, i
 * This should likely link to DgH to start and then DocsH
 * Can JW help with this technology?
 * Consider the need to create contexts for specific Audiences.
-* Consider using to WayBack machine to access (lost) content (that I still consider "definitive").
+* Consider using the WayBack machine to access (lost) content (that I still consider "definitive").
 
 <hr>
 
