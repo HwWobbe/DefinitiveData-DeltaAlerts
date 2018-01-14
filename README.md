@@ -1,5 +1,4 @@
-DefinitiveData is simply the best available data for a particular use.  This, of course, is highly context sensitive.
-...
+DefinitiveData is simply the best available data for a particular use.  This, of course, is highly context sensitive, with many diverse opinions and vested interests ...
 
 # DefinitiveData-DeltaAlerts
 
