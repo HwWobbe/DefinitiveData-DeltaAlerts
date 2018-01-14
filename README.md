@@ -1,7 +1,9 @@
-DefinitiveData is simply the best available data for a particular use.  This, of course, is highly context sensitive, with many diverse opinions and vested interests, including those of
+DefinitiveData is simply the best available data for a particular use.  This, of course, is highly context sensitive, with many diverse opinions and vested interests, including those of ...
 
 * Canada Post
-* The National Association of Mail Users ( NAMMU ).\
+* Government Institutions at all three levels
+* Canadian Banks and their K.Y.C needs
+* The National Association of Mail Users ( NAMMU )
 * Mailers ( and their mail services providers )
 * ...
 
