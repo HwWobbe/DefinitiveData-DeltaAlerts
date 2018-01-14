@@ -1,4 +1,9 @@
-DefinitiveData is simply the best available data for a particular use.  This, of course, is highly context sensitive, with many diverse opinions and vested interests ...
+DefinitiveData is simply the best available data for a particular use.  This, of course, is highly context sensitive, with many diverse opinions and vested interests, including those of
+
+* Canafa Post
+* The National Association of Mail Users ( NAMMU ).\
+* Mailers ( and their mail services providers )
+* ...
 
 # DefinitiveData-DeltaAlerts
 
