@@ -20,5 +20,6 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 
 ### ...
 
+* Benefits ...
 * Discuss the reasons for Changes (Deltas) that should trigger "Alerts".
 * try usinh HTML to craft nested ULs
