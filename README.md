@@ -15,7 +15,7 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 
 <hr>
 
-* started formatting this repo's wiki <a "https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki"wiki</a>
+* started formatting this repo's wiki <a "https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki">wiki</a>
 
 ### ...
 
