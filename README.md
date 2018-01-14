@@ -3,7 +3,6 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 
 # DefinitiveData-DeltaAlerts
 
-* Emphasize that "shared" alerts are more economical ... $0.80/#1.00 @ N=2 ; note 1 + 2 x 0.15 x devCost / userGroup
 * Prepare this file for sharing with CPC & NAMMU members.
 * Make it a Nationasl Productivity issue that has Identity implications.
 * Note that Subjects are legal "co-owner"(s) of Personal Information about them.
