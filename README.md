@@ -24,7 +24,7 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 <hr>
 
 * look up the rawHtml.anchor syntax for ...
-* started formatting this repo's wiki <a "https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki"/>wiki</a>
+* started formatting this repo's wiki https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki (wiki)
 
 ### DefData Tasks ...
 
