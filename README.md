@@ -1,7 +1,7 @@
 DefinitiveData is simply the best available data for a particular use.  This, of course, is highly context sensitive, with many diverse opinions and vested interests, including those of ...
 
 * Canada Post
-* Government Institutions at all three levels ( & especially the Votine Authorities )
+* Government Institutions at all three levels ( & especially the Voting Authorities )
 * Canadian Banks and their K.Y.C needs
 * The National Association of Mail Users ( NAMMU )
 * Mailers ( and their mail services providers )
