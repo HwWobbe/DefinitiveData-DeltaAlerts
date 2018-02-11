@@ -9,7 +9,7 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 
 # DefinitiveData-DeltaAlerts
 
-* Prepare this file for sharing with CPC & NAMMU members.
+* Preparing this file for sharing with CPC & NAMMU members.
 * link to gDocs and various documentation files tailored for specified Audiences.
 * Make it a Nationasl Productivity issue that has Identity implications.
 * Note that Subjects are legal "co-owner"(s) of Personal Information about them.
