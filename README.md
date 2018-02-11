@@ -11,7 +11,7 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 
 * Preparing this file for sharing with CPC & NAMMU members.
 * link to gDocs and various documentation files tailored for specified Audiences.
-* Make it a Nationasl Productivity issue that has Identity implications.
+* Make it a Canadian National Productivity issue that has Identity implications. (link to DebateGraph contexts)
 * Note that Subjects are legal "co-owner"(s) of Personal Information about them.
 * spawn a private repo and confirm that its wikis can be used for business discussions
 * expand this into a collaborative project.
