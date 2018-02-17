@@ -1,3 +1,7 @@
+==== Lede ====
+* inital links and Nutshell concepts are useful now.
+
+=== ... ===
 DefinitiveData is simply the best available data for a particular use.  This, of course, is highly context sensitive, with many diverse opinions and vested interests, including those of ...
 
 * Canada Post
