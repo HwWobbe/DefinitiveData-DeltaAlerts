@@ -15,6 +15,7 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 * incorporate examples
 * direct editView links are very convenient.  Switching to a different browser tab seems to break Context focus.
 * using the *.MD url allows direct access to the editView for these pages. *.
+* review the MD markup since italics are still evident in editView
 * a Canadian National Productivity issue with Identity implications. (https://debategraph.org/Stream.aspx?nid=596285&vt=bubble&dc=focus)
 * Note that Subjects are legal "co-owner"(s) of Personal Information about them.
 * spawn a private repo and confirm that its wikis can be used for business discussions
