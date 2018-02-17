@@ -42,4 +42,5 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 * review the MD markup since italics are still evident in editView
 
 #### Conclusions
+* these pages are reaching my scroll limit 
 * there is a tendency to strive for Commits that indicate the relative importance of a repo, within a month.
