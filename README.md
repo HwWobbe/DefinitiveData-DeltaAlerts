@@ -13,7 +13,7 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 * link to gDocs and various documentation files tailored for specified Audiences.
 * debateGraph is being evaluated as a way of developing MicroPortals that include links to Resonator.
 * incorporate examples
-* direct editView links are very convenient.
+* direct editView links are very convenient.  Switching to a different browser tab seems to break Context focus.
 * using the *.MD url allows direct access to the editView for these pages. *
 * a Canadian National Productivity issue with Identity implications. (https://debategraph.org/Stream.aspx?nid=596285&vt=bubble&dc=focus)
 * Note that Subjects are legal "co-owner"(s) of Personal Information about them.
