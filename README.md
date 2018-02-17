@@ -36,6 +36,9 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 * link to gDocs and various documentation files tailored for specified Audiences.
 * debateGraph is being evaluated as a way of developing MicroPortals that include links to Resonator.
 * incorporate examples
+
+* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#test_for_TransClusion
+
 * try usinh HTML to craft nested ULs
 * direct editView links are very convenient.  Switching to a different browser tab seems to break Context focus.
 * using the *.MD url allows direct access to the editView for these pages. *.
