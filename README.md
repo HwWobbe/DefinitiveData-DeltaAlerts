@@ -38,7 +38,5 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki/Home/_edit
 
 * direct editView links are very convenient.  Switching to a different browser tab seems to break Context focus.
-* using the *.MD url allows direct access to the editView for these pages. *.
-* review the MD markup since italics are still evident in editView
 
 #### Conclusions ####
