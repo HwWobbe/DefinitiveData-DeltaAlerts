@@ -15,9 +15,6 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 * expand this into a collaborative project.
 * Discuss various Use Cases.  Eventually these should be posted to LinkedIn.
 * GPS = latitude + Longitude, as opposed to (proprietary, per CPC) Postal Code.
-* Can JW help with this technology?
-* Consider the need to create contexts for specific Audiences.
-* Consider using the WayBack machine to access (lost) content (that I still consider "definitive").
 
 <hr>
 
