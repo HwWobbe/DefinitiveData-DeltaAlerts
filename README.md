@@ -35,6 +35,4 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#test_for_TransClusion
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki/Home/_edit
 
-* direct editView links are very convenient.  Switching to a different browser tab seems to break Context focus.
-
 #### Conclusions ####
