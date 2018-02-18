@@ -40,5 +40,4 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 * using the *.MD url allows direct access to the editView for these pages. *.
 * review the MD markup since italics are still evident in editView
 
-#### Conclusions
-* https://debategraph.org/Stream.aspx?nid=472473&vt=bubble&dc=focus
+#### Conclusions ####
