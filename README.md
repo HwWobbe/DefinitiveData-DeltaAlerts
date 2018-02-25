@@ -31,7 +31,7 @@ DefinitiveData is simply the best available data for a particular use.  This, of
 * Preparing this file for sharing with CPC & NAMMU members.
 * link to gDocs and various documentation files tailored for specified Audiences.
 * debateGraph is being evaluated as a way of developing MicroPortals that include links to Resonator.
-* incorporate examples
+* incorporate (some Labels) examples
 
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#test_for_TransClusion
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki/Home/_edit
