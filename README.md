@@ -29,7 +29,7 @@ DefinitiveData is simply the best available data for a particular use.  This "be
 * CPC: URM cost savings
 * consider AWS use for vast distribution via TW, cocnstent with Jeremy's goals
 * Discuss the reasons for Changes (Deltas) that should trigger "Alerts".
-* This should likely link to DgH to start and then DocsH
+* This should likely link to DgH to start and then DocsH and should use Diigo for annotation
 * Preparing this file for sharing with CPC & NAMMU members.
 * link to gDocs and various documentation files tailored for specified Audiences.
 * debateGraph is being evaluated as a way of vizualizing MicroContent & MicroPortals that include links to Resonator.
