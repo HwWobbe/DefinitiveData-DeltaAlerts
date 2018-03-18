@@ -6,7 +6,7 @@ DefinitiveData is simply the best available data for a particular use.  This "be
 * The National Association of Mail Users ( NAMMU )
 * Mailers ( and their mail services providers )
 * mail Recipients ( likely to be a much bigger market than Mailers, as junkMail grows > wikiLink )
-* AdManCa = Ad(dres) Man(agement) Ca(nada) 
+* AdManCa = Ad(dres) Man(agement) Ca(nada) & FirstNations
 
 # DefinitiveData-DeltaAlerts
 
