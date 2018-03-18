@@ -1,3 +1,4 @@
 * Emphasize that "shared" alerts are more economical ... $0.80/#1.00 @ N=2 ; note 1 + 2 x 0.15 x devCost / userGroup
 * try merging this file into the other
 * the PR seemed to merge, but I have not found no apparent result.
+* Consider reviewing the "more information" link that appear when the PR is created (before the merge is triggered)
