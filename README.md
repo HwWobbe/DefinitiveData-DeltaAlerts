@@ -10,7 +10,8 @@ DefinitiveData is simply the best available data for a particular use.  This "be
 
 # DefinitiveData-DeltaAlerts
 
-* a Canadian National Productivity issue with Identity implications. (https://debategraph.org/Stream.aspx?nid=596285&vt=bubble&dc=focus)
+* a Canadian National Productivity issue with Identity implications, introduced at ...
+* (https://debategraph.org/Stream.aspx?nid=596285&vt=bubble&dc=focus)
 * expand this into a collaborative project ( e.g. ClaimMyHome )
 * expound the need for EnduringLinks to alleviate Matching problems
 * Discuss various Use Cases.  Eventually these should be posted to LinkedIn.
