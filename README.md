@@ -10,7 +10,7 @@ DefinitiveData is simply the best available data for a particular use.  This "be
 
 # DefinitiveData-DeltaAlerts
 
-* a Canadian National Productivity issue with Identity implications, introduced at ...
+* A Canadian National Productivity issue with Identity implications, introduced at ...
 * (https://debategraph.org/Stream.aspx?nid=596285&vt=bubble&dc=focus)
 * Expand this into a collaborative project ( e.g. ClaimMyHome )
 * Expound the need for EnduringLinks to alleviate Matching problems
@@ -26,7 +26,7 @@ DefinitiveData is simply the best available data for a particular use.  This "be
 ### DefData Tasks ...
 
 * Benefits need to be confirmed for each participant
-* update the old insightes into the percentage of Code that is the intended Process versus the Inputs & Outputs.
+* Update the old insightes into the percentage of Code that is the intended Process versus the Inputs & Outputs.
 * Many business Applications are still 20% + 40% +40%
 * CPC: URM cost savings
 * consider AWS use for vast distribution via TW, cocnstent with Jeremy's goals
