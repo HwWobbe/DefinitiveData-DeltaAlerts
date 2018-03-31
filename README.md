@@ -5,7 +5,7 @@ DefinitiveData is simply the best available data for a particular use.  This "be
 * Canadian Banks and their K.Y.C needs
 * The National Association of Mail Users ( NAMMU )
 * Mailers ( and their mail services providers )
-* mail Recipients ( likely to be a much bigger market than Mailers, as junkMail grows > wikiLink )
+* Mail Recipients ( likely to be a much bigger market than Mailers, as junkMail grows > wikiLink )
 * AdManCa = Ad(dres) Man(agement) Ca(nada) & FirstNations
 
 # DefinitiveData-DeltaAlerts
@@ -13,7 +13,7 @@ DefinitiveData is simply the best available data for a particular use.  This "be
 * a Canadian National Productivity issue with Identity implications, introduced at ...
 * (https://debategraph.org/Stream.aspx?nid=596285&vt=bubble&dc=focus)
 * Expand this into a collaborative project ( e.g. ClaimMyHome )
-* expound the need for EnduringLinks to alleviate Matching problems
+* Expound the need for EnduringLinks to alleviate Matching problems
 * Discuss various Use Cases.  Eventually these should be posted to LinkedIn.
 * GPS = latitude + Longitude, as opposed to (proprietary, per CPC) Postal Code.
 
