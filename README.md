@@ -26,7 +26,7 @@ DefinitiveData is simply the best available data for a particular use.  This "be
 
 ### DefData Tasks ...
 
-* Benefits need to be confirmed for each participant
+* Specific benefits need to be confirmed for each participant
 * Update the old insightes into the percentage of Code that is the intended Process versus the Inputs & Outputs.
 * Many business Applications are still 20% + 40% +40%
 * CPC: URM cost savings
