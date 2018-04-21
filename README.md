@@ -37,4 +37,4 @@ DefinitiveData is simply the best available data for a particular use.  This "be
 * debateGraph is being evaluated as a way of vizualizing MicroContent & MicroPortals that include links to Resonator.
 * incorporate (some Labels) examples.
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#test_for_TransClusion
-
+* Privacy implications need more attentions after the Facebook & Cambridge Analytics debacles of 2018.
