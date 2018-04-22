@@ -2,4 +2,6 @@
 * make this a PR and then merge it
 * try merging this file into the other
 * the PR seemed to merge, but I have not found no apparent result.
-* 2018-04-22: found that the the merge failed becuase of reported conflict.
+* Consider reviewing the "more information" link that appear when the PR is created (before the merge is triggered)
+* 2018-04-22: found that the the merge failed because of reported conflict.
+* ... outstanding Conflicts resolved and merged.
