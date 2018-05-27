@@ -1,6 +1,6 @@
 Privacy rights are an important topic in these days of BigData; creating tensions between Subjects and Users.
 
-Legislation is trying to catch up to technology, but the alreay large gap is more likely to grown than shrink, given the reates of change and their effectiveness.  For that reason, individuals should consider their particular views, as well as how they should position themselves with the societies they are part of.
+Legislation is trying to catch up to technology, but the already large gap is more likely to grown than shrink, given the reates of change and their effectiveness.  For that reason, individuals should consider their particular views, as well as how they should position themselves with the societies they are part of.
 
 In a developer's view, DefinitiveData is simply the best available data for a particular use.  This "best" judgement is, of course, highly context sensitive, with many diverse opinions and vested interests, including those of many DefDataContexts that need reconciliation in order to optimize the value of required investment(s).  For example, consider ...
 
