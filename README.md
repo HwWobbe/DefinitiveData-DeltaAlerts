@@ -1,6 +1,6 @@
 Privacy rights are an important topic in these days of BigData; creating tensions between Subjects and Users.
 
-Legislation is trying to catch up to technology, but the already large gap is more likely to grown than shrink, given the reates of change and their effectiveness.  For that reason, individuals should consider their particular views, as well as how they should position themselves with the societies they are part of.
+Legislation is trying to catch up to technology, but the already large gap is more likely to grown than shrink, given the rates of change and their effectiveness.  For that reason, individuals should consider their particular views, as well as how they should position themselves with the societies they are part of.
 
 In a developer's view, DefinitiveData is simply the best available data for a particular use.  This "best" judgement is, of course, highly context sensitive, with many diverse opinions and vested interests, including those of many DefDataContexts that need reconciliation in order to optimize the value of required investment(s).  For example, consider ...
 
@@ -33,7 +33,8 @@ In a developer's view, DefinitiveData is simply the best available data for a pa
 * Specific benefits need to be confirmed for each participant
 * Revisions are a significant opportunity
 * Update the old insightes into the percentage of Code that is the intended Process versus the Inputs & Outputs.
-* Many business Applications are still 20% + 40% +40%
+* GDPR is making a difference
+* Many business Applications are still 20% + 40% + 40%
 * CPC: URM cost savings
 * Discuss the reasons for Changes (Deltas) that should trigger "Alerts".
 * This should likely link to DgH to start and then DocsH and should use Diigo for annotation
