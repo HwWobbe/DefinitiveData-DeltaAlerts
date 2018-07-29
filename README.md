@@ -27,6 +27,7 @@ In a developer's view, DefinitiveData is simply the best available data for a pa
 ### Considerations ...
 
 * TrustedCustody is an essential prerquisite.
+* Data persistence ( Volatile, Temporary, Static ) states are important factors.
 * GDPR is making a difference
 * (Zuckerberg's) FaceBook's behaviour has finally been found un-acceptable.
 * started formatting this repo's wiki https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki (wiki)
