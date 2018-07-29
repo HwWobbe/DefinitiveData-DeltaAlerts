@@ -36,16 +36,5 @@ In a developer's view, DefinitiveData is simply the best available data for a pa
 
 ### DefData Tasks ...
 
-* Specific benefits need to be confirmed for each participant
-* Revisions are a significant opportunity
-* Update the old insightes into the percentage of Code that is the intended Process versus the Inputs & Outputs.
-* Many business Applications are still 20% + 40% + 40%
-* CPC: URM cost savings
-* Discuss the reasons for Changes (Deltas) that should trigger "Alerts".
-* This should likely link to DgH to start and then DocsH and should use Diigo for annotation
-* Preparing this file for sharing with CPC & NAMMU members.
-* link to gDocs and various documentation files tailored for specified Audiences.
-* debateGraph is being evaluated as a way of vizualizing MicroContent & MicroPortals that include links to Resonator.
-* incorporate (some Labels) examples.
-* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#test_for_TransClusion
-* Privacy implications need more attentions after the Facebook & Cambridge Analytics debacles of 2018.
+* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#90_End_notes
+
