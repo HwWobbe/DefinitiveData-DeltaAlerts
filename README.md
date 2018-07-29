@@ -27,6 +27,8 @@ In a developer's view, DefinitiveData is simply the best available data for a pa
 ### Considerations ...
 
 * TrustedCustody is an essential prerquisite.
+* GDPR is making a difference
+* (Zuckerberg's) FaceBook's behaviour has finally been found un-acceptable.
 * started formatting this repo's wiki https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki (wiki)
 
 <br>
@@ -36,7 +38,6 @@ In a developer's view, DefinitiveData is simply the best available data for a pa
 * Specific benefits need to be confirmed for each participant
 * Revisions are a significant opportunity
 * Update the old insightes into the percentage of Code that is the intended Process versus the Inputs & Outputs.
-* GDPR is making a difference
 * Many business Applications are still 20% + 40% + 40%
 * CPC: URM cost savings
 * Discuss the reasons for Changes (Deltas) that should trigger "Alerts".
