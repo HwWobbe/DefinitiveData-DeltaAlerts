@@ -1,4 +1,4 @@
-Privacy rights are an important topic in these days of BigData; creating tensions between Subjects and Users.
+Privacy rights are an important topic in these days of BigData; creating tensions between data Subjects and data Users.
 
 Legislation is trying to catch up to technology, but the already large gap is more likely to grown than shrink, given current  rates of change.  For that reason, individual Subjects should consider their particular needs and views, as well as how to position themselves within the societies they are part of.
 
