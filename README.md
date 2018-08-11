@@ -41,3 +41,5 @@ In a developer's view, DefinitiveData is simply the best available data for a pa
 * started formatting this repo's wiki https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki (wiki)
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#90_End_notes
 
+<ul> ...
+  
