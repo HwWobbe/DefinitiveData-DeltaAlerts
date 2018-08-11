@@ -17,7 +17,7 @@ In a developer's view, DefinitiveData is simply the best available data for a pa
 * A Canadian National Productivity issue with Identity implications, introduced at ...
 * (https://debategraph.org/Stream.aspx?nid=596285&vt=bubble&dc=focus)
 * Enumerate the fields of endeavour which will be increasingly affected by defData ...
-* ... e.g. Voting, Banking, ... Identity protection and management
+* ... e.g. Voting, Banking, ... = Identity protection and management ; MyRep ... R(ights) e(ntitlements) p(iviledges)
 * Craft scenarios that demonstrate the supporting Business opportunities
 * Expand this into a collaborative project ( e.g. Curbside or ClaimMyHome )
 * Review "Input Process Output" allocations of 40% 20% 40% respectuvely.
