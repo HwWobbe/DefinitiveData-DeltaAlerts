@@ -18,7 +18,6 @@ In a developer's view, DefinitiveData is simply the best available data for a pa
 * (https://debategraph.org/Stream.aspx?nid=596285&vt=bubble&dc=focus)
 * Enumerate the fields of endeavour which will be increasingly affected by defData ...
 * ... e.g. Voting, Banking, ... = Identity protection and management ; MyRep ... R(ights) e(ntitlements) p(iviledges)
-* Craft scenarios that demonstrate the supporting Business opportunities
 * Expand this into a collaborative project ( e.g. Curbside or ClaimMyHome )
 * Review "Input Process Output" allocations of 40% 20% 40% respectuvely.
 * Expound the need for EnduringLinks to alleviate Matching problems
@@ -38,6 +37,7 @@ In a developer's view, DefinitiveData is simply the best available data for a pa
 
 ### DefData Tasks ...
 
+* Craft scenarios that demonstrate the supporting Business opportunities
 * started formatting this repo's wiki https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki (wiki)
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#90_End_notes
 
