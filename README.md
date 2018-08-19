@@ -43,5 +43,5 @@ In a developer's view, DefinitiveData is simply the best available data for a pa
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#90_End_notes
 
 <ol> ...
-  * "ol" test
+  * HTML "ol" test fails
 </ol>
