@@ -32,7 +32,7 @@ The growing availability of data actually appears to be creating demands for eve
 ### Considerations ...
 
 * TrustedCustody is an essential prerquisite.
-* Data persistence ( Volatile, Temporary, Static ) states are important factors.
+* Data persistence ( characterized as Volatile, Temporary, Static ) states are important factors.
 * GDPR is making a difference
 * (Zuckerberg's) FaceBook's behaviour has finally been found un-acceptable.
 
