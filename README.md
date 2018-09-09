@@ -13,7 +13,7 @@ In a developer's view, DefinitiveData is simply the best available data for a pa
 * AdManCa = Ad(dres) Man(agement) Ca(nada) & FirstNations
 
 # DefinitiveData-DeltaAlerts
-The growing availability of data actually appears to be creating demands for even more data, almost as if a cyclone of data gathering forces is engaging to feed into the promised Artificial Intelligence engines.  One result of this whirlwind of activity is a dramatic increase in data acquisition and data matching efforts. 
+The growing availability of data actually appears to be creating demands for even more data, almost as if a cyclone of data gathering forces is engaging to feed into the promised Artificial Intelligence engines.  One result of this whirlwind of activity is a dramatic increase in redundant data acquisition and data matching efforts. 
 
 ...
 
