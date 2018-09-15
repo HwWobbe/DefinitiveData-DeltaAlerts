@@ -35,17 +35,3 @@ The growing availability of data actually appears to be creating demands for eve
 * Data persistence ( characterized as Volatile, Temporary, Static ) states are important factors.
 * GDPR is making a difference
 * (Zuckerberg's) FaceBook's behaviour has finally been found un-acceptable.
-
-<br>
-
-### DefData Tasks ...
-
-* Document the most reliable DefData triggers
-* Incorporate the Banks development at GitHub ideas
-* Craft scenarios that demonstrate the supporting Business opportunities
-* Started formatting this repo's wiki https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki (wiki)
-* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#90_End_notes
-
-<ol> ...
-  * HTML "ol" test fails
-</ol>
