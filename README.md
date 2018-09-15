@@ -40,9 +40,10 @@ The growing availability of data actually appears to be creating demands for eve
 
 ### DefData Tasks ...
 
-* incorporate the Banks development at GitHub ideas
+* Document the most reliable DefData triggers
+* Incorporate the Banks development at GitHub ideas
 * Craft scenarios that demonstrate the supporting Business opportunities
-* started formatting this repo's wiki https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki (wiki)
+* Started formatting this repo's wiki https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki (wiki)
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#90_End_notes
 
 <ol> ...
