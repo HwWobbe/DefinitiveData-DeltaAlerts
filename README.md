@@ -1,6 +1,7 @@
 Privacy rights are an important topic in these days of BigData; increasing tensions between data Subjects and data Users.
 
 Legislation is trying to catch up to technology, but the already large gap is more likely to grown than shrink, given current  trends.  Individual Subjects should, therefore, consider their particular needs and views, as well as how to position themselves within the societies they are part of.  This is particulary important given the current trends of moving data into the Cloud.
+After all, Facebook has clearly demonstrated that its approach to data collection is harmful to its users and that the Subjects that do not protect themselves will inevitably be just "collateral damage" to its business model.
 
 In a developer's view, DefinitiveData is simply the best available data for a particular use.  This "best" judgement is, of course, highly context sensitive, with many diverse opinions and vested interests, including those of many DefDataContexts that need reconciliation in order to optimize the value of required investment(s).  For example, consider ...
 
