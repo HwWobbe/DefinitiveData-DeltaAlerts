@@ -32,7 +32,7 @@ The growing availability of data actually appears to be creating demands for eve
 
 ### Considerations ...
 
-* TrustedCustody is an essential prerquisite.
+* The Subject's TrustedCustody is an essential prerquisite.
 * Data persistence ( characterized as Volatile, Temporary, Static ) states are important factors.
 * BlockChain technologies and TrustedCustody are likely to be important components.
 * GDPR is making a difference
