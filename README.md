@@ -5,9 +5,9 @@ After all, Facebook has clearly demonstrated that its approach to data collectio
 
 In a developer's view, DefinitiveData is simply the best available data for a particular use.  This "best" judgement is, of course, highly context sensitive, with many diverse opinions and vested interests, including those of many DefDataContexts that need reconciliation in order to optimize the value of required investment(s).  For example, consider ...
 
-* Canada Post
+* Canada Post (since most Canadians, incorrectly, believe Canada Post knows ehere they live).
 * Government Institutions at all three levels ( & especially the Voting Authorities )
-* Canadian Banks and their K.Y.C needs
+* Canadian Banks and their K.Y.C (Know Your Customer) needs
 * The National Association of Mail Users ( NAMMU )
 * Mailers ( and their mail services providers )
 * Mail Recipients ( likely to be a much bigger market than Mailers, as junkMail grows > wikiLink )
