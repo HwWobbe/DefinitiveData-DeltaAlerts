@@ -35,4 +35,4 @@ The growing availability of data actually appears to be creating demands for eve
 * lists of Stable values.
 * BlockChain technologies and encryption are needed components for TrustedCustody.
 * GDPR is making a difference
-* (Zuckerberg's) FaceBook's behaviour has finally been found un-acceptable.
+* Content overflows into this repo's wiki.
