@@ -5,6 +5,7 @@
 * Incorporate the Banks development at GitHub ideas
 * Craft scenarios that demonstrate the supporting Business opportunities
 * Started formatting this repo's wiki https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki (wiki)
+* test the GitHub command line Commands 
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#90_End_notes
 
 <ol> ...
