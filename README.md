@@ -36,3 +36,4 @@ The growing availability of data actually appears to be creating demands for eve
 * BlockChain technologies and encryption are needed components for TrustedCustody.
 * GDPR is making a difference
 * Content overflows into this repo's wiki.
+* evaluating the new curbsideReports (including a lot of set-up work).  Consider when to link to the version with ElS.
