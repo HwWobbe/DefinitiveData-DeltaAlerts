@@ -31,6 +31,7 @@ The growing availability of data actually appears to be creating demands for eve
 ### Considerations ...
 
 * The Subject's TrustedCustody is an essential prerquisite.
+* evaluating Lambda methods as an enabling component
 * Data persistence ( characterized as Volatile, Temporary, Static ) states are important factors.
 * lists of Stable values.
 * BlockChain technologies and encryption are needed components for TrustedCustody.
