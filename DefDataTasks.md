@@ -9,7 +9,8 @@
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/wiki#90_End_notes
 
 <ol> ...
-  * HTML "ol" test fails
+  HTML "ol" test fails
+  ...
 </ol>
 
 ### Considerations ...
