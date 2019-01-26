@@ -1,8 +1,11 @@
 #### Lede
 
-The data rights of a Suject and the attendant Privacy rights are a key topic in these days of BigData, with increasing tensions between data Subjects, Owners and Users.
+The data rights of a Subject and the attendant Privacy rights are a key topic in these days of BigData, with increasing tensions between data Subjects, Owners and Users.
 
 ##### short suspension of activity
+
+Documentation efforts are temporarily suspended while these repositories are being re=-structured for 2019.
+
 
 # ...
 
