@@ -4,7 +4,7 @@ The data rights of a Subject and the attendant Privacy rights are a key topic in
 
 ##### short suspension of activity
 
-Documentation efforts are temporarily suspended while these repositories are being re=-structured for 2019.
+Documentation efforts are temporarily suspended while these repositories are being restructured for 2019.
 
 
 # ...
