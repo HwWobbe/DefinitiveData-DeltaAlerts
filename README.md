@@ -19,7 +19,7 @@ In a programmer's view, DefinitiveData is simply the best available data for a p
 * Canadian Banks and their K.Y.C (Know Your Customer) needs
 * The National Association of Mail Users ( NAMMU )
 * Mailers ( and their mail services providers )
-* Mail Recipients ( likely to be a much bigger market than Mailers, as junkMail grows > wikiLink )
+* Mail Recipients ( likely a bigger market than Mailers, as junkMail grows and Privacy meeds increase > wikiLink )
 * AdManCa = Ad(dres) Man(agement) Ca(nada) & FirstNations
 
 # DefinitiveData-DeltaAlerts
