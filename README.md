@@ -2,12 +2,8 @@
 
 The data rights of a Subject and the attendant Privacy rights are a key topic in these days of BigData, with increasing tensions between data Subjects, Owners and Users.
 
-##### short suspension of activity
 
-Documentation efforts are resumming as these repositories are being restructured for 2019.
-
-
-# ...
+# Privacy & Technology
 
 Technology leads Legislation and the already large gaps are more likely to grow than shrink, given current trends.  Individual Subjects should, therefore, consider their particular needs and views, as well as how to position themselves within the societies they are part of.  This is particulary important given the current trends of moving data into the Cloud.
 After all, Facebook has clearly demonstrated that its approach to data collection is harmful to its users and that the Subjects who do not protect themselves will inevitably be just "collateral damage" to its business model.
