@@ -21,6 +21,7 @@ In a programmer's view, DefinitiveData is simply the best available data for a p
 # DefinitiveData-DeltaAlerts
 The growing availability of data actually appears to be creating demands for even more data, almost as if a cyclone of data gathering forces is engaging to feed into the promise of Artificial Intelligence engines.  One result of this whirlwind of activity is a dramatic increase in redundant data acquisition and data matching efforts. ...
 
+* define an initial ID screen.
 * A Canadian National Productivity issue with Identity implications, introduced at ...
 * (https://debategraph.org/Stream.aspx?nid=596285&vt=bubble&dc=focus)
 * Enumerate the fields of endeavour which will be increasingly affected by defData ...
@@ -30,5 +31,9 @@ The growing availability of data actually appears to be creating demands for eve
 * Expound the need for EnduringLinks to alleviate Matching problems
 * Discuss various Use Cases.  Eventually these should be posted to LinkedIn.
 * GPS = latitude + Longitude, as opposed to (proprietary, per CPC) Postal Code.
+
+# extend the Edit hints
+* ...
+
 
 ^
