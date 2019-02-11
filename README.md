@@ -34,5 +34,4 @@ The growing availability of data actually appears to be creating demands for eve
 # extend the Edit hints
 * ...
 
-
 ^
