@@ -31,9 +31,4 @@ The growing availability of data actually appears to be creating demands for eve
 * Discuss various Use Cases.  Eventually these should be posted to LinkedIn.
 * GPS = latitude + Longitude, as opposed to (proprietary, per CPC) Postal Code.
 
-<hr>
-
-# extend the Edit hints
-* perhaps by using the wikis for staging
-
 ^
