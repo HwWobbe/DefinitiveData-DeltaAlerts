@@ -32,6 +32,7 @@ The growing availability of data actually appears to be creating demands for eve
 * GPS = latitude + Longitude, as opposed to (proprietary, per CPC) Postal Code.
 
 <hr>
+
 # extend the Edit hints
 * perhaps by using the wikis for staging
 
