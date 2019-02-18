@@ -1,3 +1,5 @@
+# ① ... DeltaAlerts
+
 #### Lede
 
 The data rights of a Subject and the attendant Privacy rights are a key topic in these days of BigData, with increasing tensions between data Subjects, Owners and Users.
