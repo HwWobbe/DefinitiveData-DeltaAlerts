@@ -27,7 +27,6 @@ The growing availability of data actually appears to be creating demands for eve
 * (https://debategraph.org/Stream.aspx?nid=596285&vt=bubble&dc=focus)
 * Enumerate the fields of endeavour which will be increasingly affected by defData ...
 * ... e.g. Voting, Banking, ... = Identity protection and management ; MyRep ... R(ights) e(ntitlements) p(iviledges)
-* Expand this into a collaborative project ( e.g. Curbside or ClaimMyHome )
 * Review "Input Process Output" allocations of 40% 20% 40% respectuvely.
 * Expound the need for EnduringLinks to alleviate Matching problems
 * Discuss various Use Cases.  Eventually these should be posted to LinkedIn.
