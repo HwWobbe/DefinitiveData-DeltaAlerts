@@ -1,4 +1,4 @@
-# ① ... DeltaAlerts
+# ① ...DeltaAlerts
 
 #### Lede
 
