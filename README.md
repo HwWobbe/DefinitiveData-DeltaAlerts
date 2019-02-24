@@ -2,9 +2,6 @@
 
 #### Lede
 
-The data rights of a Subject and the attendant Privacy rights are a significant topic in these days of BigData, with increasing tensions between data Subjects, Owners and Users.  Obviously, if data have value, then recognized "owners" and beneficiaries need to act to protect their continued access to data and the value streams that result from its use.
-
-
 # Privacy & Technology
 
 Technology leads Legislation and the already large gaps are more likely to grow than shrink, given current trends.  Individual Subjects should, therefore, consider their particular needs and views, as well as how to position themselves within the societies they are part of.  This is particulary important given the current trends of moving data into the Cloud.
