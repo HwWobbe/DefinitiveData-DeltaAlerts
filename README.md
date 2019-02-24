@@ -2,6 +2,8 @@
 
 #### Lede
 
+* see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
+
 # Privacy & Technology
 
 Technology leads Legislation and the already large gaps are more likely to grow than shrink, given current trends.  Individual Subjects should, therefore, consider their particular needs and views, as well as how to position themselves within the societies they are part of.  This is particulary important given the current trends of moving data into the Cloud.
