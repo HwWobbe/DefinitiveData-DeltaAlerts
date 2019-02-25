@@ -3,7 +3,7 @@
 #### Lede
 
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
-* * <a "https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/docs folder/Lede.md">Lede</a>
+* * ...
       
 # Privacy & Technology
 
