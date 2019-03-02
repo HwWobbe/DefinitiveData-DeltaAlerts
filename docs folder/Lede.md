@@ -4,6 +4,9 @@ The data rights of a Subject and the attendant Privacy rights are a significant 
 
 Obviously, recognized "owners" and beneficiaries will need to act to protect their continued access to data and the value streams that result from its use.
 
+
+## 5.1 Findings
+
 One trivial example of the value to a Subject is the labor and time savings that result from avoiding repititous data entry.
 
 ^
