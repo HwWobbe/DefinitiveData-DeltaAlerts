@@ -9,4 +9,9 @@ Obviously, recognized "owners" and beneficiaries will need to act to protect the
 
 One trivial example of the value to a Subject is the labor and time savings that result from avoiding repititous data entry.
 
+### implications ...
+
+* ...
+
+
 ^
