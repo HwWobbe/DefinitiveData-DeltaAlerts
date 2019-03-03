@@ -11,7 +11,7 @@ One trivial example of the value to a Subject is the labor and time savings that
 
 ### implications ...
 
-* ...
-
+* Subject's rights as a co-owner
+* preponderance of evidence
 
 ^
