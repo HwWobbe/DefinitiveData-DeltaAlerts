@@ -3,7 +3,8 @@
 #### Lede
 
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
-* * ...
+* * extend the case for Subject blockchains.
+* * * consider the growing popularity of eCash.
       
 # Privacy & Technology
 
