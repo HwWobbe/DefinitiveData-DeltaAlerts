@@ -1,4 +1,4 @@
-* there is an existing Confluct for Patch1 I should resolve
+* there is an existing Conflict for Patch1 I should resolve
 * rename this file, ideally using SymbolsH
 * a DynaList navigation aid may be useful
 * consider this file's nomenclature carefully and test it before expanding its use
