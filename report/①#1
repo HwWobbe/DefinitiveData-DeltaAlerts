@@ -1,5 +1,6 @@
 * rename this file, ideally using SymbolsH
 * a DynaList navigation aid may be useful
+* consider this file's nomenclature carefully and test it before expanding its use
 * Populate this repo with Names that extend the Fy2018 Names work.
 add files.
 * confirm this file as a major workflow entry point.
