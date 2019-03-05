@@ -1,4 +1,6 @@
 * there is an existing Conflict for Patch1 I should resolve
+* start designing a (virtual) DefinitiveData source
+* consider the 3 types of Eca information request responses
 * confirm the ability to rename this file, ideally using SymbolsH
 * a DynaList navigation aid may be useful
 * consider this file's nomenclature carefully and test it before expanding its use
