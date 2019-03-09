@@ -4,6 +4,8 @@
 
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * extend the case for Subject blockchains.
+* * * support the view that the Input is 40%, (process) Rules is 20%, Output is 40%; so reduce Input errors.
+* * * * GiGo reduction
 * * * consider the growing popularity of eCash.
       
 # Privacy & Technology
