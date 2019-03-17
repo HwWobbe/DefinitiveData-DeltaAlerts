@@ -34,4 +34,16 @@ The growing availability of data actually appears to be creating demands for eve
 * Discuss various Use Cases.  Eventually these should be posted to LinkedIn.
 * GPS = latitude + Longitude, as opposed to (proprietary, per CPC) Postal Code.
 
+<hr>
+
+* is it sensible to re-use prior patches as a Branch ?
+* Benefits need to be confirmed
+* CPC: URM cost savings
+* Discuss the reasons for Changes (Deltas) that should trigger "Alerts".
+* This should likely link to DgH to start and then DocsH
+* Preparing this file for sharing with CPC & NAMMU members.
+* link to gDocs and various documentation files tailored for specified Audiences.
+* debateGraph is being evaluated as a way of vizualizing MicroContent & MicroPortals that include links to Resonator.
+* incorporate (some Labels) examples
+
 ^
