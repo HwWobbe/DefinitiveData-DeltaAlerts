@@ -1,0 +1,13 @@
+# Recommendations
+
+* Expand this into a collaborative project ( e.g. Curbside or ClaimMyHome )
+* https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
+* I seem to be able to edit this file, but not Commit it.
+** apparently a Change is needed to enable the Commit.
+* Trying to craft another PR.
+** this actually seemed to work.
+*** letting the ...patch-5 persist to reduce editing needs.
+**** Once applied successfully, the Patch can be deleted (effectively reusing the patch-#.
+
+## extend the Edit hints
+* perhaps by using the wikis for staging
