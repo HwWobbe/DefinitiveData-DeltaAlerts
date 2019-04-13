@@ -14,6 +14,7 @@ Subjects are becoming intolerant of the need to protect themselves from privacy 
 
 In a programmer's view, DefinitiveData is simply the best available data for a particular algorithm.  This "best" judgement is, of course, highly context sensitive, with many diverse opinions and vested interests, including those of many DefDataContexts that need reconciliation in order to optimize the value of required investment(s).  Consider, for example, ...
 
+* Canadian Cities as the "owners" of Municipal addresses.
 * Canada Post (since most Canadians, incorrectly, believe Canada Post knows where they live).
 * Government Institutions at all three levels ( & especially the Voting Authorities )
 * Canadian Banks and their K.Y.C (Know Your Customer) needs
