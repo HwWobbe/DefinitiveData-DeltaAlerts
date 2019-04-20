@@ -37,7 +37,6 @@ The growing availability of data actually appears to be creating demands for eve
 
 <hr>
 
-* is it sensible to re-use prior patches as a Branch ?
 * Benefits need to be confirmed
 * CPC: URM cost savings
 * Discuss the reasons for Changes (Deltas) that should trigger "Alerts".
