@@ -4,6 +4,7 @@
 
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * see tasks
+* leaning towards (re)introducing Access for use by the less technical folks interested in participating in this project.
 
 # Privacy & Technology
 
