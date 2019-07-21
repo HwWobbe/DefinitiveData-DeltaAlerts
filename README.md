@@ -4,7 +4,7 @@
 
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * investigate .,,/blob/...
-* why are Commits not registering in the graphic ?
+* Commits registration confirmed.
 * see tasks:...
 * leaning towards (re)introducing Access for use by the less technical folks interested in participating in this project.
 
