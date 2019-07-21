@@ -14,7 +14,7 @@ One trivial example of the value to a Subject is the labor and time savings that
 * Subject's rights as a co-owner
 * privacy
 * preponderance of evidence
-* link to the LinkedIn graphic.
+* link to the LinkedIn graphic and Topics
 * ...
 
 ^
