@@ -16,6 +16,7 @@ One trivial example of the value to a Subject is the labor and time savings that
 * * compensation for comprehensive disclosure
 * * * reduced Price in exchange for lower tranaction risk
 * privacy
+* * only expicitly statedUses
 * preponderance of evidence
 * link to the LinkedIn graphic and Topics
 * ...
