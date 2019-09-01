@@ -5,6 +5,7 @@
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * investigate .,,/blob/...
 * Commits registration confirmed.
+* * now being integrated into workflows
 * see tasks:...
 * leaning towards (re)introducing Access for use by the less technical folks interested in participating in this project.
 
