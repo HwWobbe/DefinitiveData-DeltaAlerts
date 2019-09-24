@@ -4,6 +4,7 @@
 
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * investigate .,,/blob/...
+* test 
 * Commits registration confirmed.
 * * now being integrated into workflows
 * see tasks:...
