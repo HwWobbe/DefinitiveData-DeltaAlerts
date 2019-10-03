@@ -3,7 +3,7 @@
 #### Lede
 
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
-* * investigate .,,/blob/...
+* * investigate .../blob/...
 * test IttyBitty
 * Commits registration confirmed.
 * * now being integrated into workflows
