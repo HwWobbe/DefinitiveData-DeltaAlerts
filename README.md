@@ -4,7 +4,7 @@
 
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * investigate .../blob/...
-* test IttyBitty
+* test IttyBitty's abilities with more sophisticated CSS and HTML
 * Commits registration confirmed.
 * * now being integrated into workflows
 * see tasks:...
