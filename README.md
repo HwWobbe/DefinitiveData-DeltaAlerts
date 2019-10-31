@@ -4,6 +4,7 @@
 
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * investigate .../blob/...
+* re-focus on using TwElsWikis for shared Notes and Messages.
 * test IttyBitty's abilities with more sophisticated CSS and HTML
 * Commits registration confirmed.
 * * now being integrated into workflows
