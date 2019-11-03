@@ -4,7 +4,8 @@
 
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * investigate .../blob/...
-* re-focus on using TwElsWikis for shared Notes and Messages.
+* re-focused on using TwElsWikis for shared Notes and Messages.
+* * the merge of CurbSide and TiddlyTables is spurring new 
 * test IttyBitty's abilities with more sophisticated CSS and HTML
 * Commits registration confirmed.
 * * now being integrated into workflows
