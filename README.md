@@ -6,6 +6,7 @@
 * * investigate .../blob/...
 * re-focused on using TwElsWikis for shared Notes and Messages.
 * * the merge of CurbSide and TiddlyTables is spurring new NamesRules.
+* * expand the use of 
 * test IttyBitty's abilities with more sophisticated CSS and HTML
 * Commits registration confirmed.
 * * now being integrated into workflows
