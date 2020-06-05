@@ -7,7 +7,8 @@
 * * have a secure AWS vault created for me, that I can Assume via credentials.
 * * * pick a name
 * * * consider possible backdoors.
-* * select an enthusiastic partner for the Vision 2030s AdManCa initiatives.
+* * select an enthusiastic partner for the Vision 2030s AdManCa initiatives
+* * * this infrastructure build should strive for OpenSource logic
 * * investigate ( JSON ) .../blob/...
 * * quiesced for CoVid19
 * re-focused on using TwElsWikis for shared Notes and Messages.
