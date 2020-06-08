@@ -10,7 +10,6 @@
 * * select an enthusiastic partner for the Vision 2030s AdManCa initiatives
 * * * this infrastructure build should strive for OpenSource logic
 * * investigate ( JSON ) .../blob/...
-* * quiesced for CoVid19
 * re-focused on using TwElsWikis for shared Notes and Messages.
 * * the merge of CurbSide and TiddlyTables is spurring new NamesRules.
 * * expand the use of TiddlyTables
