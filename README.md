@@ -4,7 +4,7 @@
 
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * consider hosting an instance of federati on Azure.
-* * have a secure AWS vault created for me, that I can Assume via credentials.
+* * have a secure AWS vault created, that can be assumed via credentials.
 * * * pick a name
 * * * consider possible backdoors.
 * * select an enthusiastic partner for the Vision 2030s AdManCa initiatives
