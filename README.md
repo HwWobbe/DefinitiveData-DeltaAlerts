@@ -2,6 +2,7 @@
 
 #### Lede
 
+* review: https://isomorphic-git.org/
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * consider hosting an instance of federati on Azure.
 * * have a secure AWS vault created, that can be assumed via credentials.
