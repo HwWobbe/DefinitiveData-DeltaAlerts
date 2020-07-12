@@ -3,8 +3,8 @@
 #### Lede
 
 * Standardization will be increasingly important as more Devs engage.
-** Address Quality issues are more widely recognized given recent ArtificialIntelligence and BigData hyperbole.
-** Privacy issues are likely to demand more attention given the impact of CoVid19 on traditional Voting practices.
+* * Address Quality issues are more widely recognized given recent ArtificialIntelligence and BigData hyperbole.
+* * Privacy issues are likely to demand more attention given the impact of CoVid19 on traditional Voting practices.
 * review: https://isomorphic-git.org/
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * consider hosting an instance of federati on Azure.
