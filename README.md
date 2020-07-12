@@ -2,6 +2,7 @@
 
 #### Lede
 
+* Standardization will be increasingly important as more Devs engage.
 * review: https://isomorphic-git.org/
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * consider hosting an instance of federati on Azure.
