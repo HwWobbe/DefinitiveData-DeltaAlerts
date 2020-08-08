@@ -9,6 +9,7 @@
 * * * link pending
 * * Address Quality issues are more widely recognized given recent ArtificialIntelligence and BigData hyperbole.
 * * * the American VoteByMail examples and opinions will be informative
+* * * * DebateGraph may be an effective tool in the imminent political Debates.
 * * Privacy issues are likely to demand more attention given the impact of CoVid19 on traditional Voting practices.
 * review: https://isomorphic-git.org/
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
