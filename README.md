@@ -5,6 +5,8 @@
 * * a rigorour relativeValue be being proposed to competing solutions
 * * * googleMaps ; TeraNet ; ESRI ; What#Words ; ...
 * Standardization will be increasingly important as more Devs engage.
+* * there is an Organizatio that sets Real Estate standards.
+* * * link pending
 * * Address Quality issues are more widely recognized given recent ArtificialIntelligence and BigData hyperbole.
 * * Privacy issues are likely to demand more attention given the impact of CoVid19 on traditional Voting practices.
 * review: https://isomorphic-git.org/
