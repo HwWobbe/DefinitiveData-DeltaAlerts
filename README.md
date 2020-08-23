@@ -2,7 +2,7 @@
 
 #### Lede
 * PlusCodes are very appealing
-* * a rigorour relativeValue be being proposed to competing solutions
+* * a rigorous relativeValue to competing solutions is be being proposed 
 * * * googleMaps ; TeraNet ; ESRI ; What#Words ; ...
 * Standardization will be increasingly important as more Devs engage.
 * * there is an Organization that sets Real Estate standards.
