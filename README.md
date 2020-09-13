@@ -5,7 +5,8 @@
 * * a rigorous relativeValue to competing solutions is be being proposed 
 * * * googleMaps ; TeraNet ; ESRI ; What#Words ; ...
 * * * pricing is obvious,y set to encourage small, speculative developments
-* * * * caching has a different meaning in this Price context.
+* * * * caching has a different meaning in this Price context
+* * * * All is based on ApiKeys.
 * Standardization will be increasingly important as more Devs engage.
 * * there is an Organization that sets Real Estate standards.
 * * * link pending
