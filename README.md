@@ -4,7 +4,7 @@
 * PlusCodes are very appealing
 * * a rigorous relativeValue to competing solutions is be being proposed 
 * * * googleMaps ; TeraNet ; ESRI ; What#Words ; ...
-* * * ...
+* * * pricing is obvious,y set to encourage small, speculative developments.
 * Standardization will be increasingly important as more Devs engage.
 * * there is an Organization that sets Real Estate standards.
 * * * link pending
