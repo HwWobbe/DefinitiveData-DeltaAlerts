@@ -7,6 +7,7 @@
 * * * pricing is obvious,y set to encourage small, speculative developments
 * * * * caching has a different meaning in this Price context
 * * * * All is based on ApiKeys.
+* * The "off-line" and "open source" facets are quite appealing.
 * Standardization will be increasingly important as more Devs engage.
 * * there is an Organization that sets Real Estate standards.
 * * * link pending
