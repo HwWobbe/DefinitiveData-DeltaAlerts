@@ -75,4 +75,6 @@ The growing availability of data actually appears to be creating demands for eve
 * debateGraph is being evaluated as a way of vizualizing MicroContent & MicroPortals that include links to Resonator.
 * incorporate (some Labels) examples
 
+# T(ime)p(ast)
+
 ^
