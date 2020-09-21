@@ -11,9 +11,6 @@
 * review: https://isomorphic-git.org/
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * consider hosting an instance of federati on Azure.
-* * have a secure AWS vault created, that can be assumed via credentials.
-* * * pick a name
-* * * consider possible backdoors.
 * * select an enthusiastic partner for the Vision 2030s AdManCa initiatives
 * * * this infrastructure build should strive for OpenSource logic
 * * investigate ( JSON ) .../blob/...
@@ -47,6 +44,10 @@ In a programmer's view, DefinitiveData is simply the best available data for a p
 * * * the American VoteByMail examples and opinions will be informative
 * * * * DebateGraph may be an effective tool in the imminent political Debates.
 * * Privacy issues are likely to demand more attention given the impact of CoVid19 on traditional Voting practices.
+
+* * have a secure AWS vault created, that can be assumed via credentials.
+* * * pick a name
+* * * consider possible backdoors.
 
 # DefinitiveData-DeltaAlerts
 The growing availability of data actually appears to be creating demands for even more data, almost as if a cyclone of data gathering forces is engaging to feed into the promise of Artificial Intelligence engines.  One result of this whirlwind of activity is a dramatic increase in redundant data acquisition and data matching efforts. ...
