@@ -24,7 +24,7 @@
 Technology leads Legislation and the already large gaps are more likely to grow than shrink, given current trends.  Individual Subjects should, therefore, consider their particular needs and views, as well as how to position themselves within the societies they are part of.  This is particulary important given the current trends of moving data into the Cloud.
 After all, Facebook has clearly demonstrated that its approach to data collection is harmful to its users and that the Subjects who do not protect themselves will inevitably be just "collateral damage" to its business model.
 
-Subjects are becoming intolerant of the need to protect themselves from privacy breaches at sites that collect and, whem breached, expose Personal data.
+Subjects are becoming intolerant of the need to protect themselves from privacy breaches at sites that collect and, when breached, expose Personal data.
 
 In a programmer's view, DefinitiveData is simply the best available data for a particular algorithm.  This "best" judgement is, of course, highly context sensitive, with many diverse opinions and vested interests, including those of many DefDataContexts that need reconciliation in order to optimize the value of required investment(s).  Consider, for example, ...
 
