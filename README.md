@@ -8,13 +8,6 @@
 * * * * caching has a different meaning in this Price context
 * * * * All is based on ApiKeys.
 * * The "off-line" and "open source" facets are quite appealing.
-* Standardization will be increasingly important as more Devs engage.
-* * there is an Organization that sets Real Estate standards.
-* * * link pending
-* * Address Quality issues are more widely recognized given recent ArtificialIntelligence and BigData hyperbole.
-* * * the American VoteByMail examples and opinions will be informative
-* * * * DebateGraph may be an effective tool in the imminent political Debates.
-* * Privacy issues are likely to demand more attention given the impact of CoVid19 on traditional Voting practices.
 * review: https://isomorphic-git.org/
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * consider hosting an instance of federati on Azure.
@@ -46,6 +39,14 @@ In a programmer's view, DefinitiveData is simply the best available data for a p
 * Mailers ( and their mail services providers )
 * Mail Recipients ( likely a bigger market than Mailers, as junkMail grows and Privacy meeds increase > wikiLink )
 * AdManCa = Ad(dres) Man(agement) Ca(nada) & FirstNations
+
+* Standardization will be increasingly important as more Devs engage.
+* * there is an Organization that sets Real Estate standards.
+* * * link pending
+* * Address Quality issues are more widely recognized given recent ArtificialIntelligence and BigData hyperbole.
+* * * the American VoteByMail examples and opinions will be informative
+* * * * DebateGraph may be an effective tool in the imminent political Debates.
+* * Privacy issues are likely to demand more attention given the impact of CoVid19 on traditional Voting practices.
 
 # DefinitiveData-DeltaAlerts
 The growing availability of data actually appears to be creating demands for even more data, almost as if a cyclone of data gathering forces is engaging to feed into the promise of Artificial Intelligence engines.  One result of this whirlwind of activity is a dramatic increase in redundant data acquisition and data matching efforts. ...
