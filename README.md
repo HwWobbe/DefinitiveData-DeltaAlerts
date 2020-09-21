@@ -28,11 +28,6 @@
 * * the merge of CurbSide and TiddlyTables is spurring new NamesRules.
 * * expand the use of TiddlyTables
 * * set Report esthetics
-* test IttyBitty's abilities with more sophisticated CSS and HTML
-* Commits registration confirmed.
-* * now being integrated into workflows
-* see tasks:...
-* leaning towards (re)introducing Access for use by the less technical folks interested in participating in this project.
 
 # Privacy & Technology
 
@@ -76,5 +71,11 @@ The growing availability of data actually appears to be creating demands for eve
 * incorporate (some Labels) examples
 
 # T(ime)p(ast)
+* ...
+* test IttyBitty's abilities with more sophisticated CSS and HTML
+* Commits registration confirmed.
+* * now being integrated into workflows
+* see tasks:...
+* leaning towards (re)introducing Access for use by the less technical folks interested in participating in this project.
 
 ^
