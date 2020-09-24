@@ -8,6 +8,7 @@
 * * * * caching has a different meaning in this Price context
 * * * * All is based on ApiKeys.
 * * The "off-line" and "open source" facets are quite appealing.
+* Several collaborative opportunities are evident in Canada.
 * review: https://isomorphic-git.org/
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * consider hosting an instance of federati on Azure.
