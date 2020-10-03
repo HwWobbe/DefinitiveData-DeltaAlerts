@@ -9,7 +9,7 @@
 * * * * All is based on ApiKeys.
 * * The "off-line" and "open source" facets are quite appealing.
 * Several collaborative opportunities are evident in Canada.
-* https://www.howtogeek.com/689097/how-to-get-latitude-and-longitude-coordinates-from-google-maps/
+* * https://www.howtogeek.com/689097/how-to-get-latitude-and-longitude-coordinates-from-google-maps/
 * review: https://isomorphic-git.org/
 * see https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/master/docs%20folder/Lede.md
 * * consider hosting an instance of federati on Azure.
