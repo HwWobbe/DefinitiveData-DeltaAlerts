@@ -8,6 +8,7 @@
 * * * * caching has a different meaning in this Price context
 * * * * All is based on ApiKeys.
 * * The "off-line" and "open source" facets are quite appealing.
+* * confirm they are part of the standard API response
 * Several collaborative opportunities are evident in Canada.
 * * https://www.howtogeek.com/689097/how-to-get-latitude-and-longitude-coordinates-from-google-maps/
 * review: https://isomorphic-git.org/
