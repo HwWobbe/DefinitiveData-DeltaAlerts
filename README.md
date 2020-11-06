@@ -2,7 +2,7 @@
 
 #### Lede
 * PlusCodes are very appealing
-* * a rigorous relativeValue to competing solutions is be being proposed 
+* * a rigorous relativeValue to competing solutions is underway 
 * * * googleMaps ; TeraNet ; ESRI ; What#Words ; ...
 * * * pricing is obvious,y set to encourage small, speculative developments
 * * * * caching has a different meaning in this Price context
