@@ -4,7 +4,7 @@
 * PlusCodes are very appealing
 * * a rigorous relativeValue to competing solutions is underway 
 * * * googleMaps ; TeraNet ; ESRI ; What#Words ; ...
-* * * pricing is obvious,y set to encourage small, speculative developments
+* * * pricing is obviously set to encourage small, speculative developments
 * * * * caching has a different meaning in this Price context
 * * * * All is based on ApiKeys.
 * * The "off-line" and "open source" facets are quite appealing.
