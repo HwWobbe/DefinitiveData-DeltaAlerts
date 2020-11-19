@@ -2,6 +2,7 @@
 
 #### Lede
 * PlusCodes are very appealing
+* * Part of the appeal is that they can be a masterKey to a table of As=ddress Aliases
 * * a rigorous relativeValue to competing solutions is underway 
 * * * googleMaps ; TeraNet ; ESRI ; What#Words ; ...
 * * * pricing is obviously set to encourage small, speculative developments
