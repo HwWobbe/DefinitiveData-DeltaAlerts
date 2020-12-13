@@ -23,6 +23,7 @@
 * * the merge of CurbSide and TiddlyTables is spurring new NamesRules.
 * * expand the use of TiddlyTables
 * * set Report esthetics
+* planning to try the Discussions capability
 
 # Privacy & Technology
 
