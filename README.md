@@ -1,6 +1,7 @@
 # ① ...DeltaAlerts
 
 #### Lede
+* consider extending Joplin > Dropbox (with shared folders)
 * PlusCodes are very appealing
 * * Part of the appeal is that they can be a masterKey to a table of Address Aliases & other tables with an AddressKey
 * * a rigorous relativeValue to competing solutions is underway 
