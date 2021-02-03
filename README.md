@@ -4,6 +4,7 @@
 * potential ~rst collaboration 
 * * An effective approach to WBS ( WorkBreakdownSystem ) should maximize the value of our indivdual contributions.
 * * * 2021.02.01: Confirmed pre-existing CB code will be useful and is readily availabe.
+* * * * received code.  now to try an install.
 * PlusCodes can be use to effectively join many independent databases that have geographic component
 * * start to re-structure these notes so hat they are more efficient for each specific Audience
 * * use Diigo to create tightly focused contexts for this material
