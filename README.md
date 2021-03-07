@@ -1,7 +1,7 @@
 # ① ...DeltaAlerts
 
 #### Lede
-* potential ~rst collaboration 
+* The potential ~rst collaboration on Housing:
 * * An effective approach to WBS ( WorkBreakdownSystem ) should maximize the value of our indivdual contributions.
 * * * 2021.02.01: Confirmed pre-existing CB code will be useful and is readily availabe.
 * * * * 2021.02.03: received code.  Now to try an install.
