@@ -3,7 +3,7 @@
 #### Lede
 
 * CjvCollaboration:
-* * 2021.04.01: NodeJs idea? 
+* * 2021.04.01: Address fields review ; NodeJs idea? 
 * * 2021.03.15: startup
 * The potential ~rst collaboration on Housing:
 * * An effective approach to WBS ( WorkBreakdownSystem ) should maximize the value of our indivdual contributions.
