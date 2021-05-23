@@ -4,6 +4,7 @@
 
 * CjvCollaboration:
 * * 2021.05: DefData source(s) focus
+* * * 2021-05-21: AddressAlias(es) table is showing progress in a Google Docs environment.
 * * * 2021-05-19: ...
 * * 2021.04.01: Address fields review ; NodeJs idea? 
 * * 2021.03.15: startup
