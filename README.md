@@ -2,6 +2,8 @@
 
 #### Lede
 
+* re-assessing GitHub wikis
+* * https://github.com/HwWobbe/WipHww/wiki
 * CjvCollaboration:
 * * 2021.05: DefData source(s) focus
 * * * 2021-05-21: AddressAlias(es) table is showing progress in a Google Docs environment.
