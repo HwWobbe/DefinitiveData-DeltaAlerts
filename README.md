@@ -4,7 +4,7 @@
 
 * re-assessing GitHub wikis
 * * https://github.com/HwWobbe/WipHww/wiki
-* * * consider the promising Hypothesis interactions 
+* * * consider the very promising Hypothesis interactions 
 * CjvCollaboration:
 * * 2021.05: DefData source(s) focus
 * * * 2021-05-21: AddressAlias(es) table is showing progress in a Google Docs environment.
