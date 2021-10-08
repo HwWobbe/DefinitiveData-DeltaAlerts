@@ -2,6 +2,7 @@
 
 #### Lede
 
+* TiddlyHost now creates new wikis as V5.2.0
 * re-assessing GitHub wikis
 * * https://github.com/HwWobbe/WipHww/wiki
 * * * consider the very promising Hypothesis interactions 
