@@ -2,6 +2,8 @@
 
 #### Lede
 
+* It's more than time to re-focus this repository.
+* * this is an opportunity to generalize the "5 minute rule"
 * TiddlyHost now creates new wikis as V5.2.0
 * re-assessing GitHub wikis
 * * https://github.com/HwWobbe/WipHww/wiki
