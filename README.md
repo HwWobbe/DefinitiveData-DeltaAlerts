@@ -2,6 +2,7 @@
 
 #### Lede
 
+* 2021-12-2?: starting work on Privacy consideration for AddressManagement based on GeoCodes, particularly Open Source PlusCodes
 * 2021-12-18: hiHo, hiHo: ... it's back to work I go (if only for the imminent holidays)
 * It's more than time to re-focus this repository.
 * * this is an opportunity to generalize the "5 minute rule"
