@@ -3,6 +3,8 @@
 #### Lede
 
 * 2022-02-12: engaged in work-break-downs to distribute proposed solutions more widely
+* * Pob is P(lace) o(f) Birth which is expressed in many ways
+* * * Latitude + Longitude ; PlusCode (publicDomain encoding ) ; IATA code + vector ; Municipal Address ; postal Code ; WhatThreeWords (proprietary) ; ...
 * 2021-12-2?: starting work on legal aspects and considerations of Privacy for AddressManagement based on GeoCodes ...
 * * particularly Open Source PlusCodes
 * 2021-12-18: hiHo, hiHo: ... it's back to work I go (if only for the imminent holidays)
