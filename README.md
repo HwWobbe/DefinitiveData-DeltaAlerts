@@ -2,6 +2,7 @@
 
 #### Lede
 
+* 2022-03-20: Just a bit of progress tracking to let folks know things are progressing (all be it very slowly).
 * 2022-03-05: enhancing pull Requests
 * 2022-02-12: engaged in work-break-downs to distribute proposed solutions more widely
 * * Pob is P(lace) o(f) Birth which is expressed in many ways
