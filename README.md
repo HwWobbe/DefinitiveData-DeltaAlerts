@@ -2,7 +2,7 @@
 
 #### Lede
 
-* 2022-03-25: https://github.com/organizations/Data-Integrity-Group/repositories/new****
+* 2022-03-25: https://github.com/organizations/Data-Integrity-Group/repositories/new
 * 2022-03-20: Just a bit of progress tracking to let folks know things are progressing (all be it very slowly).
 * 2022-03-05: enhancing pull Requests
 * 2022-02-12: engaged in work-break-downs to distribute proposed solutions more widely
