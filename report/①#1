@@ -1,5 +1,13 @@
-rename this file, ideally using SymbolsH
-Populate this repo with Names that extend the Fy2018 Names work.
-add files to this folder
-
+* add files to this folder
+* rename this file, ideally using SymbolsH
+* Populate this repo with Names that extend the Fy2018 Names work.
+* there is an existing Conflict for Patch1 I should resolve
+* start designing a (virtual) DefinitiveData source
+* consider the 3 types of Eca information request responses
+* confirm the ability to rename this file, ideally using SymbolsH
+* a DynaList navigation aid may be useful
+* consider this file's nomenclature carefully and test it before expanding its use
+* Populate this repo with Names that extend the Fy2018 Names work.
+* confirm this file as a major workflow entry point.
+* convert this file to a *.md ??
 ^
