@@ -1,8 +1,7 @@
 # ① ...DeltaAlerts
 
 #### Lede
-
-* 2022-04-07: switch Master to Main ; Done: -05-01 
+* 2022-05-07: confirm: switched Master to Main ; Done: -05-01 
 * * found the Default control, but cannot rename to an already existing Name
 * 2022-03-25: https://github.com/organizations/Data-Integrity-Group/repositories/new
 * 2022-03-20: Just a bit of progress tracking to let folks know things are progressing (all be it very slowly).
