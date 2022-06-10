@@ -2,6 +2,7 @@
 
 #### Lede
 
+* 2022-06-10: gradual (post Election) resumption
 * 2022-04-07: switch Master to Main
 * 2022-03-25: https://github.com/organizations/Data-Integrity-Group/repositories/new
 * 2022-03-20: Just a bit of progress tracking to let folks know things are progressing (all be it very slowly).
