@@ -1,3 +1,5 @@
+# Starting to re-package this for ...Inititives
+
 # ① ...DeltaAlerts
 ## 2022-06-29: 'main' commit.
 * archiving of older material should be abe to proceed soon.
