@@ -1,4 +1,8 @@
-# Starting to re-package this for ...Inititives
+# 2022-08:
+* -08-09: ...
+
+## 2022-07-31:
+### Started to re-package this for ...Inititives.
 
 # ① ...DeltaAlerts
 ## 2022-06-29: 'main' commit.
