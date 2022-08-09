@@ -3,6 +3,8 @@
 The majority of the maintenance having been completed, it is finally time to restucture this material for a diverse set of Audiences.  Ideally, the use of a proper SVC will make this easy enough, so that it is possible to harvest some benefits from the infrastructure.
 
 ## 2022-08-2?: 
+#### Demonstrate the value of a modern Canadian Address Management infrastructure that can be use as a definitive reference for all possible Canadian Addresses.
+
 #### Drive Content creation v1a PullRequests.
 * ...
 
