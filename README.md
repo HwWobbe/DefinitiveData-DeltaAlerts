@@ -5,9 +5,14 @@ The majority of the maintenance having been completed, it is finally time to res
 ## 2022-08-2?: 
 #### Demonstrate the value of a modern Canadian Address Management infrastructure that can be use as a definitive reference for all possible Canadian Addresses.
 
-#### Drive Content creation via PullRequests.
+#####  DeltaAlerts
+DeltaAlerts are being built as an infrastructure based on https://maps.google.com/pluscodes/
+
 * Investigate the potetial interactions between pulic/private repos via PullRequests
 ** The end product will be OpenSource, but working teams are likely to need some private Comment areas.
+
+#### Drive Content creation via PullRequests.
+...
 
 ## 2022-07-31:
 ### Started to re-package this for ...Inititives.
