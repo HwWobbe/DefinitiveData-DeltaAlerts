@@ -1,6 +1,6 @@
 # 2022-08:
 ## -08-09: 
-* The majority of the maintenance having been completed, it is finally time to restucture this material for a diverse set of Audiences.  Ideally, the use of a proper SVC will make this easy enough, so that it is possible to harvest some benefits from the infrastructure.
+The majority of the maintenance having been completed, it is finally time to restucture this material for a diverse set of Audiences.  Ideally, the use of a proper SVC will make this easy enough, so that it is possible to harvest some benefits from the infrastructure.
 
 ## 2022-07-31:
 ### Started to re-package this for ...Inititives.
