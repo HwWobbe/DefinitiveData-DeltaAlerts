@@ -5,6 +5,8 @@ The majority of the maintenance having been completed, it is finally time to res
 Start by:
 * trying to pull a small update into this repo
 
+<hr>
+
 ## 2022-08-2?: 
 #### Demonstrate the value of a modern Canadian Address Management infrastructure that can be use as a definitive reference for all possible Canadian Addresses.
 
