@@ -1,6 +1,7 @@
 # 2022-08:
 ## -008-11:
 * Considering e-wallet collaborations for Identity apps that need better Address information.
+* * this may well fit into the proposed Voting Initiatives Laboratory infrastructure
 
 ## -08-09: 
 The majority of the maintenance having been completed, it is finally time to restucture this material for a diverse set of Audiences.  Ideally, the use of a proper SVC will make this easy enough, so that it is possible to harvest some benefits from the infrastructure.
