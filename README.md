@@ -1,5 +1,5 @@
 # 2022-08:
-## -008-11:
+## -08-11:
 * Considering e-wallet collaborations for Identity apps that need better Address information.
 * * this may well fit into the proposed Voting Initiatives Laboratory infrastructure
 * * * active discussions and deliberations are underway
