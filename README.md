@@ -1,6 +1,6 @@
 # 2022-08:
-## -08-13:
-* ...
+## -08-14:
+* Linking more possible collaborators in order to build out an Adress Management network that is interested in the DefData ("Definitieve Data") aspects of DataIntegrity and Election Integrity.
 
 ## -08-11:
 * Considering e-wallet collaborations for Identity apps that need better Address information.
