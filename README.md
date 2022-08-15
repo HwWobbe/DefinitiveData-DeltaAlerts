@@ -1,4 +1,7 @@
 # 2022-08:
+## -08-15:
+* Encouraging others to consider my interests in Identity Nanagement products
+
 ## -08-14:
 * Linking more possible collaborators in order to build out an Adress Management network that is interested in the DefData ("Definitieve Data") aspects of DataIntegrity and Election Integrity.
 * investigate: PRs as a Transclusion, more deeply since this is an obvious capability that should be in a SVC system
