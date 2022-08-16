@@ -1,6 +1,6 @@
 # 2022-08:
-## -08-15:
-* Encouraging others to consider my interests in Identity Nanagement products
+## -08-16: a BlownAway.ByTiddlyWiki ( BaByTw ) contest is an idea worth exploring.
+## -08-15: Encouraging others to consider my interests in Identity Management products
 
 ## -08-14:
 * Linking more possible collaborators in order to build out an Adress Management network that is interested in the DefData ("Definitieve Data") aspects of DataIntegrity and Election Integrity.
