@@ -1,4 +1,5 @@
 # 2022-08:
+## -08-20: checking the new TiddlyHub design
 ## -08-16: a BlownAway.ByTiddlyWiki ( BaByTw ) contest is an idea worth exploring.
 * one possible focus is a melding of AdManCa credibility ; Google's OpenSource PlusCodes, YOTI - Your Own Trusted Identity
 * -08-15: Encouraging others to consider my interests in Identity Management products
