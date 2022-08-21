@@ -1,3 +1,5 @@
+* spawn a portion of this README as a separate file in the AdManCa repos ; retrieve and incorporate via a PR.
+
 # 2022-08:
 ### -08-20: checking the new TiddlyHub design
 * This slight changing in the use of titles seems appealing.
