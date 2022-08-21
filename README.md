@@ -1,7 +1,7 @@
 # 2022-08:
 ### -08-20: checking the new TiddlyHub design
 * This slight changing in the use of titles seems appealing.
-** splash with an image in order to achieve PoTda
+* * splash with an image in order to achieve PoTda ( standardized from PoTd )EdD
 * The use of Hypothesis as a reminder/workflow systemn seems effect.
 * * Trying to annotate pages that need attention in a manner similar to that used at DebateGraph.
 * * * review DynaList too.
