@@ -8,6 +8,7 @@
 * * * * CASCADE logic rules
 ### -08-21.
 <hr>
+
 * The use of Hypothesis as a reminder/workflow systemn seems effective.
 * * this should still be drived by ( ControlPoint )TwH logic
 * * Trying to annotate pages that need attention in a manner similar to that used at DebateGraph.
