@@ -2,6 +2,10 @@
 ### -08-20: checking the new TiddlyHub design
 * This slight changing in the use of titles seems appealing.
 * * ( Splash with an image )SwAi? - in order to achieve PoTda ( standardized from PoTd )EdD
+* * * PoTda - P(icture) o(f the) Tda(y)
+* * * this type of pseudoCode is becoming more significant now that TW has:
+* * * * SPLIT okperators for improved parsing
+* * * * CASCADE logic rules
 * The use of Hypothesis as a reminder/workflow systemn seems effective.
 * * this should still be drived by ( ControlPoint )TwH logic
 * * Trying to annotate pages that need attention in a manner similar to that used at DebateGraph.
