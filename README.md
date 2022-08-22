@@ -1,4 +1,5 @@
 * spawn a portion of this README as a separate file in the AdManCa repos ; retrieve and incorporate via a PR.
+* * 08-22: a bit of a time delay has been imposed.
 
 # 2022-08:
 ### -08-20: checking the new TiddlyHub design
