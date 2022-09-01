@@ -1,3 +1,4 @@
+* consider building an Index page that linbks to appropriate sections of other GotHub file like this
 * spawn a portion of this README as a separate file in the AdManCa repos ; retrieve and incorporate via a PR.
 * * 08-22: a bit of a time crunch has been imposed, so daily Pulse comments may be reduced
 * * -08-24: still crunched for the rest of this week
