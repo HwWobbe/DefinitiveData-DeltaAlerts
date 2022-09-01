@@ -1,5 +1,6 @@
 * spawn a portion of this README as a separate file in the AdManCa repos ; retrieve and incorporate via a PR.
 * * -09-01: one way of determining any file size limitd that might apply is to simply start building larger consolidated files that can be accessed via the prioposed IndeX file
+* * * it may also be effective to pull the repo down to a desktop and review the files in that environment
 * * -08-22: a bit of a time crunch has been imposed, so daily Pulse comments may be reduced
 * * -08-24: still crunched for the rest of this week
 * * * -08-25: Copyrights & TradeMarks considerations may be needed, in spite of Open Source committments.
