@@ -3,6 +3,9 @@
 * * -08-24: still crunched for the rest of this week
 * * * -08-25: Copyrights & TradeMarks considerations may be needed, in spite of Open Source committments.
 
+# 2022-09:
+* -09-01: ...
+
 # 2022-08:
 ### -08-20: checking the new TiddlyHub design
 * This slight changing in the use of titles seems appealing.
