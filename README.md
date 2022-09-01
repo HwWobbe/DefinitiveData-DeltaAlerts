@@ -1,4 +1,3 @@
-* consider building an Index page that linbks to appropriate sections of other GotHub file like this
 * spawn a portion of this README as a separate file in the AdManCa repos ; retrieve and incorporate via a PR.
 * * 08-22: a bit of a time crunch has been imposed, so daily Pulse comments may be reduced
 * * -08-24: still crunched for the rest of this week
@@ -6,7 +5,8 @@
 
 # 2022-09:
 * -09-01: ...
-
+* * consider building an Index page that linbks to appropriate sections of other GotHub file like this
+* 
 # 2022-08:
 ### -08-20: checking the new TiddlyHub design
 * This slight changing in the use of titles seems appealing.
