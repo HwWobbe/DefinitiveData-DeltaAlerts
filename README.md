@@ -1,5 +1,5 @@
 * spawn a portion of this README as a separate file in the AdManCa repos ; retrieve and incorporate via a PR.
-* * 08-22: a bit of a time crunch has been imposed, so daily Pulse comments may be reduced
+* * -08-22: a bit of a time crunch has been imposed, so daily Pulse comments may be reduced
 * * -08-24: still crunched for the rest of this week
 * * * -08-25: Copyrights & TradeMarks considerations may be needed, in spite of Open Source committments.
 
