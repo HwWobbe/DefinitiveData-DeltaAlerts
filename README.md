@@ -1,3 +1,4 @@
+^ -09-05: testing the new uses of Slack
 * -09-03: started creating a Slack channel for the AdManCa Team(s)
 * * strive to link these as effectively as possible
 * * Notion may be an easier initiation path for less-technical collaborators
