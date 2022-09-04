@@ -1,5 +1,5 @@
 ## 2022-09-1?: Due times
-* Restrucure this material into effectve Summaries for each proposed group of participants 
+* Restructure this material into effectve Summaries for each proposed group of participants 
 * -09-09:
 * * -09-05: testing the new uses of Slack
 * * recommend AdManCa hire a couple of interns.
