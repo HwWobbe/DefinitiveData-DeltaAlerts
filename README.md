@@ -1,6 +1,9 @@
-* -09-05: testing the new uses of Slack
+## 2022-09-1?: to be done times
+* -09-09:
+* * -09-05: testing the new uses of Slack
 * * recommend AdManCa hire a couple of interns.
 * * * structure these evaluation jobs for junior or master levels.
+
 * spawn a portion of this README as a separate file in the AdManCa repos ; retrieve and incorporate via a PR.
 * * confirm or refute: a File is the elemental first-class unit of content for PRs.
 * * -09-01: one way of determining any file size limits that might apply is to simply start building larger consolidated files that can be accessed via the prioposed IndeX file
