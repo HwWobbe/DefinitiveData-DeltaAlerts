@@ -9,7 +9,7 @@
 * * * it may also be effective to pull the repo down to a desktop and review the files in that environment
 * * -08-25: Copyrights & TradeMarks considerations may be needed, in spite of Open Source committments.
 
-# 2022-09:
+# 2022-09: DoneTimes
 * -09-03: started creating a Slack channel for the AdManCa Team(s)
 * * strive to link these as effectively as possible
 * * Notion may be an easier initiation path for less-technical collaborators
