@@ -1,16 +1,13 @@
-## 2022-09-1?: to be done times
+## 2022-09-1?: Due times
 * -09-09:
 * * -09-05: testing the new uses of Slack
 * * recommend AdManCa hire a couple of interns.
 * * * structure these evaluation jobs for junior or master levels.
-
 * spawn a portion of this README as a separate file in the AdManCa repos ; retrieve and incorporate via a PR.
 * * confirm or refute: a File is the elemental first-class unit of content for PRs.
 * * -09-01: one way of determining any file size limits that might apply is to simply start building larger consolidated files that can be accessed via the prioposed IndeX file
 * * * it may also be effective to pull the repo down to a desktop and review the files in that environment
-* * -08-22: a bit of a time crunch has been imposed, so daily Pulse comments may be reduced
-* * -08-24: still crunched for the rest of this week
-* * * -08-25: Copyrights & TradeMarks considerations may be needed, in spite of Open Source committments.
+* * -08-25: Copyrights & TradeMarks considerations may be needed, in spite of Open Source committments.
 
 # 2022-09:
 * -09-03: started creating a Slack channel for the AdManCa Team(s)
@@ -22,6 +19,9 @@
 * * * a simpler Git page might be more accessible
 
 # 2022-08:
+* -08-22: a bit of a time crunch has been imposed, so daily Pulse comments may be reduced
+* -08-24: still crunched for the rest of this week
+
 ### -08-20: checking the new TiddlyHub design
 * This slight changing in the use of titles seems appealing.
 * * ( Splash with an image )SwAi? - in order to achieve PoTda ( standardized from PoTd )EdD
