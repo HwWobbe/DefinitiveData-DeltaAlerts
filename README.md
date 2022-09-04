@@ -1,7 +1,4 @@
 * -09-05: testing the new uses of Slack
-* -09-03: started creating a Slack channel for the AdManCa Team(s)
-* * strive to link these as effectively as possible
-* * Notion may be an easier initiation path for less-technical collaborators
 * spawn a portion of this README as a separate file in the AdManCa repos ; retrieve and incorporate via a PR.
 * * confirm or refute: a File is the elemental first-class unit of content for PRs.
 * * -09-01: one way of determining any file size limits that might apply is to simply start building larger consolidated files that can be accessed via the prioposed IndeX file
@@ -11,6 +8,10 @@
 * * * -08-25: Copyrights & TradeMarks considerations may be needed, in spite of Open Source committments.
 
 # 2022-09:
+* -09-03: started creating a Slack channel for the AdManCa Team(s)
+* * strive to link these as effectively as possible
+* * Notion may be an easier initiation path for less-technical collaborators
+
 * -09-01: ...
 * * consider building an Index page that links to appropriate sections of other GotHub file like this
 * * * a simpler Git page might be more accessible
