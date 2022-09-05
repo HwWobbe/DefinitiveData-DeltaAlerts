@@ -9,6 +9,7 @@
 * * * Summaries will then focus on the most Important
 * * * * greated use of MarkUp will also help in this effort to Focus 
 * * * * * as might more use of Color
+* * * * * and inline Links
 * -09-09:
 * * -09-05: testing the new uses of Slack
 * * recommend AdManCa hire a couple of interns.
