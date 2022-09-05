@@ -7,6 +7,7 @@
 * * * * * re-consider GitLab since Slack integration seems to be restricted to Organizations.
 * * Ideally, Slack will help Focus on the most Urgent collaborative activities
 * * * Summaries will then focus on the most Important
+* * * * greated use of MarkUp will also help in this effort to Focus (as might more use of Color)
 * -09-09:
 * * -09-05: testing the new uses of Slack
 * * recommend AdManCa hire a couple of interns.
