@@ -1,10 +1,11 @@
 ## 2022-09-1?: Due times
 * Restructure this material into effectve Summaries for each proposed group of participants 
 * * this will likely start with the development of a Slack based prototype
-* * * -09-05: boot-strappint is underway.
+* * * -09-05: boot-strapping is underway.
 * * * * it may be time to use Commits as Summary points rather than Activity points
 * * * * * review and revise the methodologies for localHost work
 * * * * * re-consider GitLab since Slack integration seems to be restricted to Organizations.
+* * Ideally, Slack will help Focus collaborative activities
 * -09-09:
 * * -09-05: testing the new uses of Slack
 * * recommend AdManCa hire a couple of interns.
