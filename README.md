@@ -1,5 +1,5 @@
 # 0.2 (emerging) Contents (via quickLinks)
-* ttps://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
+* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
 
 ## 2022-09-1?: Due times
 * Restructure this material into effectve Summaries for each proposed group of participants 
