@@ -3,7 +3,7 @@
 
 ## 2022-09-1?: Due times
 * Restructure this material into effectve Summaries for each proposed group of participants 
-* * this will likely start with the development of a Slack based prototype
+* * this will likely start with the development of a Slack messages prototype
 * * * -09-05: boot-strapping is underway.
 * * * * it may be time to use Commits as Summary points rather than Activity points
 * * * * * review and revise the methodologies for localHost work
