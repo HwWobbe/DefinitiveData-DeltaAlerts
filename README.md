@@ -3,8 +3,8 @@
 
 ## 2022-09-1?: Due times
 * Restructure this material into effectve Summaries for each proposed group of participants 
-* * There are prequisit activities:
-* * * ...
+* * There are prequisite activities:
+* * * Mehregan productivity is compelling attention
 * * this may be accelarated by the development of a Slack messages prototype
 * * * -09-05: boot-strapping is underway.
 * * * * it may be time to use Commits as Summary points rather than Activity points
