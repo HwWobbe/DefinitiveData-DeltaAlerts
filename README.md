@@ -4,19 +4,12 @@
 ## 2022-09-1?: Due times
 * Restructure this material into effectve Summaries for each proposed group of participants 
 * * There are prequisite activities:
-* * * Mehregan productivity is compelling attention
-* * * * This is likely to be a protracted adoption since it is still Version 0...
 * * this may be accelarated by the development of a Slack messages prototype
 * * * -09-05: boot-strapping is underway.
 * * * * it may be time to use Commits as Summary points rather than Activity points
 * * * * * review and revise the methodologies for localHost work
 * * * * * re-consider GitLab since Slack integration seems to be restricted to Organizations.
-* * Ideally, Slack will help Focus on the most Urgent collaborative activities
-* * * Summaries will then focus on the most Important
-* * * * greated use of MarkUp will also help in this effort to Focus 
-* * * * * as might more use of Color
-* * * * * and inline Links
-* -09-19: revview https://docs.github.com/en/pages
+* -09-19: review https://docs.github.com/en/pages
 * -09-09:
 * * -09-05: testing the new uses of Slack
 * * recommend AdManCa hire a couple of interns.
@@ -26,6 +19,20 @@
 * * -09-01: one way of determining any file size limits that might apply is to simply start building larger consolidated files that can be accessed via the prioposed IndeX file
 * * * it may also be effective to pull the repo down to a desktop and review the files in that environment
 * * -08-25: Copyrights & TradeMarks considerations may be needed, in spite of Open Source committments.
+
+
+# 2022-09: Topics:
+
+## Mehregan:
+* Mehregan productivity is compelling attention
+* * This is likely to be a protracted adoption since it is still Version 0...
+
+## Slack:
+* Ideally, Slack will help Focus on the most Urgent collaborative activities
+* * Summaries will then focus on the most Important
+* * * greated use of MarkUp will also help in this effort to Focus 
+* * * * as might more use of Color
+* * * * and inline Links
 
 # 2022-09: DoneTimes
 * -09-03: started creating a Slack channel for the AdManCa Team(s)
