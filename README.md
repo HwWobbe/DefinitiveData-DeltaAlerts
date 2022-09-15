@@ -2,7 +2,8 @@
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
 
 ## 2022-09-1?: Due times
-* Restructure this material into effectve Summaries for each proposed group of participants 
+* Restructure this material into effectve Summaries for each proposed group of participants.
+
 * -09-19: review https://docs.github.com/en/pages
 * -09-09:
 * * -09-05: testing the new uses of Slack
