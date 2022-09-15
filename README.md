@@ -3,12 +3,6 @@
 
 ## 2022-09-1?: Due times
 * Restructure this material into effectve Summaries for each proposed group of participants 
-* * There are prequisite activities:
-* * this may be accelarated by the development of a Slack messages prototype
-* * * -09-05: boot-strapping is underway.
-* * * * it may be time to use Commits as Summary points rather than Activity points
-* * * * * review and revise the methodologies for localHost work
-* * * * * re-consider GitLab since Slack integration seems to be restricted to Organizations.
 * -09-19: review https://docs.github.com/en/pages
 * -09-09:
 * * -09-05: testing the new uses of Slack
@@ -33,6 +27,12 @@
 * * * greated use of MarkUp will also help in this effort to Focus 
 * * * * as might more use of Color
 * * * * and inline Links
+* * There are prequisite activities:
+* * this may be accelarated by the development of a Slack messages prototype
+* * * -09-05: boot-strapping is underway.
+* * * * it may be time to use Commits as Summary points rather than Activity points
+* * * * * review and revise the methodologies for localHost work
+* * * * * re-consider GitLab since Slack integration seems to be restricted to Organizations.
 
 # 2022-09: DoneTimes
 * -09-03: started creating a Slack channel for the AdManCa Team(s)
