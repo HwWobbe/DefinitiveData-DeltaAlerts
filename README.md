@@ -7,6 +7,8 @@
 * Continue to restructure this material into Reports for each group of participants.
 * * add more Topics
 * * start to incorporate Anki
+* * * introduce Anki to aid occasional colaborators
+* * * * some Teams types may find this useful
 * -09-19: review https://docs.github.com/en/pages
 * * distinguish the uses of GISTS and Repois
 * -09-09:
