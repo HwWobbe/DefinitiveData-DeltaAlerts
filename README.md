@@ -23,6 +23,7 @@
 
 
 # 2022-09: Topics:
+* GISTS can be used to reduce Pulse noise caused by frequent updates
 
 ## Mehregan:
 * Mehregan productivity is compelling attention
