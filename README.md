@@ -4,7 +4,8 @@
 * shorten these 
 
 ## 2022-09-: Due times
-* Restructure this material into effectve Summaries for each proposed group of participants.
+* Continue to restructure this material into effectve Summaries for each proposed group of participants.
+* * add more Topics
 * -09-19: review https://docs.github.com/en/pages
 * * distinguish the uses of GISTS and Repois
 * -09-09:
