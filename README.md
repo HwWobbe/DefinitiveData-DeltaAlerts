@@ -6,6 +6,7 @@
 ## 2022-09-1?: Due times
 * Restructure this material into effectve Summaries for each proposed group of participants.
 * -09-19: review https://docs.github.com/en/pages
+* * distinguish the uses of GISTS and Repois
 * -09-09:
 * * -09-05: testing the new uses of Slack
 * * recommend AdManCa hire a couple of interns.
