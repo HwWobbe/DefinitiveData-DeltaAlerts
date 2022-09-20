@@ -4,7 +4,7 @@
 * shorten these 
 
 ## 2022-09-: Due times
-* Continue to restructure this material into Reports for each proposed group of participants.
+* Continue to restructure this material into Reports for each group of participants.
 * * add more Topics
 * * start to incorporate Anki
 * -09-19: review https://docs.github.com/en/pages
