@@ -39,7 +39,7 @@
 * * * * * review and revise the methodologies for localHost work
 * * * * * re-consider GitLab since Slack integration seems to be restricted to Organizations.
 
-# 2022-09: DoneTimes
+# 4. Introduction: > Background: > DoneTimes: 2022-09: ...
 * started adding Topics to these Notes
 * -09-03: started creating a Slack channel for the AdManCa Team(s)
 * * strive to link these as effectively as possible
