@@ -27,7 +27,7 @@
 ## Slack:
 * Ideally, Slack will help Focus on the most Urgent collaborative activities
 * * Summaries will then focus on the most Important
-* * * greated use of MarkUp will also help in this effort to Focus 
+* * * more MarkUp use will also help this Focus effort
 * * * * as might more use of Color
 * * * * and inline Links
 * * There are prequisite activities:
