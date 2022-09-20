@@ -38,6 +38,7 @@
 * * * * * re-consider GitLab since Slack integration seems to be restricted to Organizations.
 
 # 2022-09: DoneTimes
+* started adding Topics to these Notes
 * -09-03: started creating a Slack channel for the AdManCa Team(s)
 * * strive to link these as effectively as possible
 * * Notion may be an easier initiation path for less-technical collaborators
