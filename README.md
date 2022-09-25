@@ -4,6 +4,7 @@
 * shorten these 
 
 ## 2022-09-: Due times
+* -09-25: re-balancing 'Planning' and 'Doing', mindful of GTD
 * Continue to restructure this material into Reports for each group of participants.
 * * add more Topics
 * * start to incorporate Anki
