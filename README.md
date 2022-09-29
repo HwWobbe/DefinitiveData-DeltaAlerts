@@ -4,7 +4,7 @@
 * shorten these 
 
 ## 2022-09-: Due times
-* -09-29: unprecedented DbServerD recovered;  Distraction ends.
+* -09-29: unprecedented DbServerD recovered.  Distraction ends.
 * -09-25: re-balancing 'Planning' and 'Doing', mindful of GTD
 * * Considering the (less Pulse) use of GISTS
 * Continue to restructure this material into Reports for each group of participants.
