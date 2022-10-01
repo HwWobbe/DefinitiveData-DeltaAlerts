@@ -3,7 +3,9 @@
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
 * shorten these 
 
-## 2022-09-: Due times
+## 2022-10-: Due times
+
+## 2022-09-: Activities & Notes
 * -09-29: unprecedented DbServerD recovered.  Distraction ends.
 * -09-25: re-balancing 'Planning' and 'Doing', mindful of GTD
 * * Considering the (less Pulse) use of GISTS
