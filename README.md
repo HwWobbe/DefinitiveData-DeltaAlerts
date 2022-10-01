@@ -4,6 +4,7 @@
 * shorten these 
 
 ## 2022-10-: Due times
+* review -09- Notes
 
 ## 2022-09-: Activities & Notes
 * -09-29: unprecedented DbServerD recovered.  Distraction ends.
