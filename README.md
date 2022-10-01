@@ -4,6 +4,7 @@
 * shorten these 
 
 ## 2022-10-: Due times
+* -10-01: priority review(s)
 * review -09- Notes
 
 ## 2022-09-: Activities & Notes
