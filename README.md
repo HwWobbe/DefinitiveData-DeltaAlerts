@@ -4,7 +4,7 @@
 * shorten these 
 
 ## 2022-10-: Due times
-* -10-01: priority review(s)
+* -10-31: priority review(s)
 ### Slack:
 * review -09- Notes
 
