@@ -5,7 +5,12 @@
 
 ## 2022-10-: Due times
 * -10-01: priority review(s)
+### Slack:
 * review -09- Notes
+
+### Mehregan:
+* Mehregan productivity continues to  compel attention
+* * This is likely to be a protracted adoption since it is still Version 0...
 
 ## 2022-09-: Activities & Notes
 * -09-29: unprecedented DbServerD recovered.  Distraction ends.
@@ -29,12 +34,8 @@
 * * -08-25: Copyrights & TradeMarks considerations may be needed, in spite of Open Source committments.
 
 
-# 2022-09: Topics:
+# 2022-09: Topics: Conclusions:
 * GISTS can be used to reduce Pulse noise caused by frequent updates
-
-## Mehregan:
-* Mehregan productivity is compelling attention
-* * This is likely to be a protracted adoption since it is still Version 0...
 
 ## Slack:
 * Ideally, Slack will help Focus on the most Urgent collaborative activities
