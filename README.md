@@ -3,6 +3,9 @@
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
 * shorten these 
 
+## 2022-11-: Due times
+* ...
+
 ## 2022-10-: Due times
 * -10-31: priority review(s)
 ### Slack:
