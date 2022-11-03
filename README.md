@@ -4,7 +4,7 @@
 * shorten these 
 
 ## 2022-11-: Due times
-* ...
+* use PlusCodes in the current EonRh investigation
 
 ## 2022-10-: Due times
 * -10-31: priority review(s)
