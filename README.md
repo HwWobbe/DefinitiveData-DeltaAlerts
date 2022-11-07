@@ -1,5 +1,5 @@
 # 0.2 (emerging) Contents (via quickLinks)
-* Integrity may well be an effective Topic for Df Audiences.
+* Integrity is an effective Topic for Df Audiences.
 * * Expand the recent problem(s) to assess the extent of reactions
 * * * show how this is a key part of Modernization
 * shorten these: 
