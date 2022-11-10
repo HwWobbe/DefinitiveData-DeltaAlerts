@@ -1,7 +1,7 @@
 # 0.2 (emerging) Contents (via quickLinks)
 * Integrity is an effective Topic for Df Audiences.
 * * Expand the recent problem(s) to assess the extent of reactions
-* * * show how this is a key part of Modernization
+* * * show how Definitive Data is a key part of Modernization
 * shorten these: 
 * * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#slack
 * * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
