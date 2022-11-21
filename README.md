@@ -2,7 +2,7 @@
 * Integrity is an effective Topic for Df Audiences.
 * * Expand the recent problem(s) to assess the extent of reactions
 * * * show how Definitive Data is a key part of Modernization
-* Can common libraries be considered to be a type of DefData
+* Can common libraries be considered a type of DefData?
 * * ...
 * shorten these: 
 * * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#slack
