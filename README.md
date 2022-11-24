@@ -14,7 +14,7 @@
 * Black/White Hat duesl will persist, especially given the rates of Technological Changes
 * * Professional BlackHats are patient enough to nurture a seed attack
 * * * Penetration productivity suggests "low-hanging fruit" is more vulnerable
-
+* Discuss TwCommunity newco with Jr
 ## 2022-10-: Due times
 * -10-31: priority review(s)
 ### Slack:
