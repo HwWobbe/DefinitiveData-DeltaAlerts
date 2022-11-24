@@ -1,7 +1,7 @@
 # 0.2 (emerging) Contents (via quickLinks)
 * Integrity is an effective Topic for Df Audiences.
 * * Expand the recent problem(s) to assess the extent of reactions
-* * * show how Definitive Data is a key part of Modernization
+* * * show how Definitive Data ( DefData ) is a key part of Modernization
 * Can common libraries be considered a type of DefData?
 * * ...
 * shorten these: 
