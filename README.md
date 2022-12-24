@@ -9,6 +9,13 @@
 * * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#slack
 * * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
 
+## 2023-01:
+
+### Investigating TerNet data Quiality, Usefulness and Appeal:
+* Problems are increasingly apparent as:
+* * matching algorithms based on Municipal street address 
+* * incomplete coverage becomes more apparent from increased usage 
+* * reported errors are not remedied
 
 ## 2022-11-: Due times
 * use PlusCodes in the current EonRh investigation
