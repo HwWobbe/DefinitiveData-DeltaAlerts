@@ -11,11 +11,11 @@
 
 ## 2023-01:
 
-### Investigating TerNet data Quiality, Usefulness and Appeal:
+### Investigating Teranet (data) Quality, Usefulness and Appeal:
 * Problems are increasingly apparent as:
 * * matching algorithms based on Municipal street address 
 * * incomplete coverage becomes more apparent from increased usage 
-* * reported errors are not remedied
+* * reported errors (and whole classes of types of errors) are not remedied
 
 ## 2022-11-: Due times
 * use PlusCodes in the current EonRh investigation
