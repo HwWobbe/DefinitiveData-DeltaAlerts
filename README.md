@@ -17,6 +17,7 @@
 * * matching algorithms based on Municipal street address 
 * * incomplete coverage becomes more apparent from increased usage 
 * * reported errors (and whole classes of types of errors) are not remedied
+* Discuss Data Integration plans & API access possibilities
 
 ## 2022-11-: Due times
 * use PlusCodes in the current EonRh investigation
