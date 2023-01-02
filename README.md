@@ -3,6 +3,7 @@
 * * Expand the recent problem(s) to assess the extent of reactions
 * * * show how Definitive Data ( DefData ) is a key part of Modernization
 * Discuss TwCommunity newco with Jr
+* * discuss how to make this more attractive to other devs
 * Can common libraries be considered a type of DefData?
 * * ...
 * shorten these: 
