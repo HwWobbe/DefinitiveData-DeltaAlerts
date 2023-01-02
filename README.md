@@ -18,7 +18,8 @@
 * * incomplete coverage becomes more apparent from increased usage 
 * * reported errors (and whole classes of types of errors) are not remedied
 * Discuss Data Integration plans & API access possibilities
-
+* * perhaps this should have an initial scopre of Ontario.
+* * consider Flickr for global scope.
 ## 2022-11-: Due times
 * use PlusCodes in the current EonRh investigation
 * Black/White Hat duesl will persist, especially given the rates of Technological Changes
