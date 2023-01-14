@@ -4,6 +4,8 @@
 * * * show how Definitive Data ( DefData ) is a key part of Modernization
 * * * * test thia in the new blog
 * * how can AndreaJo aid in clarifying this?
+* * * Copy-writing
+* * * * team of LS LZ AnJo
 * * * opinion survey?
 * Discuss TwCommunity newco with Jr
 * * discuss how to make this more attractive to other devs
