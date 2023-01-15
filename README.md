@@ -10,7 +10,9 @@
 * Discuss TwCommunity newco with Jr
 * * discuss how to make this more attractive to other devs
 * Can common libraries be considered a type of DefData?
-* * ...
+* * ignoring the use of Execute... operators that are common in Interpretors as opposed to compilers
+* * * Data is generally considered to be "passive" and code is generally an "active" agent.
+* * * * IF: "Information is Data in Context", Then: plugins that alter the context are Active. 
 * shorten these: 
 * * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#slack
 * * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
