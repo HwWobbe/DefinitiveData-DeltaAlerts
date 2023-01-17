@@ -5,8 +5,8 @@
 * * * * test thia in the new blog
 * * how can AndreaJo aid in clarifying this?
 * * * Copy-writing
-* * * * team of LS LZ AnJo
-* * * opinion survey?
+* * * * team of LS LZ AnJo Kyle
+* * * opinion survey? 
 * Discuss TwCommunity newco with Jr
 * * discuss how to make this more attractive to other devs
 * Can common libraries be considered a type of DefData?
