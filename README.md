@@ -16,6 +16,7 @@
 * shorten these: 
 * * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#slack
 * * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
+* * ...
 
 ## 2023-01:
 
