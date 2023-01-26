@@ -1,8 +1,18 @@
+## 2023-01:
 # 0.2 (emerging) Contents (via quickLinks)
 * Can common libraries be considered a type of DefData?
 * * ignoring the use of Execute... operators that are common in Interpretors as opposed to compilers
 * * * Data is generally considered to be "passive" and code is generally an "active" agent.
 * * * * IF: "Information is Data in Context", Then: plugins that alter the context are Active. 
+
+* Discuss TwCommunity newco with Jr
+* * discuss how to make this more attractive to other devs
+* shorten these: 
+* * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#slack
+* * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
+* * ...
+
+## 2022-12:
 * Integrity is an effective Topic for Df Audiences.
 * * Expand the recent problem(s) to assess the extent of reactions
 * * * show how Definitive Data ( DefData ) is a key part of Modernization
@@ -11,14 +21,6 @@
 * * * Copy-writing
 * * * * team of LS LZ AnJo Kyle
 * * * opinion survey? 
-* Discuss TwCommunity newco with Jr
-* * discuss how to make this more attractive to other devs
-* shorten these: 
-* * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#slack
-* * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
-* * ...
-
-## 2023-01:
 
 ### Investigating Teranet (data) Quality, Usefulness and Appeal:
 * Problems are increasingly apparent as:
