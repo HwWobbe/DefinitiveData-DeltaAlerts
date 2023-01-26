@@ -1,5 +1,5 @@
 ## 2023-01:
-# 0.2 (emerging) Contents (via quickLinks)
+### 0.2 (emerging) Contents (via quickLinks)
 * Can common libraries be considered a type of DefData?
 * * ignoring the use of Execute... operators that are common in Interpretors as opposed to compilers
 * * * Data is generally considered to be "passive" and code is generally an "active" agent.
