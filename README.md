@@ -9,9 +9,11 @@
 * * * Data is generally considered to be "passive" and code is generally an "active" agent.
 * * * * IF: "Information is Data in Context", Then: plugins that alter the context are Active. 
 
-* Discuss TwCommunity newco with Jr
-* * discuss how to make this more attractive to other Devs
-* * * remember that Jr sees Devs as "all WikiText (users), but not programmers"
+* Discuss:
+* * edits at either Entry or Load time(s)
+* * TwCommunity newco with Jr
+* * * discuss how to make this more attractive to other Devs
+* * * * remember that Jr sees Devs as "all WikiText (users), but not programmers"
 * shorten these: 
 * * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#slack
 * * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#privacy--technology
