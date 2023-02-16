@@ -1,8 +1,8 @@
-㋁## 2023-02:
-...
+# ㋁## 2023-02:
 * consider expanding Sponsorships
+* ...
 
-㏠## 2023-01:
+## ㏠# 2023-01:
 ### 0.2 (emerging) Contents (via quickLinks)
 * Can common libraries be considered a type of DefData?
 * * (ignoring the use of Execute... operators that are common in Interpretors as opposed to compilers)
