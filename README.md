@@ -1,4 +1,5 @@
-# ㋁## 2023-02:
+## ㋁ 2023-02:
+* Data provioning will be delayed by a need to tweak Data acquisition.
 * consider expanding Sponsorships
 * ...
 
