@@ -1,5 +1,6 @@
 ## ㋁ 2023-02:
 * Data provioning will be delayed by a need to tweak Data acquisition.
+* * Address Accuracy processing will be incorporated to optimize Capture.
 * consider expanding Sponsorships
 * ...
 
