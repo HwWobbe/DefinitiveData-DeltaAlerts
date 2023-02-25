@@ -1,5 +1,9 @@
 ## ㋁ 2023-02:
-* Data provioning will be delayed by a need to tweak Data acquisition.
+* Data provisoning will be delayed by a need to tweak Data acquisition.
+* * -24: evident Preliminary improvements are sufficent to proceed.
+* * * TechTeams are converging on the use of GeoJson.
+* * * * review the goal of extending the use of Open Soource concepts.
+* * * * * discuss this with DanG.
 * * Address Accuracy processing will be incorporated to optimize Capture.
 * consider expanding Sponsorships
 * ...
