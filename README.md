@@ -1,8 +1,10 @@
 ## ㋂ 2023-03:
-* ...
+* Tweaking Data acquisition methodologies:
+* * starting with the vevelopment of a set of illustrative prototypes against Know values (as test cases)
+* * * ...
 
 ## ㋁ 2023-02:
-* Data provisoning will be delayed by a need to tweak Data acquisition.
+* Data provisoning will be delayed by a need to tweak Data acquisition methodologies
 * * -24: evident Preliminary improvements are sufficent to proceed.
 * * * TechTeams are converging on the use of GeoJson.
 * * * * review the goal of extending the use of Open Soource concepts.
