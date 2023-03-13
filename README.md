@@ -1,6 +1,7 @@
 ## ㋂ 2023-03:
 * Tweaking Data acquisition methodologies:
-* * starting with the vevelopment of a set of illustrative prototypes against Know values (as test cases)
+* * starting with the development of a set of illustrative prototypes against Know values (as test cases)
+* * explore the relative value of Xememex or De.Curbside
 * * * ...
 
 ## ㋁ 2023-02:
