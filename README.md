@@ -4,6 +4,7 @@
 * * consider this in a TftDf context
 * * explore the relative value of Xememex or a DataEntry.Curbside modification.
 * * * ...
+* agreed that it is best to re-schedule the Xememex Group resentation until early April.
 
 ## ㋁ 2023-02:
 * Data provisoning will be delayed by a need to tweak Data acquisition methodologies
