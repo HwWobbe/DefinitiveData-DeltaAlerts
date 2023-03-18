@@ -1,10 +1,11 @@
 ## ㋂ 2023-03:
 * Tweaking Data acquisition methodologies:
-* * starting with the development of a set of illustrative prototypes against Knowd values (as test cases)
+* * starting with the development of a set of illustrative prototypes against Known values (as test cases)
 * * consider this in a TftDf context
 * * explore the relative value of Xememex or a DataEntry.Curbside modification.
 * * * ...
-* agreed that it is best to re-schedule the Xememex Group resentation until early April.
+* agreed that it is best to re-schedule the Xememex Group presentation until early April.
+* * individual focused presentatio may be helpful
 
 ## ㋁ 2023-02:
 * Data provisoning will be delayed by a need to tweak Data acquisition methodologies
