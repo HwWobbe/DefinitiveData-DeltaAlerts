@@ -6,7 +6,7 @@
 * * * ...
 * agreed that it is best to re-schedule the Xememex Group presentation until early April.
 * * individual focused presentations may be helpful
-* * * * LzH ??
+* * * LzH ??
 
 ## ㋁ 2023-02:
 * Data provisoning will be delayed by a need to tweak Data acquisition methodologies
