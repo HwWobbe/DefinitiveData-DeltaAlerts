@@ -5,7 +5,7 @@
 * * explore the relative value of Xememex or a DataEntry.Curbside modification.
 * * * ...
 * agreed that it is best to re-schedule the Xememex Group presentation until early April.
-* * individual focused presentatio may be helpful
+* * individual focused presentations may be helpful
 * * * * LzH ??
 
 ## ㋁ 2023-02:
