@@ -9,6 +9,7 @@
 * * * LsH
 * * * LzH 
 * * * * review the shared work
+* ( .tn: record the lowest color breakPoint, .likely > 6 )
 
 ## ㋁ 2023-02:
 * Data provisoning will be delayed by a need to tweak Data acquisition methodologies
