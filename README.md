@@ -1,3 +1,10 @@
+## ㋂ 2023-04:
+... (replace the '㋂')
+* ...
+
+Done:
+* onserved that the Updates density is a relative effect.
+
 ## ㋂ 2023-03:
 * Tweaking Data acquisition methodologies:
 * * starting with the development of a set of illustrative prototypes against Known values (as test cases)
