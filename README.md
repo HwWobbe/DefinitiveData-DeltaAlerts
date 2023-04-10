@@ -5,6 +5,7 @@
 Done:
 * observed that the Updates density is a relative effect
 * * try to preserve the evidence of this. in spite of the adjustments caused by further Changes
+* * * proceding carefully ...
 
 ## ㋂ 2023-03:
 * Tweaking Data acquisition methodologies:
