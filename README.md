@@ -1,14 +1,16 @@
 ## 2023-06:
 
-## ㋃ 2023-04:
-... (replace the '㋂')
-* ㋄
+## ㋄ 2023-05:
+...
 
-Done:
+## ㋃ 2023-04:
+* ...\
+### Done:
 * observed that the Updates density is a relative effect
 * * try to preserve the evidence of this. in spite of the adjustments caused by further Changes
 * * * proceding carefully ...
 * * * * note the color differences bewteen April and March
+* 
 ## ㋂ 2023-03:
 * Tweaking Data acquisition methodologies:
 * * starting with the development of a set of illustrative prototypes against Known values (as test cases)
