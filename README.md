@@ -10,7 +10,8 @@
 * ...
 
 ## ㋃ 2023-04:
-* ...\
+* leap-frrog over the shared HelloWorld
+* ...
 
 ## ㋂ 2023-03:
 * Tweaking Data acquisition methodologies:
