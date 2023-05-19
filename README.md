@@ -3,7 +3,8 @@
 * ...
 
 ## ㋄ 2023-05:
-...
+* Craft a improved archive plan
+
 ### Done:
 * leap-frog over the shared HelloWorld
 * observed that the Updates density is a relative effect
