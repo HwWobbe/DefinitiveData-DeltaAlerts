@@ -1,7 +1,8 @@
-## 2023-06:
+## ㋅ 2023-06:
 ...
+
 * JigSayPuzzle 
-* * DevelopmentAssembly
+* * DevelopmentAssembly via Supreet
 
 ## ㋄ 2023-05:
 * Craft a improved archive plan
