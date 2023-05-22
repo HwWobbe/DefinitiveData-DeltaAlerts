@@ -6,6 +6,7 @@
 
 ## ㋄ 2023-05:
 * Craft a improved archive plan
+* * test the gitHub wikis via RstH
 
 ### Done:
 * leap-frog over the shared HelloWorld
