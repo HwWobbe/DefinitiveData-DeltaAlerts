@@ -1,7 +1,7 @@
 ## ㋅ 2023-06:
 ...
 
-* JigSayPuzzle 
+* JigSawPuzzle 
 * * DevelopmentAssembly via Supreet
 * * https://github.com/HwWobbe/WipHww/wiki
 
