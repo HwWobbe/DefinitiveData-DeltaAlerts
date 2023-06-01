@@ -1,5 +1,5 @@
 ## ㋅ 2023-06:
-...
+* 06-01: "Pulse" checkpoint
 
 * JigSawPuzzle 
 * * DevelopmentAssembly via Supreet
