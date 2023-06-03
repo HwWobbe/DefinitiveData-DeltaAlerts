@@ -6,7 +6,7 @@
 * * * stalled
 * * https://github.com/HwWobbe/WipHww/wiki
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋
-* 
+
 ## ㋄ 2023-05:
 * Craft a improved archive plan
 * * test the gitHub wikis via RstH
