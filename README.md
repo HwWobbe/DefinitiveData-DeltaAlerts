@@ -8,7 +8,7 @@
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋
 
 ## ㋄ 2023-05:
-* Craft a improved archive plan
+* Craft an improved archive plan
 * * test the gitHub wikis via RstH
 
 ### Done:
