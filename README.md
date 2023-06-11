@@ -1,3 +1,8 @@
+# ㋆ 2023-07:
+* consider Tw & MySql
+* http://www.i18nguy.com/index.html
+* * needs exploration annotations
+
 ## ㋅ 2023-06:
 * 06-01: "Pulse" checkpoint
 
