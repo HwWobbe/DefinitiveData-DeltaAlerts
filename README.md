@@ -7,6 +7,7 @@
 * 06-01: "Pulse" checkpoint
 
 * JigSawPuzzle 
+* * TwDev nascent community  test
 * * DevelopmentAssembly via Supreet
 * * * stalled
 * * https://github.com/HwWobbe/WipHww/wiki
