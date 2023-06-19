@@ -10,6 +10,8 @@
 * * ponder and extend the LsH views
   * * "movingParts"
     * note the autoIndent(s) by reviewing the position of this subString
+    * * investigate the use of Commnets
+      * where are they stored? ; Confirn .edit abilities. ; 
 * * TwDev nascent community  test
 * * DevelopmentAssembly via Supreet
 * * * stalled
