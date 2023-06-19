@@ -9,7 +9,7 @@
 * JigSawPuzzle
 * * ponder and extend the LsH views
   * * "movingParts"
-    * note the autoIndent(s)
+    * note the autoIndent(s) by reviewing the position of this subString
 * * TwDev nascent community  test
 * * DevelopmentAssembly via Supreet
 * * * stalled
