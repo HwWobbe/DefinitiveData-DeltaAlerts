@@ -6,7 +6,9 @@
 ## ㋅ 2023-06:
 * 06-01: "Pulse" checkpoint
 
-* JigSawPuzzle 
+* JigSawPuzzle
+* * ponder and extend the LsH views
+  * * "movingParts"
 * * TwDev nascent community  test
 * * DevelopmentAssembly via Supreet
 * * * stalled
