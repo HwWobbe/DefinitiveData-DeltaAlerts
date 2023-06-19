@@ -9,6 +9,7 @@
 * JigSawPuzzle
 * * ponder and extend the LsH views
   * * "movingParts"
+    * note the autoIndent(s)
 * * TwDev nascent community  test
 * * DevelopmentAssembly via Supreet
 * * * stalled
