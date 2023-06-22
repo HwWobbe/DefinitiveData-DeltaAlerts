@@ -7,6 +7,7 @@
 ## ㋅ 2023-06:
 * 06-01: "Pulse" checkpoint
 
+* review MarketingModules
 * JigSawPuzzle
 * * ponder and extend the LsH views
   * * "movingParts"
