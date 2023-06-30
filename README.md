@@ -1,5 +1,7 @@
 # ㋆ 2023-07:
 * consider Tw & MySql
+  * a solid business case is emerging
+    * ...
 * create a new Folder
 * http://www.i18nguy.com/index.html
 * * needs exploration annotations
