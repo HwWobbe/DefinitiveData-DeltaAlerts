@@ -1,7 +1,8 @@
 # ㋆ 2023-07:
 * consider Tw & MySql
-  * a solid business case is emerging
+  * a solid AdMan business case is emerging
     * Mover Certification + ...
+      * customized Data Augmentation via GeoSpatial sources
 * create a new Folder
 * http://www.i18nguy.com/index.html
 * * needs exploration annotations
