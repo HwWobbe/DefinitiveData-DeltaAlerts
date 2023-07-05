@@ -3,6 +3,8 @@
   * a solid AdMan business case is emerging
     * Mover Certification + ...
       * customized Data Augmentation via GeoSpatial sources
+    * Identity Device collaboration
+      * YOTI ElectOnApp augmentation
 * create a new Folder based solely on the Chat response (as a test of ChatGpt)
 * http://www.i18nguy.com/index.html
 * * needs exploration annotations
