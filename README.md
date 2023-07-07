@@ -7,8 +7,9 @@
       * YOTI ElectOnApp augmentation
         * this should be refactored to share the common text
 * create a new Folder based solely on the Chat response (as a test of ChatGpt)
+  * manual mintenance is useful 
 * http://www.i18nguy.com/index.html
-* * needs exploration annotations
+  * needs exploration annotations
 
 ## ㋅ 2023-06:
 * 06-01: "Pulse" checkpoint
