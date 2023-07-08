@@ -11,7 +11,7 @@
   * manual maintenance is useful 
 * http://www.i18nguy.com/index.html
   * needs exploration annotations
-
+* try to extend the strainghtSeven streak
 ## ㋅ 2023-06:
 * 06-01: "Pulse" checkpoint
 
