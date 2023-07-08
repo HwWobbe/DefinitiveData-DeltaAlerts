@@ -12,6 +12,7 @@
 * http://www.i18nguy.com/index.html
   * needs exploration annotations
 * try to extend the strainghtSeven streak
+* 26 /7 was noted and trigged a switch in uodates to this secondary Goals file
 ## ㋅ 2023-06:
 * 06-01: "Pulse" checkpoint
 
