@@ -1,6 +1,7 @@
 ## 2023 quickLinks
 ...
 * ...
+* ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋
 
 # ㋇ 2023-08:
 
@@ -34,7 +35,6 @@
 * * DevelopmentAssembly via Supreet
 * * * stalled
 * * https://github.com/HwWobbe/WipHww/wiki
-* ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋
 
 ## ㋄ 2023-05:
 * Craft an improved archive plan
