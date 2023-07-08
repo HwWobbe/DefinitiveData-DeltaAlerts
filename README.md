@@ -1,3 +1,5 @@
+# ㋇ 2023-08:
+
 # ㋆ 2023-07:
 * consider Tw & MySql
   * a solid AdMan business case is emerging
