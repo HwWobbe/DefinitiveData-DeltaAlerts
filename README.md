@@ -1,7 +1,7 @@
 ## 2023 quickLinks
 ...
 * ...
-* ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋
+* ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 # ㋇ 2023-08:
 
