@@ -6,6 +6,7 @@
 # ㋇ 2023-08:
 * engage more thru GitHub starting with the Real Estate schemas which I want to present as and Address Maintenance component
   * the clear indent should be to build towards MyData and use of the emerging government components 
+* relative coloring may appear to cause unexpected changes in the higher levels
 * track the evolution of the 4th repo
 
 # ㋆ 2023-07:
