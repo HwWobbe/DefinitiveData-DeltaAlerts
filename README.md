@@ -4,7 +4,9 @@
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 # ㋇ 2023-08:
-* start tracking a 4th repo
+* engage more thru GitHub starting with the Real Estate schemas which I want to present as and Address Maintenance component
+  * the clear indent should be to build towards MyData and use of the emerging government components 
+* track the evolution of the 4th repo
 
 # ㋆ 2023-07:
 * consider Tw & MySql
