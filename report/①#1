@@ -1,8 +1,9 @@
-* add files to this folder
+* start designing a (virtual) DefinitiveData source
+  * ...
+* add to this folder
 * rename this file, ideally using SymbolsH
 * Populate this repo with Names that extend the Fy2018 Names work.
 * there is an existing Conflict for Patch1 I should resolve
-* start designing a (virtual) DefinitiveData source
 * consider the 3 types of Eca information request responses
 * confirm the ability to rename this file, ideally using SymbolsH
 * a DynaList navigation aid may be useful
