@@ -10,6 +10,8 @@
 * track the evolution of the 4th repo
 
 # ㋆ 2023-07:
+* inform JrHw re FriDay as an "if possible" time.
+  * do this via a XmmxH post (even if that is sent via an email)
 * consider Tw & MySql
   * a solid AdMan business case is emerging
     * Mover Certification + ...
