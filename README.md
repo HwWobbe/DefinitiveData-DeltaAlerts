@@ -5,7 +5,7 @@
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 # ㋇ 2023-08:
-* engage more thru GitHub starting with the Real Estate schemas which I want to present as and Address Maintenance component
+* engage more thru GitHub starting with the Real Estate schemas which I want to present as an Address Maintenance component
   * the clear indent should be to build towards MyData and use of the emerging government components 
 * consider the extent to which GitHub may be useful in crafting content that is dewtined for TiddlyHost
 * relative coloring may appear to cause unexpected changes in the higher levels
