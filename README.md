@@ -24,6 +24,7 @@
         * this should be refactored to share the common text
 * create a new Folder based solely on the Chat response (as a test of ChatGpt)
   * find ChatGpt users on GitHub
+    * confirm that one of the versions can actively process GitHub activity
   * manual maintenance is useful 
 * http://www.i18nguy.com/index.html
   * needs exploration annotations
