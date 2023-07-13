@@ -1,6 +1,7 @@
 # ... Public
 ## 2023 quickLinks
 ...
+* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
 * remove content to /2022/...
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
