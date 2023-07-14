@@ -2,6 +2,8 @@
 ## 2023 quickLinks
 ...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
+* a leading .../.mo(nth) heading should be useful
+*   * this could expand to include all  of the timePeriods
 * remove content to /2022/...
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
