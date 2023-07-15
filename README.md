@@ -34,9 +34,10 @@
   * manual maintenance is useful 
 * http://www.i18nguy.com/index.html
   * needs exploration annotations
-* try to extend the strainghtSeven streak
+* extending the strainghtSeven streak
 * 26 /7 was noted and trigged a switch in updates to this secondary Goals file
   * edit will continue here to test the relative relationship with the third file
+ 
 ## ㋅ 2023-06:
 * 06-01: "Pulse" checkpoint
 
