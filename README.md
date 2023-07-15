@@ -4,6 +4,7 @@
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
 * Can Notion be more useful with the Marketing team?
   * discuss this with LzH
+    * then direct AJo
 * a leading .../.mo(nth) heading should be useful
 *   * this could expand to include all  of the timePeriods
 * remove content to /2022/...
