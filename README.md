@@ -5,7 +5,7 @@
 * Can Notion be more useful with the Marketing team?
   * discuss this with LzH
     * then direct AJo
-* try building as much as possible in XememexH - but "spit-balls belong in XmmXH
+* try building as much as possible in XememexH - but "spit-balls" belong in XmmXH
 * a leading .../.mo(nth) heading should be useful
 *   * this could expand to include all  of the timePeriods
 * remove content to /2022/...
