@@ -9,7 +9,8 @@
 * try building as much as possible in XememexH - but "spit-balls" belong in XmmXH
 * a leading .../.mo(nth) heading should be useful
 *   * this could expand to include all  of the timePeriods
-* remove Deferred content to a trailing SynbolsH page that can be reaced via quickLinks
+* remove Deferred content to a trailing SymbolsH page that can be reaced via quickLinks
+  * an alternatative could vbe to refert to just Numberic titles and allow
 * remove content to /2022/...
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
