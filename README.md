@@ -47,19 +47,7 @@
   * edit will continue here to test the relative relationship with the third file
  
 ## ㋅ 2023-06:
-* 06-01: "Pulse" checkpoint
-
-* review MarketingModules
-* JigSawPuzzle
-* * ponder and extend the LsH views
-  * * "movingParts"
-    * note the autoIndent(s) by reviewing the position of this subString
-    * * investigate the use of Commnets
-      * where are they stored? ; Confirn .edit abilities. ; 
-* * TwDev nascent community  test
-* * DevelopmentAssembly via Supreet
-* * * stalled
-* * https://github.com/HwWobbe/WipHww/wiki
+* ...
 
 ## ㋄ 2023-05:
 * Craft an improved archive plan
