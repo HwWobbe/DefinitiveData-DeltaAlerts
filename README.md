@@ -59,9 +59,6 @@
 * * * * note the color differences bewteen April and March
 * ...
 
-## ㋃ 2023-04:
-* ...
-
 ## ㋂ 2023-03:
 * Tweaking Data acquisition methodologies:
 * * starting with the development of a set of illustrative prototypes against Known values (as test cases)
