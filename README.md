@@ -21,7 +21,8 @@
 * relative coloring may appear to cause unexpected changes in the higher levels
 * track the evolution of the 4th repo
 * foreign travel preparations - that are likely to need two weeks late August or early Septemder
-* crafter a " DeferedForNow / DeferredUntil " page
+* try using DiigoH to "outline" the proposed trip
+* craft a " DeferedForNow / DeferredUntil " page
 
 # ㋆ 2023-07:
 * inform JrHw re FriDay as an "if possible" time.
