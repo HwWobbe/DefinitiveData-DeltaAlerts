@@ -10,7 +10,7 @@
 * a leading .../.mo(nth) heading should be useful
 *   * this could expand to include all  of the timePeriods
 * remove Deferred content to a trailing SymbolsH page that can be reaced via quickLinks
-  * an alternatative could vbe to refert to just Numberic titles 
+  * an alternatative could vbe to refert to just Numeric titles 
 * remove content to /2022/...
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
