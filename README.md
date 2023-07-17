@@ -19,9 +19,9 @@
 ### 2023
 #### -07-
 ##### -31
-
 ###### F.C.R.
 * confirm 6 headin levels
+####### a.m.
 * find the assigned SymbolsH instances
 
 # 2024:
