@@ -5,14 +5,23 @@
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
 * try building as much as possible in XememexH - but "spit-balls" belong in XmmXH
 * a leading .../.mo(nth) heading should be useful
-*   * this could expand to include all  of the timePeriods
+  * this could expand to include all  of the timePeriods
+    * try -08-
 * remove Deferred content to a trailing SymbolsH page that can be reaced via quickLinks
   * an alternatative could vbe to refert to just Numeric titles 
 * remove content to /2022/...
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
-##### F.C.R.
+### 2023
+#### -07-
+##### -31
+
+###### F.C.R.
+* confirm 6 headin levels
 * find the assigned SymbolsH instances
+
+# 2024:
+## 2024-12:
 
 # 2023-08:
 * Can Notion be more useful with the Marketing team?
