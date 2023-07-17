@@ -10,6 +10,9 @@
 * remove content to /2022/...
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
+##### F.C.R.
+* find the assigned SymbolsH instances
+
 # 2023-08:
 * Can Notion be more useful with the Marketing team?
   * discuss this with LzH
