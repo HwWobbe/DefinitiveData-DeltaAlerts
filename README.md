@@ -20,8 +20,9 @@
 #### -07-
 ##### -31
 ###### F.C.R.
-* confirm 6 headin levels
-####### a.m.
+* confirmed 6 heading levels
+####### level 7 is a FAIL
+
 * find the assigned SymbolsH instances
 
 # 2024:
