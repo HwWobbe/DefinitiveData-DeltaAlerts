@@ -12,10 +12,6 @@
 * remove content to /2022/...
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
-# 2047-09-12
-## 2029-12
-* remove higher levels to ...wip
-
 ### 2023
 #### -07-
 ##### -31
