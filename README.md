@@ -21,6 +21,7 @@
 ##### -31
 ###### F.C.R.
 * confirmed 6 heading levels
+
 ####### level 7 is a FAIL
 
 * find the assigned SymbolsH instances
