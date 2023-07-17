@@ -2,10 +2,6 @@
 ## 2023 quickLinks
 ...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
-* Can Notion be more useful with the Marketing team?
-  * discuss this with LzH
-    * then direct AJo
-    * test this technology with LsH too
 * try building as much as possible in XememexH - but "spit-balls" belong in XmmXH
 * a leading .../.mo(nth) heading should be useful
 *   * this could expand to include all  of the timePeriods
@@ -15,6 +11,10 @@
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 # 2023-08:
+* Can Notion be more useful with the Marketing team?
+  * discuss this with LzH
+    * then direct AJo
+    * test this technology with LsH too
 * engage more thru GitHub starting with the Real Estate schemas which I want to present as an Address Maintenance component
   * the clear intent should be to build towards MyData and use of the emerging government components 
 * consider the extent to which GitHub may be useful in crafting content that is dewtined for TiddlyHost
