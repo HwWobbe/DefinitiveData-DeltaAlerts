@@ -7,6 +7,7 @@
 * a leading .../.mo(nth) heading should be useful
   * this could expand to include all  of the timePeriods
     * try -08-
+  * try linking to a heading in one of the deeper files in this repo
 * remove Deferred content to a trailing SymbolsH page that can be reaced via quickLinks
   * an alternatative could vbe to refert to just Numeric titles 
 * remove content to /2022/...
