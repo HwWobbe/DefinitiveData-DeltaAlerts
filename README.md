@@ -11,7 +11,8 @@
 * remove Deferred content to a trailing SymbolsH page that can be reaced via quickLinks
   * an alternatative could vbe to refert to just Numeric titles 
 * remove content to /2022/...
-  * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/2023/2023.md
+  * FAIL: "not found"
+    * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/2023/2023.md
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 ### 2023
