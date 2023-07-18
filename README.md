@@ -10,9 +10,6 @@
   * try linking to a heading in one of the deeper files in this repo
 * remove Deferred content to a trailing SymbolsH page that can be reaced via quickLinks
   * an alternatative could vbe to refert to just Numeric titles 
-* remove content to /2022/...
-  * FAIL: "not found"
-    * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/2023/2023.md
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 ### 2023
@@ -40,6 +37,9 @@
 * track the evolution of the 4th repo
 * foreign travel preparations - that are likely to need two weeks late August or early Septemder
 * try using DiigoH to "outline" the proposed trip
+* remove content to /2022/...
+  * FAIL: "not found"
+    * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/2023/2023.md
 * craft a " DeferedForNow / DeferredUntil " page
 
 # ㋆ 2023-07:
