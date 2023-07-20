@@ -30,6 +30,7 @@
   * discuss this with LzH
     * then direct AJo
     * test this technology with LsH too
+* review the GitHub/ Packages / Docker material that can be accessed from the main Profile
 * engage more thru GitHub starting with the Real Estate schemas which I want to present as an Address Maintenance component
   * the clear intent should be to build towards MyData and use of the emerging government components 
 * consider the extent to which GitHub may be useful in crafting content that is dewtined for TiddlyHost
