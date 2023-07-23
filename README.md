@@ -70,15 +70,14 @@
  
 ## ㋄ 2023-05:
 * Craft an improved archive plan
-* * test the gitHub wikis via RstH
+  * test the gitHub wikis via RstH
 
 ### Done:
 * leap-frog over the shared HelloWorld
 * observed that the Updates density is a relative effect
-* * try to preserve the evidence of this. in spite of the adjustments caused by further Changes
-* * * proceding carefully ...
-* * * * note the color differences bewteen April and March
-* ...
+  * try to preserve the evidence of this. in spite of the adjustments caused by further Changes
+    * proceding carefully ...
+      * note the color differences bewteen April and March
 
 ## ㋂ 2023-03:
 * Tweaking Data acquisition methodologies:
