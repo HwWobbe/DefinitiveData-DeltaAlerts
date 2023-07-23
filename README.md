@@ -21,6 +21,8 @@
 ####### level 7 is a FAIL
 
 * find the assigned SymbolsH instances
+  * (Queue) .ye.m0.da
+    * ...
 
 # 2024:
 ## 2024-12:
