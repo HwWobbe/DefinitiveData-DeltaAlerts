@@ -1,6 +1,8 @@
 # ... Public
 ## 2023 quickLinks
 ...
+*  Suggest our "limited preferred scope" to Richard.
+  *  incorporate whatever presentation / leave/Behind material that can be crafted
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
 * try building as much as possible in XememexH - but "spit-balls" belong in XmmXH
