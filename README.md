@@ -43,8 +43,14 @@
 * review the GitHub/ Packages / Docker material that can be accessed from the main Profile
 * engage more thru GitHub starting with the Real Estate schemas which I want to present as an Address Maintenance component
   * the clear intent should be to build towards MyData and use of the emerging government components 
-* consider the extent to which GitHub may be useful in crafting content that is dewtined for TiddlyHost
+* consider the extent to which GitHub may be useful in crafting content that is destined for TiddlyHost
+  * try moving GitHub content into a DiigoH outliner
+    * this could make it easier to re-arrange to show the relative priorities
+    * furthermore, TransClusion van be used in TW environments to create more informative sub-contexts
+
 * relative coloring may appear to cause unexpected changes in the higher levels
+  * code mirror could be useful
+    * this may only be effective if non-code shemes cab implemented
 * track the evolution of the 4th repo
 * foreign travel preparations - that are likely to need two weeks late August or early Septemder
 * try using DiigoH to "outline" the proposed trip
