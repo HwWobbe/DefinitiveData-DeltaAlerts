@@ -4,6 +4,8 @@
 * Suggest our "limited preferred scope" to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
+* Define and Conduct some Code Reviews
+  * ...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * consider the relative merits of yet another TiddlyHost wiki
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
