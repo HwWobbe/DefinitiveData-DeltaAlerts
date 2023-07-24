@@ -85,15 +85,15 @@
 
 ## ㋂ 2023-03:
 * Tweaking Data acquisition methodologies:
-* * starting with the development of a set of illustrative prototypes against Known values (as test cases)
-* * consider this in a TftDf context
-* * explore the relative value of Xememex or a DataEntry.Curbside modification.
-* * * ...
+  * starting with the development of a set of illustrative prototypes against Known values (as test cases)
+  * consider this in a TftDf context
+  * explore the relative value of Xememex or a DataEntry.Curbside modification.
+    * ...
 * agreed that it is best to re-schedule the Xememex Group presentation until early April.
-* * individual focused presentations may be helpful
-* * * LsH
-* * * LzH 
-* * * * review the shared work
+  * individual focused presentations may be helpful
+    * LsH
+    * LzH 
+      * review the shared work
 * ( .tn: record the lowest color breakPoint, .likely > 6 .then. > 12 ... )
 
 ## ㋁ 2023-02:
