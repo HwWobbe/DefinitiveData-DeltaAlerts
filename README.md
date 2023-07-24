@@ -6,6 +6,7 @@
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
 * Define and Conduct some Code Reviews
   * ...
+* review https://tids-to-table.tiddlyhost.com/
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * consider the relative merits of yet another TiddlyHost wiki
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
