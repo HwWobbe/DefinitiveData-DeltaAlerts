@@ -29,6 +29,8 @@
 * find the assigned SymbolsH instances
   * (Queue) .ye.m0.da
     * ...
+* expand the existing explanations of Significance-Precision
+  * then start adding the .mi.ce.de.ye levels and their symbols
 
 # 2024:
 ## 2024-12:
