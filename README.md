@@ -5,6 +5,7 @@
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
+  * consider the relative merits of yet another TiddlyHost wiki
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
 * try building as much as possible in XememexH - but "spit-balls" belong in XmmXH
 * a leading .../.mo(nth) heading should be useful
