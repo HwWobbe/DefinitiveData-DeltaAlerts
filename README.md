@@ -36,7 +36,7 @@
 
 # 2024:
 ## 2024-12:
-
+### 2023.c(alendar) v. 2023.f(iscal)
 # 2023-08:
 * Can Notion be more useful with the Marketing team?
   * discuss this with LzH
