@@ -5,7 +5,7 @@
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
 * Define and Conduct some Code Reviews
-  * ...
+  * create more, meaningful Tags
 * review https://tids-to-table.tiddlyhost.com/
   * remove this block to ...wip...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
