@@ -4,6 +4,8 @@
 * Suggest our "limited preferred scope" (define this) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
+* review the creation of Issues
+ * ...
 * Define and Conduct some Code Reviews
   * ...
 * review https://tids-to-table.tiddlyhost.com/
