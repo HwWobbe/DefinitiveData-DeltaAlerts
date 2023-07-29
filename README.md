@@ -1,6 +1,8 @@
 # ... Public
 ## 2023 quickLinks
 ...
+* factor in Casey's interests
+  * ...
 * Suggest our "limited preferred scope" (define this) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
