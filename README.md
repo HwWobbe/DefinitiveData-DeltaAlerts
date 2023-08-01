@@ -17,6 +17,7 @@
   * this could expand to include all  of the timePeriods
     * try -08-
   * try linking to a heading in one of the deeper files in this repo
+    * confirm and then remove
 * remove Deferred content to a trailing SymbolsH page that can be reached via quickLinks
   * an alternatative could vbe to refert to just Numeric titles 
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
