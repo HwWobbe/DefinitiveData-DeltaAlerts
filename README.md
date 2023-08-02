@@ -3,6 +3,8 @@
 * Suggest our "limited preferred scope" (define this) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
+* ennhance the SoW methodology
+  * offer this to "unsolicited" requestors
 * review the creation of Issues
  * ...
 * Define and Conduct some Code Reviews
