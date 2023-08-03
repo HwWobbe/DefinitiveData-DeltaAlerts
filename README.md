@@ -37,6 +37,8 @@
   * then start adding the .mi.ce.de.ye levels and their symbols
 
 # 2024:
+* ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
+
 ## 2024-12:
 ### 2023.c(alendar) v. 2023.f(iscal)
 # 2023-08:
