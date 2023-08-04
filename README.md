@@ -17,9 +17,7 @@
 * a leading .../.mo(nth) heading should be useful
   * this could expand to include all  of the timePeriods
     * try -08-
-  * try linking to a heading in one of the deeper files in this repo
-    * confirm and then remove
-
+ 
 ### 2023
 #### -08-
 ...
@@ -29,6 +27,8 @@
   * an alternatative could be to refert to just Numeric titles 
 * start identify more Issues only as the emerge.
   * this needs to be added to the formal EdD notes to reinforce Methodology
+  * Confirm links to headings in deeper files in this (and other) repos.  Then remove.
+    * improve use of Breadth
 
 ##### -31
 
