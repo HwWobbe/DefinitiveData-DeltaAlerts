@@ -40,7 +40,7 @@
 ####### level 7 is a FAIL
 
 * find the assigned SymbolsH instances
-  * (Queue) .ye.m0.da
+  * (Queue) .ye.mo.da .ye.qu
     * ...
 * expand the existing explanations of Significance-Precision
   * then start adding the .mi.ce.de.ye levels and their symbols
