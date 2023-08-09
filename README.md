@@ -2,13 +2,14 @@
 ## 2023 quickLinks
 * Suggest our "limited preferred scope" (define this) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
+    * review draft #1
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
 * ennhance the SoW methodology
   * offer this to "unsolicited" requestors
-* review the creation of Issues
- * ...
 * Define and Conduct some Code Reviews
   * ...
+* review and extend the creation of Issues
+
 * review https://tids-to-table.tiddlyhost.com/
   * remove this block to ...wip...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
@@ -18,13 +19,21 @@
 * a leading .../.mo(nth) heading should be useful
   * this could expand to include all  of the timePeriods
     * try -08-
-  * try linking to a heading in one of the deeper files in this repo
-    * confirm and then remove
-* remove Deferred content to a trailing SymbolsH page that can be reached via quickLinks
-  * an alternatative could vbe to refert to just Numeric titles 
-* ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
-
+ 
 ### 2023
+#### -08-
+...
+* attatch a file to a PR and then see if that acts like a TransClusion
+  * now
+* remove Deferred content to a trailing SymbolsH page that can be reached via quickLinks
+  * an alternatative could be to refert to just Numeric titles 
+* start identify more Issues only as the emerge.
+  * this needs to be added to the formal EdD notes to reinforce Methodology
+  * Confirm links to headings in deeper files in this (and other) repos.  Then remove.
+    * improve use of Breadth
+
+##### -31
+
 #### -07-
 ##### -31
 ###### F.C.R.
@@ -39,6 +48,8 @@
   * then start adding the .mi.ce.de.ye levels and their symbols
 
 # 2024:
+* ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
+
 ## 2024-12:
 ### 2023.c(alendar) v. 2023.f(iscal)
 # 2023-08:
