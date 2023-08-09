@@ -4,10 +4,12 @@
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * review draft #1
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
-     * 
+* ennhance the SoW methodology
+  * offer this to "unsolicited" requestors
+* Define and Conduct some Code Reviews
+  * ...
 * review and extend the creation of Issues
-  * Define and Conduct some Code Reviews
-    * ...
+
 * review https://tids-to-table.tiddlyhost.com/
   * remove this block to ...wip...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
