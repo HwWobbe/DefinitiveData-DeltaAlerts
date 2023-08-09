@@ -9,7 +9,9 @@
 * Define and Conduct some Code Reviews
   * ...
 * review and extend the creation of Issues
-
+  * Define and Conduct some Code Reviews
+* make this available throughout DataFix, after a GsdT review
+  * run this by DelDf first
 * review https://tids-to-table.tiddlyhost.com/
   * remove this block to ...wip...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
