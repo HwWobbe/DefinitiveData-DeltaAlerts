@@ -12,6 +12,7 @@
 * Define and Conduct some Code Reviews
   * ...
 * review and extend the creation of Issues
+  * ...
 * make this available throughout DataFix, after a GsdT review
   * run this by DelDf first
 * review https://tids-to-table.tiddlyhost.com/
