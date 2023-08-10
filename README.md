@@ -7,7 +7,7 @@
         * send V1.0.2 to Richard
         * ask about Ernest
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
-* ennhance the SoW methodology
+* enhance the SoW methodology
   * offer this to "unsolicited" requestors
 * Define and Conduct some Code Reviews
   * ...
