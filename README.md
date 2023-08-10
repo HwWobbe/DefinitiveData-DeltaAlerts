@@ -9,7 +9,6 @@
 * Define and Conduct some Code Reviews
   * ...
 * review and extend the creation of Issues
-  * Define and Conduct some Code Reviews
 * make this available throughout DataFix, after a GsdT review
   * run this by DelDf first
 * review https://tids-to-table.tiddlyhost.com/
@@ -61,6 +60,8 @@
     * test this technology with LsH too
 * review the GitHub/ Packages / Docker material that can be accessed from the main Profile
 * * csyW activities might be interTwingled
+* review https://tids-to-table.tiddlyhost.com/
+  * remove this block to ...wip...
 * engage more thru GitHub starting with the Real Estate schemas which I want to present as an Address Maintenance component
   * the clear intent should be to build towards MyData and use of the emerging government components 
 * consider the extent to which GitHub may be useful in crafting content that is destined for TiddlyHost
