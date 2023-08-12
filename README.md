@@ -11,8 +11,6 @@
   * offer this to "unsolicited" requestors
 * Define and Conduct some Code Reviews
   * ...
-* review and extend the creation of Issues
-  * ...
 * make this available throughout DataFix, after a GsdT review
   * run this by DelDf first
 * review https://tids-to-table.tiddlyhost.com/
@@ -32,10 +30,12 @@
   * now
 * remove Deferred content to a trailing SymbolsH page that can be reached via quickLinks
   * an alternatative could be to refert to just Numeric titles 
-* start identify more Issues only as the emerge.
+* start to identify more Issues only as the emerge.
   * this needs to be added to the formal EdD notes to reinforce Methodology
   * Confirm links to headings in deeper files in this (and other) repos.  Then remove.
     * improve use of Breadth
+* review and extend the creation of Issues
+  * ...
 
 ##### -31
 
