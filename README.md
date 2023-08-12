@@ -1,5 +1,7 @@
 # ... Public
 ## 2023 quickLinks
+* identify common components for JrH Casey & Richard
+  * the GeoSpatial components are good candidates
 * Suggest our "limited preferred scope" (define this) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * review draft #1
