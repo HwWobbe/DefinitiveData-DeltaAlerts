@@ -6,6 +6,8 @@
       * is this summarized as effectively as possible
         * send V1.0.2 to Richard
         * ask about Ernest
+          * proposal writing - idf a contractor - perhaps unsolicited
+            * confirm Gsd aggres since he may leak to smartmatic
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
 * enhance the SoW methodology
   * offer this to "unsolicited" requestors
