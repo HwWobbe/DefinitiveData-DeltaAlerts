@@ -1,6 +1,31 @@
 # ... Public
 ## 2023 quickLinks
-* Suggest our "limited preferred scope" (define this) to Richard.
+* review https://tids-to-table.tiddlyhost.com/
+  * remove this block to ...wip...
+* enhance the SoW methodology
+  * offer this RFP service to "unsolicited" requestors
+* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
+  * consider the relative merits of yet another TiddlyHost wiki
+* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
+* try building as much as possible in XememexH - but "spit-balls" belong in XmmXH
+
+### 2023
+* ...
+* make the SoW.HotTo available throughout DataFix, after a GsdT review
+  * run this by DelDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
+    * Devs should share "onBoarding" tasks
+* Define and Conduct some Code Reviews
+  * ...
+
+#### -08-
+...
+
+* AssertiveWIFM additions for RichardC
+  * ...
+* attatch a file to a PR and then see if that acts like a TransClusion
+  * now
+
+* Suggest our "limited preferred scope" (Movers Maintenance) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * review draft #1
       * is this summarized as effectively as possible
@@ -9,27 +34,11 @@
           * proposal writing - idf a contractor - perhaps unsolicited
             * confirm Gsd aggres since he may leak to smartmatic
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
-* enhance the SoW methodology
-  * offer this to "unsolicited" requestors
-* Define and Conduct some Code Reviews
-  * ...
-* make this available throughout DataFix, after a GsdT review
-  * run this by DelDf first
-* review https://tids-to-table.tiddlyhost.com/
-  * remove this block to ...wip...
-* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
-  * consider the relative merits of yet another TiddlyHost wiki
-* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
-* try building as much as possible in XememexH - but "spit-balls" belong in XmmXH
-* a leading .../.mo(nth) heading should be useful
-  * this could expand to include all  of the timePeriods
-    * try -08-
- 
-### 2023
-#### -08-
-...
-* attatch a file to a PR and then see if that acts like a TransClusion
-  * now
+
+##### -08-/GitHub
+* review and extend the creation of Issues
+  * Define and Conduct some Code Reviews
+    * ...
 * remove Deferred content to a trailing SymbolsH page that can be reached via quickLinks
   * an alternatative could be to refert to just Numeric titles 
 * start to identify more Issues only as the emerge.
@@ -39,13 +48,14 @@
 * review and extend the creation of Issues
   * ...
 
-##### -31
+* a leading .../.mo(nth) heading should be useful
+  * this could expand to include all  of the timePeriods
+    * try -08-
 
 #### -07-
-##### -31
+##### -07-31
 ###### F.C.R.
 * confirmed 6 heading levels
-
 ####### level 7 is a FAIL
 
 * find the assigned SymbolsH instances
