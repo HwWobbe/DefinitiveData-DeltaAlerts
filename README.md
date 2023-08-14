@@ -22,8 +22,6 @@
 
 * AssertiveWIFM additions for RichardC
   * ...
-* attatch a file to a PR and then see if that acts like a TransClusion
-  * now
 
 * Suggest our "limited preferred scope" (Movers Maintenance) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
