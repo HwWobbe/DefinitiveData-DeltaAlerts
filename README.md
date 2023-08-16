@@ -1,9 +1,9 @@
 # ... Public
 ## 2023 quickLinks
-* review https://tids-to-table.tiddlyhost.com/
-  * remove this block to ...wip...
 * enhance the SoW methodology
   * offer this RFP service to "unsolicited" requestors
+* review https://tids-to-table.tiddlyhost.com/
+  * remove this block to ...wip...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * consider the relative merits of yet another TiddlyHost wiki
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
