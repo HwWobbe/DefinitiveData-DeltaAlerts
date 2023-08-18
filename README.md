@@ -1,7 +1,7 @@
 # ... Public
 ## 2023 quickLinks
 * enhance the SoW methodology
-  * offer this RFP service to "unsolicited" requestors
+  * offer this RFP service to "unsolicited" (work?) requestors
 * review https://tids-to-table.tiddlyhost.com/
   * remove this block to ...wip...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
