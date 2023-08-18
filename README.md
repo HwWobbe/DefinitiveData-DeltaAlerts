@@ -7,8 +7,26 @@
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * consider the relative merits of yet another TiddlyHost wiki
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
-* try building as much as possible in XememexH - but "spit-balls" belong in XmmXH
-
+* Architectural issues need consideration as part of a 20th anniversary splash in 2024-09
+  * consider:
+    * https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry
+    * XmmxH & CurbSide
+    * data portability as well as code portability
+    * server-side server-less confirgurations
+      * automation for ease of configuration
+  * focus on GeoSpatial applications
+    * LaLoAl in particular
+      * Pob + TiB
+* try building as much as possible in XememexH - but "spit-balls" belong in XmmXH (public/private)
+* start documenting Docker considerations
+  * link this to CoOp recruitment
+    * build Staff Expertise retention > Ownership paths
+* test a port of this material into:
+  * GitHub wikis (WikiPedia syntax)
+  * TwH repositories
+* try making this block of text into a separate file
+  * (auto)merge when possible
+ 
 ### 2023
 * ...
 * make the SoW.HotTo available throughout DataFix, after a GsdT review
