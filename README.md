@@ -37,6 +37,7 @@
 * review and extend the creation of Issues
   * Define and Conduct some Code Reviews
     * ...
+    * level-up Data-Integrity
 * remove Deferred content to a trailing SymbolsH page that can be reached via quickLinks
   * an alternatative could be to refert to just Numeric titles 
 * start to identify more Issues only as the emerge.
