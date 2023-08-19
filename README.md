@@ -5,7 +5,9 @@
 * review https://tids-to-table.tiddlyhost.com/
   * remove this block to ...wip...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
-  * consider the relative merits of yet another TiddlyHost wiki
+  * review the server offer
+    * ...
+    * then: consider the relative merits of yet another TiddlyHost wiki
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
 * Architectural issues need consideration as part of a 20th anniversary splash in 2024-09
   * consider:
