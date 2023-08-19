@@ -6,7 +6,8 @@
   * remove this block to ...wip...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * review the server offer
-    * ...
+    * do this as quickly as possible to gain architectural insights
+      * produce a merged document from working with JrH
     * then: consider the relative merits of yet another TiddlyHost wiki
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
 * Architectural issues need consideration as part of a 20th anniversary splash in 2024-09
