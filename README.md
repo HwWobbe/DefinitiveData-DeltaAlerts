@@ -2,6 +2,10 @@
 ## 2023 quickLinks
 * enhance the SoW methodology
   * offer this RFP service to "unsolicited" (work?) requestors
+    * A shared Public repo would be useful, but may not be optimal
+      * it should be possible to craft a more effective Build/Merge provcess
+        * HowTo:Conditionally merge Files
+          * this may be best in TwH
 * review https://tids-to-table.tiddlyhost.com/
   * remove this block to ...wip...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
