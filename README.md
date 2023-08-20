@@ -1,5 +1,12 @@
 # ... Public
 ## 2023 quickLinks
+
+* this "Conflict" seems to be between two different Files
+  * consider how to best resolve it
+    * a CutAndPaste of the entire conflict section should mitigate loss
+      * this would allow "mark as resolved" and Save
+    * prinouts might be helpful
+      * schedule via a "print" tag.
 * review https://tids-to-table.tiddlyhost.com/
   * remove this block to ...wip...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
