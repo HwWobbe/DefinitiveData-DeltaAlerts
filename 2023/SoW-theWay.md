@@ -5,3 +5,4 @@
       * it should be possible to craft a more effective Build/Merge provcess
         * HowTo:Conditionally merge Files
           * this may be best in TwH
+* confirm that the most recent update is readily apparent.
