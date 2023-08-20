@@ -1,51 +1,86 @@
 # ... Public
 ## 2023 quickLinks
-* identify common components for JrH Casey & Richard
-  * the GeoSpatial components are good candidates
-* Suggest our "limited preferred scope" (define this) to Richard.
+
+* this "Conflict" seems to be between two different Files
+  * consider how to best resolve it
+    * a CutAndPaste of the entire conflict section should mitigate loss
+      * this would allow "mark as resolved" and Save
+    * prinouts might be helpful
+      * schedule via a "print" tag.
+* review https://tids-to-table.tiddlyhost.com/
+  * remove this block to ...wip...
+* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
+  * review the server offer
+    * do this as quickly as possible to gain architectural insights
+      * produce a merged document from working with JrH
+    * then: consider the relative merits of yet another TiddlyHost wiki
+* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
+* Architectural issues need consideration as part of a 20th anniversary splash in 2024-09
+  * consider:
+    * https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry
+    * XmmxH & CurbSide
+    * data portability as well as code portability
+    * server-side server-less confirgurations
+      * automation for ease of configuration
+  * focus on GeoSpatial applications
+    * LaLoAl in particular
+      * Pob + TiB
+* try building as much as possible in XememexH - but "spit-balls" belong in XmmXH (public/private)
+* start documenting Docker considerations
+  * link this to CoOp recruitment
+    * build Staff Expertise retention > Ownership paths
+* test a port of this material into:
+  * GitHub wikis (WikiPedia syntax)
+  * TwH repositories
+* try making this block of text into a separate file
+  * (auto)merge when possible
+ 
+### 2023
+* ...
+* make the SoW.HotTo available throughout DataFix, after a GsdT review
+  * run this by DelDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
+    * Devs should share "onBoarding" tasks
+* Define and Conduct some Code Reviews
+  * ...
+
+#### -08-
+...
+
+* AssertiveWIFM additions for RichardC
+  * ...
+
+* Suggest our "limited preferred scope" (Movers Maintenance) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * review draft #1
       * is this summarized as effectively as possible
         * send V1.0.2 to Richard
         * ask about Ernest
+          * proposal writing - idf a contractor - perhaps unsolicited
+            * confirm Gsd aggres since he may leak to smartmatic
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
-* enhance the SoW methodology
-  * offer this to "unsolicited" requestors
-* Define and Conduct some Code Reviews
-  * ...
+
+##### -08-/GitHub
 * review and extend the creation of Issues
-  * ...
-* make this available throughout DataFix, after a GsdT review
-  * run this by DelDf first
-* review https://tids-to-table.tiddlyhost.com/
-  * remove this block to ...wip...
-* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
-  * consider the relative merits of yet another TiddlyHost wiki
-* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
-* try building as much as possible in XememexH - but "spit-balls" belong in XmmXH
-* a leading .../.mo(nth) heading should be useful
-  * this could expand to include all  of the timePeriods
-    * try -08-
- 
-### 2023
-#### -08-
-...
-* attatch a file to a PR and then see if that acts like a TransClusion
-  * now
+  * Define and Conduct some Code Reviews
+    * ...
+    * level-up Data-Integrity
 * remove Deferred content to a trailing SymbolsH page that can be reached via quickLinks
   * an alternatative could be to refert to just Numeric titles 
-* start identify more Issues only as the emerge.
+* start to identify more Issues only as the emerge.
   * this needs to be added to the formal EdD notes to reinforce Methodology
   * Confirm links to headings in deeper files in this (and other) repos.  Then remove.
     * improve use of Breadth
+* review and extend the creation of Issues
+  * ...
 
-##### -31
+* a leading .../.mo(nth) heading should be useful
+  * this could expand to include all  of the timePeriods
+    * try -08-
 
 #### -07-
-##### -31
+##### -07-31
 ###### F.C.R.
 * confirmed 6 heading levels
-
 ####### level 7 is a FAIL
 
 * find the assigned SymbolsH instances
