@@ -1,7 +1,5 @@
 # ... Public
 ## 2023 quickLinks
-* review https://tids-to-table.tiddlyhost.com/
-  * remove this block to ...wip...
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * review the server offer
     * do this as quickly as possible to gain architectural insights
@@ -22,6 +20,8 @@
 #### -09-
 * AssertiveWIFM additions for RichardC
   * ...
+* review https://tids-to-table.tiddlyhost.com/
+  * remove this block to ...wip...
 * Suggest our "limited preferred scope" (Movers Maintenance) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * review draft #1
