@@ -8,23 +8,6 @@
       * produce a merged document from working with JrH
     * then: consider the relative merits of yet another TiddlyHost wiki
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
-* Architectural issues need consideration as part of a 20th anniversary splash in 2024-09
-  * consider:
-    * https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry
-    * XmmxH & CurbSide
-    * data portability as well as code portability
-    * server-side server-less confirgurations
-      * automation for ease of configuration
-  * focus on GeoSpatial applications
-    * LaLoAl in particular
-      * Pob + TiB
-* try building as much as possible in XememexH - but "spit-balls" belong in XmmXH (public/private)
-* start documenting Docker considerations
-  * link this to CoOp recruitment
-    * build Staff Expertise retention > Ownership paths
-* test a port of this material into:
-  * GitHub wikis (WikiPedia syntax)
-  * TwH repositories
 * try making this block of text into a separate file
   * (auto)merge when possible
  
@@ -36,12 +19,9 @@
 * Define and Conduct some Code Reviews
   * ...
 
-#### -08-
-...
-
+#### -09-
 * AssertiveWIFM additions for RichardC
   * ...
-
 * Suggest our "limited preferred scope" (Movers Maintenance) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * review draft #1
@@ -52,11 +32,37 @@
             * confirm Gsd aggres since he may leak to smartmatic
     * distribute this to at least Andrea and perhaps Ls, but not necessarily Lz at this time
 
+* start documenting Docker considerations
+  * link this to CoOp recruitment
+    * build Staff Expertise retention > Ownership paths
+
+* try building as much as possible in XememexH - but "spit-balls" belong in XmmXH (public/private)
+
+
+#### -08-
+...
+
 ##### -08-/GitHub
+* test a port of this material into:
+  * GitHub wikis (WikiPedia syntax)
+  * TwH repositories
+
 * review and extend the creation of Issues
   * Define and Conduct some Code Reviews
     * ...
     * level-up Data-Integrity
+
+* Architectural issues need consideration as part of a 20th anniversary splash in 2024-09
+  * consider:
+    * https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry
+    * XmmxH & CurbSide
+    * data portability as well as code portability
+    * server-side server-less confirgurations
+      * automation for ease of configuration
+  * focus on GeoSpatial applications
+    * LaLoAl in particular
+      * Pob + TiB
+
 * remove Deferred content to a trailing SymbolsH page that can be reached via quickLinks
   * an alternatative could be to refert to just Numeric titles 
 * start to identify more Issues only as the emerge.
