@@ -10,7 +10,8 @@
     * then: consider the relative merits of yet another TiddlyHost wiki
 * try making this block of text into a separate file
   * (auto)merge when possible
- 
+    * review the avialable tutorials
+
 ### 2023
 * ...
 * make the SoW.HotTo available throughout DataFix, after a GsdT review
