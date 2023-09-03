@@ -5,7 +5,6 @@
     * do this as quickly as possible to gain architectural insights
       * produce a merged document from working with JrH
     * then: consider the relative merits of yet another TiddlyHost wiki
-* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
 * try making this block of text into a separate file
   * (auto)merge when possible
  
