@@ -2,7 +2,7 @@
 ### 2024
 ...
 
-## 2023 quickLinks
+## quickLinks
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * review the server offer
     * do this as quickly as possible to gain architectural insights
