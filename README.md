@@ -13,7 +13,7 @@
  
 ### 2023
 * ...
-* make the SoW.HotTo available throughout DataFix, after a GsdT review
+* make the SoW.HowTo available throughout DataFix, after a GsdT review
   * run this by DelDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
     * Devs should share "onBoarding" tasks
 * Define and Conduct some Code Reviews
