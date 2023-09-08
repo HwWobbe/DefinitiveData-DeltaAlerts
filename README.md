@@ -8,7 +8,7 @@
     * do this as quickly as possible to gain architectural insights
       * produce a merged document from working with JrH
     * then: consider the relative merits of yet another TiddlyHost wiki
-      * Time abd Budget
+      * Time and Budget
 * try making this block of text into a separate file
   * (auto)merge when possible
  
