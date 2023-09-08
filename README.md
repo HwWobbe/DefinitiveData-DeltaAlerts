@@ -7,6 +7,7 @@
   * review the server offer
     * do this as quickly as possible to gain architectural insights
       * produce a merged document from working with JrH
+        * consider the implications of labeling this as PhaseIII
     * then: consider the relative merits of yet another TiddlyHost wiki
 * try making this block of text into a separate file
   * (auto)merge when possible
