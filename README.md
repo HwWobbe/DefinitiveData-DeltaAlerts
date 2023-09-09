@@ -11,7 +11,8 @@
       * Time and Budget
 * try making this block of text into a separate file
   * (auto)merge when possible
- 
+    * review the avialable tutorials
+
 ### 2023
 * ...
 * make the SoW.HowTo available throughout DataFix, after a GsdT review
