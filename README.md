@@ -7,6 +7,9 @@
   * review the server offer
     * do this as quickly as possible to gain architectural insights
       * produce a merged document from working with JrH
+      * Integrate the JrHw chat notes re Architecture
+        * focus on BottomUp collaborative primitives 
+      * review applications TopDown with Eric
     * then: consider the relative merits of yet another TiddlyHost wiki
       * Time and Budget
 * try making this block of text into a separate file
