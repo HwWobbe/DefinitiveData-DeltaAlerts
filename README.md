@@ -11,14 +11,17 @@
       * Time and Budget
 * try making this block of text into a separate file
   * (auto)merge when possible
- 
-### 2023
+
+#### -09- Due
 * ...
+* AssertiveWIFM additions for RichardC
+* ...
+
+### 2023
 * make the SoW.HowTo available throughout DataFix, after a GsdT review
   * run this by DelDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
     * Devs should share "onBoarding" tasks
 * Define and Conduct some Code Reviews
-  * ...
 
 #### -09-
 * AssertiveWIFM additions for RichardC
