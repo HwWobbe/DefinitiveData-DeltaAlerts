@@ -1,6 +1,4 @@
 # ... Public
-### 2024
-...
 
 ## quickLinks
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
@@ -16,6 +14,9 @@
 * ...
 * AssertiveWIFM additions for RichardC
 * ...
+
+### 2024
+...
 
 ### 2023
 * make the SoW.HowTo available throughout DataFix, after a GsdT review
