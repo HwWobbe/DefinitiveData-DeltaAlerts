@@ -22,7 +22,7 @@
 
 #### -09-
 * AssertiveWIFM additions for RichardC
-  * ...
+  * pursue this in spite of travel slippage
 * Suggest our "limited preferred scope" (Movers Maintenance) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * review draft #1
