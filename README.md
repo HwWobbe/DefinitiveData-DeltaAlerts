@@ -9,7 +9,8 @@
       * Time and Budget
 * try making this block of text into a separate file
   * (auto)merge when possible
-
+    * review the Git commands
+   
 #### -09- Due
 * ...
 * AssertiveWIFM additions for RichardC
