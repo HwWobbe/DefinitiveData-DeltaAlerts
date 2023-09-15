@@ -16,6 +16,8 @@
 #### -09- Due
 * ...
 * AssertiveWIFM additions for RichardC
+  * these are increasingly unlikely to be of interest to Richard
+    * shift focus to the ConventD audience
 * preliminary GeoSpatial assessments
 
 ### 2024
