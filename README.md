@@ -18,8 +18,11 @@
 * AssertiveWIFM additions for RichardC
   * these are increasingly unlikely to be of interest to Richard
     * shift focus to the ConventD audience
+  * pursue this in spite of travel slippage
+    * distribute as intended, regardless of travel
 * preliminary GeoSpatial assessments
-
+  * ...
+ 
 ### 2024
 ...
 
@@ -30,9 +33,6 @@
 * Define and Conduct some Code Reviews
 
 #### -09-
-* AssertiveWIFM additions for RichardC
-  * pursue this in spite of travel slippage
-    * distribute as intended, regardless of travel
 * Suggest our "limited preferred scope" (Movers Maintenance) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * review draft #1
