@@ -33,6 +33,8 @@
 * AssertiveWIFM additions for RichardC
   * pursue this in spite of travel slippage
     * distribute as intended, regardless of travel
+* focus the dataEntry efforts on producing a spreadsheet result that can be post-processed to clean up the now know deficiencies
+  * give Sonny directiojn in this regard - if only since his associates are the rootCause
 * Suggest our "limited preferred scope" (Movers Maintenance) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * review draft #1
