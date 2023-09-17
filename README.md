@@ -1,23 +1,42 @@
 # ... Public
+
 ## 2023 quickLinks
+...
+
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
+  * retrieve CurbSide
+    * check -e's eMail
   * review the server offer
     * do this as quickly as possible to gain architectural insights
       * produce a merged document from working with JrH
     * then: consider the relative merits of yet another TiddlyHost wiki
-* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#fcr
+      * Time and Budget
 * try making this block of text into a separate file
   * (auto)merge when possible
- 
-### 2023
+    * review the Git commands
+   
+#### -09- Due
 * ...
-* make the SoW.HotTo available throughout DataFix, after a GsdT review
+* AssertiveWIFM additions for RichardC
+  * these are increasingly unlikely to be of interest to Richard
+    * shift focus to the ConventD audience
+  * pursue this in spite of travel slippage
+    * distribute as intended, regardless of travel
+* preliminary GeoSpatial assessments
+  * ...
+ 
+### 2024
+...
+
+### 2023
+* make the SoW.HowTo available throughout DataFix, after a GsdT review
   * run this by DelDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
     * Devs should share "onBoarding" tasks
 * Define and Conduct some Code Reviews
-  * ...
 
 #### -09-
+...
+
 * AssertiveWIFM additions for RichardC
   * ...
 * review https://tids-to-table.tiddlyhost.com/
