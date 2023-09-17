@@ -1,6 +1,8 @@
 # ... Public
 
-## quickLinks
+## 2023 quickLinks
+...
+
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * retrieve CurbSide
     * check -e's eMail
@@ -33,6 +35,12 @@
 * Define and Conduct some Code Reviews
 
 #### -09-
+...
+
+* AssertiveWIFM additions for RichardC
+  * ...
+* review https://tids-to-table.tiddlyhost.com/
+  * remove this block to ...wip...
 * Suggest our "limited preferred scope" (Movers Maintenance) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * review draft #1
