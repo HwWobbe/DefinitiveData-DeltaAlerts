@@ -3,6 +3,7 @@
 ## 2023 quickLinks
 ...
 
+* review LinkedIn assignment notes for ..kesh scope
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * retrieve CurbSide
     * check -e's eMail
