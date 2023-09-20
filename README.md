@@ -1,12 +1,17 @@
 # ... Public
 
-## quickLinks
+## 2023 quickLinks
+...
+
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * retrieve CurbSide
     * check -e's eMail
   * review the server offer
     * do this as quickly as possible to gain architectural insights
       * produce a merged document from working with JrH
+      * Integrate the JrHw chat notes re Architecture
+        * focus on BottomUp collaborative primitives 
+      * review applications TopDown with Eric
     * then: consider the relative merits of yet another TiddlyHost wiki
       * Time and Budget
 * try making this block of text into a separate file
@@ -18,8 +23,11 @@
 * AssertiveWIFM additions for RichardC
   * these are increasingly unlikely to be of interest to Richard
     * shift focus to the ConventD audience
+  * pursue this in spite of travel slippage
+    * distribute as intended, regardless of travel
 * preliminary GeoSpatial assessments
-
+  * ...
+ 
 ### 2024
 ...
 
@@ -30,11 +38,16 @@
 * Define and Conduct some Code Reviews
 
 #### -09-
+...
+
 * AssertiveWIFM additions for RichardC
   * pursue this in spite of travel slippage
     * distribute as intended, regardless of travel
 * focus the dataEntry efforts on producing a spreadsheet result that can be post-processed to clean up the now know deficiencies
   * give Sonny directiojn in this regard - if only since his associates are the rootCause
+  * ...
+* review https://tids-to-table.tiddlyhost.com/
+  * remove this block to ...wip...
 * Suggest our "limited preferred scope" (Movers Maintenance) to Richard.
   * incorporate whatever presentation / leave/Behind material that can be crafted
     * review draft #1
