@@ -27,7 +27,8 @@
     * distribute as intended, regardless of travel
 * preliminary GeoSpatial assessments
   * ...
- 
+* there is an aparent difference between this *.MD and another file's editMechanism.
+
 ### 2024
 ...
 
