@@ -38,6 +38,10 @@
     * Devs should share "onBoarding" tasks
 * Define and Conduct some Code Reviews
 
+#### -10-
+* evaluate CivicAtlas
+  * ...
+ 
 #### -09-
 ...
 
