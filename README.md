@@ -22,7 +22,7 @@
 * ...
 * AssertiveWIFM additions for RichardC
   * these are increasingly unlikely to be of interest to Richard
-    * shift focus to the ConventD audience
+    * shift focus to the ConventD audience to support the ThreeTransitions
   * pursue this in spite of travel slippage
     * distribute as intended, regardless of travel
 * preliminary GeoSpatial assessments
