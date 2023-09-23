@@ -6,6 +6,7 @@
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * retrieve CurbSide
     * check -e's eMail
+* check the portal after adding a link here
   * review the server offer
     * do this as quickly as possible to gain architectural insights
       * produce a merged document from working with JrH
