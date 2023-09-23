@@ -34,6 +34,9 @@
 ### 2024
 ...
 
+* more substantive GitHub work may evolve from using the desktop version(s)
+* ...
+
 ### 2023
 * make the SoW.HowTo available throughout DataFix, after a GsdT review
   * run this by DelDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
