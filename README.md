@@ -45,7 +45,10 @@
 
 #### -10-
 * evaluate CivicAtlas
-  * ...
+  * gain access to operational code that we can try building a application in
+    * consider the API issues
+  * interface to GeoSpatial
+    * offer a demo
  
 #### -09-
 ...
