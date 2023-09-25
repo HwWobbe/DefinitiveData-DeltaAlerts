@@ -32,7 +32,7 @@
 * there is an aparent difference between this *.MD and another file's editMechanism.
 
 ### 2024
-...
+This area will be used to rough-out longer term plans.
 
 * more substantive GitHub work may evolve from using the desktop version(s)
 * ...
