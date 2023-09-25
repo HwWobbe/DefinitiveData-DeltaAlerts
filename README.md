@@ -41,6 +41,7 @@ This area will be used to rough-out longer term plans.
 * make the SoW.HowTo available throughout DataFix, after a GsdT review
   * run this by DelDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
     * Devs should share "onBoarding" tasks
+      * this ( incumbent/proponent ) Training needs to happen at all three of the levels
 * Define and Conduct some Code Reviews
 
 #### -10-
