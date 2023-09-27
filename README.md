@@ -22,11 +22,6 @@
    
 #### -09- Due
 * ...
-* AssertiveWIFM additions for RichardC
-  * these are increasingly unlikely to be of interest to Richard
-    * shift focus to the ConventD audience to support the ThreeTransitions
-  * pursue this in spite of travel slippage
-    * distribute as intended, regardless of travel
 * preliminary GeoSpatial assessments
   * ...
 * there is an aparent difference between this *.MD and another file's editMechanism.
@@ -35,6 +30,11 @@
 This area will be used to rough-out longer term plans.
 
 * more substantive GitHub work may evolve from using the desktop version(s)
+* AssertiveWIFM additions for RichardC
+  * these are increasingly unlikely to be of interest to Richard
+    * shift focus to the ConventD audience to support the ThreeTransitions
+  * pursue this in spite of travel slippage
+    * distribute as intended, regardless of travel
 * ...
 
 ### 2023
