@@ -7,7 +7,8 @@
   * verify the dupElimSheet
     * repeat monetary cautions
 * respond to Sonny re hire
-  * perhaps by a trusted associtae - if thatenhances their value to ...Df
+  * perhaps by a trusted associate - if that enhances their value to ...Df
+    * discussed by LzH
   * ...
 * "expectations to statisfy nfor dependents" ranks higher than my "new Initiatives"
   * consider Trusted Commitments
