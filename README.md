@@ -31,6 +31,8 @@
    
 #### -10-
 * consider the possible interactions of CivicAtlasDf
+  * JrH discussions are cautionary
+  * DLDfT chat ...
 
 #### -09- Due
 * ...
