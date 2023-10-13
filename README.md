@@ -6,10 +6,12 @@
 * review LinkedIn assignment notes for ..kesh scope
   * verify the dupElimSheet
     * repeat monetary cautions
-* respond to sonny re hire
+* respond to Sonny re hire
   * perhaps by a trusted associtae - if thatenhances their value to ...Df
   * ...
- 
+* "expectations to statisfy nfor dependents" ranks higher than my "new Initiatives"
+  * consider Trusted Commitments
+    * it may be easier to jumpTo rather than integrateFrom
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * retrieve CurbSide
     * check -e's eMail
