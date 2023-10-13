@@ -6,6 +6,10 @@
 * review LinkedIn assignment notes for ..kesh scope
   * verify the dupElimSheet
     * repeat monetary cautions
+* respond to sonny re hire
+  * perhaps by a trusted associtae - if thatenhances their value to ...Df
+  * ...
+ 
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
   * retrieve CurbSide
     * check -e's eMail
