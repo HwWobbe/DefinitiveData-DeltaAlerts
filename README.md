@@ -6,11 +6,7 @@
 * review LinkedIn assignment notes for ..kesh scope
   * verify the dupElimSheet
     * repeat monetary cautions
-* respond to Sonny re hire
-  * perhaps by a trusted associate - if that enhances their value to ...Df
-    * discussed by LzH
-      * sent resume to Lz
-* "expectations to statisfy nfor dependents" ranks higher than my "new Initiatives"
+* "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   * consider Trusted Commitments
     * it may be easier to jumpTo rather than integrateFrom
 * https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
@@ -30,6 +26,10 @@
     * review the Git commands
    
 #### -10-
+* respond to Sonny re hire
+  * perhaps by a trusted associate - if that enhances their value to ...Df
+    * discussed by LzH
+      * sent resume to Lz
 * consider the possible interactions of CivicAtlasDf
   * JrH discussions are cautionary
   * DLDfT chat ...
