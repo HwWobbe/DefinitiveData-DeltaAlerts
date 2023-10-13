@@ -22,6 +22,9 @@
   * (auto)merge when possible
     * review the Git commands
    
+#### -10-
+* consider the possible interactions of CivicAtlasDf
+
 #### -09- Due
 * ...
 * AssertiveWIFM additions for RichardC
