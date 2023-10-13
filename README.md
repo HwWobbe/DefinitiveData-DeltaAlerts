@@ -9,7 +9,7 @@
 * respond to Sonny re hire
   * perhaps by a trusted associate - if that enhances their value to ...Df
     * discussed by LzH
-      * resume to Lz
+      * sent resume to Lz
 * "expectations to statisfy nfor dependents" ranks higher than my "new Initiatives"
   * consider Trusted Commitments
     * it may be easier to jumpTo rather than integrateFrom
