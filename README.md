@@ -3,9 +3,11 @@
 ## 2023 quickLinks
 ...
 
-* review LinkedIn assignment notes for ..kesh scope
-  * verify the dupElimSheet
-    * repeat monetary cautions
+- review LinkedIn assignment notes for ..kesh scope
+  - verify the dupElimSheet
+    - repeat monetary cautions
+- ...
+
 * "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   * consider Trusted Commitments
     * it may be easier to jumpTo rather than integrateFrom
