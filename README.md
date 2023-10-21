@@ -8,12 +8,13 @@
     - repeat monetary cautions
 - ...
 
-* "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
-  * consider Trusted Commitments
-    * it may be easier to jumpTo rather than integrateFrom
-* https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
-  * retrieve CurbSide
-    * check -e's eMail
+- "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
+  - consider Trusted Commitments
+    - it may be easier to jumpTo rather than integrateFrom
+- https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
+  - retrieve CurbSide
+    - check -e's eMail
+   
 * check the portal after adding a link here
   * review the server offer
     * do this as quickly as possible to gain architectural insights
