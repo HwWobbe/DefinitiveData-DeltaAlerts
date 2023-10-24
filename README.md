@@ -5,8 +5,7 @@
 
 - review LinkedIn assignment notes for ..kesh scope
   - verify the dupElimSheet
-    - repeat monetary cautions
-- ...
+  -   repeat monetary cautions
 
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
