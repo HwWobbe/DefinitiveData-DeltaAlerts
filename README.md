@@ -14,7 +14,7 @@ Spacing continues to be annoying.
   - consider Trusted Commitments
     - it may be easier to jumpTo rather than integrateFrom
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
-  - retrieve CurbSide
+  - retrieval of CurbSide issue was caused by Case sensitivity on TT.folders.
     - check -e's eMail
 - check the portal after adding a link here
   - review the server offer
