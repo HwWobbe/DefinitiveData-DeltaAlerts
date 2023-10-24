@@ -1,12 +1,11 @@
 # ... Public
 
 ## 2023 quickLinks
-...
 
 - review LinkedIn assignment notes for ..kesh scope
   - verify the dupElimSheet
     - repeat monetary cautions
-- ...
+- Commits that seemed to be blocked are now cleared.  Missing Edit?
 
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
