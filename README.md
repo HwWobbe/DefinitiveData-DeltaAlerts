@@ -30,13 +30,15 @@ Spacing continues to be annoying.
     - review the Git commands
 
 #### -10-
-* respond to Sonny re hire
-  * perhaps by a trusted associate - if that enhances their value to ...Df
-    * discussed by LzH
-      * sent resume to Lz
-* consider the possible interactions of CivicAtlasDf
-  * JrH discussions are cautionary
-  * DLDfT chat ...
+- DataFlow architecure thoughts need more attention given the Client/Server dichotomies evident in the JrEsHw chat
+  - ... 
+- respond to Sonny re hire
+  - perhaps by a trusted associate - if that enhances their value to ...Df
+    - discussed by LzH
+      - sent resume to Lz
+- consider the possible interactions of CivicAtlasDf
+  - JrH discussions are cautionary
+  - DLDfT chat ...
 
 #### -09- Due
 * ...
