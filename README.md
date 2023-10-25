@@ -7,6 +7,9 @@
   - verify the dupElimSheet
     - repeat monetary cautions
 
+- it may be best to wait until -11- to further onvestigate "order"
+  - this is because it will be too time consuming to close the existing gap
+
 - consider open source Alerts - in conjunction with myEsdb
   - ...
 
