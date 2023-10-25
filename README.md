@@ -15,7 +15,26 @@
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
     - it may be easier to jumpTo rather than integrateFrom
+
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
+
+  - retrieve CurbSide
+    - check -e's eMail
+   
+- check the portal after adding a link here
+  - review the server offer
+    - do this as quickly as possible to gain architectural insights
+      - produce a merged document from working with JrH
+      - Integrate the JrHw chat notes re Architecture
+        - focus on BottomUp collaborative primitives 
+      - review applications TopDown with Eric
+    - then: consider the relative merits of yet another TiddlyHost wiki
+      - Time and Budget
+
+* try making this block of text into a separate file
+  * (auto)merge when possible
+    * review the Git commands
+
   - retrieval of CurbSide issue was caused by Case sensitivity on TT.folders.
     - check -e's eMail
 - check the portal after adding a link here
