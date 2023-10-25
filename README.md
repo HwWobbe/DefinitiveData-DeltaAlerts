@@ -1,7 +1,8 @@
 # ... Public
 
 ## 2023 quickLinks
-Spacing continues to be annoying.
+
+- Spacing continues to be annoying.
 
 - review LinkedIn assignment notes for ..kesh scope
   - verify the dupElimSheet
