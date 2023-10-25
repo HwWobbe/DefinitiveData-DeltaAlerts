@@ -3,8 +3,6 @@
 ## 2023 quickLinks
 ...
 
-- Spacing continues to be annoying.
-
 - review LinkedIn assignment notes for ..kesh scope
   - verify the dupElimSheet
     - repeat monetary cautions
@@ -30,6 +28,8 @@
 - try making this block of text into a separate file
   - (auto)merge when possible
     - review the Git commands
+
+- Spacing continues to be annoying.
 
 #### -10-
 - DataFlow architecure thoughts need more attention given the Client/Server dichotomies evident in the JrEsHw chat
