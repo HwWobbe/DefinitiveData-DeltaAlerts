@@ -3,39 +3,63 @@
 ## 2023 quickLinks
 ...
 
+- Spacing continues to be annoying.
+
 - review LinkedIn assignment notes for ..kesh scope
   - verify the dupElimSheet
     - repeat monetary cautions
-- ...
+
+- consider open source Alerts - in conjunction with myEsdb
+  - ...
 
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
     - it may be easier to jumpTo rather than integrateFrom
+
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
+
   - retrieve CurbSide
     - check -e's eMail
    
-* check the portal after adding a link here
-  * review the server offer
-    * do this as quickly as possible to gain architectural insights
-      * produce a merged document from working with JrH
-      * Integrate the JrHw chat notes re Architecture
-        * focus on BottomUp collaborative primitives 
-      * review applications TopDown with Eric
-    * then: consider the relative merits of yet another TiddlyHost wiki
-      * Time and Budget
+- check the portal after adding a link here
+  - review the server offer
+    - do this as quickly as possible to gain architectural insights
+      - produce a merged document from working with JrH
+      - Integrate the JrHw chat notes re Architecture
+        - focus on BottomUp collaborative primitives 
+      - review applications TopDown with Eric
+    - then: consider the relative merits of yet another TiddlyHost wiki
+      - Time and Budget
+
 * try making this block of text into a separate file
   * (auto)merge when possible
     * review the Git commands
-   
+
+  - retrieval of CurbSide issue was caused by Case sensitivity on TT.folders.
+    - check -e's eMail
+- check the portal after adding a link here
+  - review the server offer
+    - do this as quickly as possible to gain architectural insights
+      - produce a merged document from working with JrH
+      - Integrate the JrHw chat notes re Architecture
+        - focus on BottomUp collaborative primitives 
+      - review applications TopDown with Eric
+    - then: consider the relative merits of yet another TiddlyHost wiki
+      - Time and Budget
+- try making this block of text into a separate file
+  - (auto)merge when possible
+    - review the Git commands
+
 #### -10-
-* respond to Sonny re hire
-  * perhaps by a trusted associate - if that enhances their value to ...Df
-    * discussed by LzH
-      * sent resume to Lz
-* consider the possible interactions of CivicAtlasDf
-  * JrH discussions are cautionary
-  * DLDfT chat ...
+- DataFlow architecure thoughts need more attention given the Client/Server dichotomies evident in the JrEsHw chat
+  - ... 
+- respond to Sonny re hire
+  - perhaps by a trusted associate - if that enhances their value to ...Df
+    - discussed by LzH
+      - sent resume to Lz
+- consider the possible interactions of CivicAtlasDf
+  - JrH discussions are cautionary
+  - DLDfT chat ...
 
 #### -09- Due
 * ...
