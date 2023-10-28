@@ -11,7 +11,8 @@
   - this is because it will be too time consuming to close the existing gap
 
 - consider open source Alerts - in conjunction with myEsdb
-  - ...
+  - consider the CivicAtlas implications
+    - ideally it will be possible to achieve "twoBirds"
 
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
