@@ -1,6 +1,6 @@
 # ... Public
 
-## 2023 quickLinks
+## 2023 quickLinks & quickNotes
 ...
 
 - consider open source Alerts - in conjunction with myEsdb
