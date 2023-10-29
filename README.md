@@ -3,15 +3,6 @@
 ## 2023 quickLinks
 ...
 
-- review LinkedIn assignment notes for ..kesh scope
-  - verify the dupElimSheet
-    - repeat monetary cautions
-      - consider the retainer request
-
-- it may be best to wait until -11- to further investigate "order"
-  - this is because it will be too time consuming to close the existing gap
-    - some indicators are worth checking, in the mean time
-
 - consider open source Alerts - in conjunction with myEsdb
   - consider the CivicAtlas implications
     - ideally it will be possible to achieve "twoBirds"
@@ -19,9 +10,7 @@
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
     - it may be easier to jumpTo rather than integrateFrom
-- https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
-  - retrieval of CurbSide issue was caused by Case sensitivity on TT.folders.
-    - check -e's eMail
+
 - check the portal after adding a link here
   - review the server offer
     - do this as quickly as possible to gain architectural insights
@@ -37,6 +26,21 @@
 
 - Spacing continues to be annoying.
 
+#### -11-
+...
+
+- review LinkedIn assignment notes for ..kesh scope
+  - verify the dupElimSheet
+    - repeat monetary cautions
+      - consider the retainer request
+
+- can StringsH.DDs be used to invoke API's
+  - try GeoSpatial access via Co-Op AND 'kesh
+
+- it may be best to wait until -11- to further investigate "order"
+  - this is because it will be too time consuming to close the existing gap
+    - some indicators are worth checking, in the mean time
+
 #### -10-
 - DataFlow architecture thoughts need more attention given the Client/Server dichotomies evident in the JrEsHw chat
   - ... 
@@ -48,7 +52,11 @@
   - JrH discussions are cautionary
   - DLDfT chat ...
 
-#### -09- Due
+- https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
+  - retrieval of CurbSide issue was caused by Case sensitivity on TT.folders.
+    - check -e's eMail
+
+#### -09- (past) Due
 * ...
 * AssertiveWIFM additions for RichardC
   * these are increasingly unlikely to be of interest to Richard
@@ -58,6 +66,7 @@
 * preliminary GeoSpatial assessments
   * ...
 * there is an aparent difference between this *.MD and another file's editMechanism.
+
 
 ### 2024
 This area will be used to rough-out longer term plans.
