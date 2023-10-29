@@ -41,6 +41,8 @@
   - this is because it will be too time consuming to close the existing gap
     - some indicators are worth checking, in the mean time
 
+<hr>
+
 #### -10-
 - DataFlow architecture thoughts need more attention given the Client/Server dichotomies evident in the JrEsHw chat
   - ... 
@@ -65,19 +67,21 @@
 ### 2024
 This area will be used to rough-out longer term plans.
 
-* more substantive GitHub work may evolve from using the desktop version(s)
-* ...
+- more substantive GitHub work may evolve from using the desktop version(s)
+
 
 ### 2023
-* make the SoW.HowTo available throughout DataFix, after a GsdT review
-  * run this by DelDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
-    * Devs should share "onBoarding" tasks
-      * this ( incumbent/proponent ) Training needs to happen at all three of the levels
-* Define and Conduct some Code Reviews
+- Waterloo trip Agenda
+
 
 #### -11-
-* CivicAtlas waterloo visit ?
+- CivicAtlas waterloo visit ?
 
+- make the SoW.HowTo available throughout DataFix, after a GsdT review
+  - run this by DevDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
+    - Devs should share "onBoarding" tasks
+      - this ( incumbent/proponent ) Training needs to happen at all three of the levels
+- Define and Conduct some Code Reviews
 
 #### -10-
 - evaluate CivicAtlas
