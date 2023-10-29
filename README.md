@@ -38,7 +38,7 @@
 - Spacing continues to be annoying.
 
 #### -10-
-- DataFlow architecure thoughts need more attention given the Client/Server dichotomies evident in the JrEsHw chat
+- DataFlow architecture thoughts need more attention given the Client/Server dichotomies evident in the JrEsHw chat
   - ... 
 - respond to Sonny re hire
   - perhaps by a trusted associate - if that enhances their value to ...Df
@@ -72,13 +72,19 @@ This area will be used to rough-out longer term plans.
       * this ( incumbent/proponent ) Training needs to happen at all three of the levels
 * Define and Conduct some Code Reviews
 
+#### -11-
+* CivicAtlas waterloo visit ?
+
+
 #### -10-
-* evaluate CivicAtlas
-  * gain access to operational code that we can try building a application in
-    * consider the API issues
-  * interface to GeoSpatial
-    * offer a demo
- 
+- evaluate CivicAtlas
+  - gain access to operational code that we can try building an application in
+    - consider the API issues
+  - interface to GeoSpatial
+    - offer a demo
+- progress impeded: health ; NDA processing ; ...
+
+
 #### -09-
 ...
 
