@@ -4,19 +4,26 @@
 
 - Spacing continues to be annoying.
 
+## 2023 quickLinks & quickNotes
+...
+
 - review LinkedIn assignment notes for ..kesh scope
   - verify the dupElimSheet
     - repeat monetary cautions
+      - this work helped magane the acquisition process
+
+- it may be best to wait until -11- to further investigate "order"
+  - this is because it will be too time consuming to close the existing gap
 
 - consider open source Alerts - in conjunction with myEsdb
-  - ...
+  - consider the CivicAtlas implications
+    - ideally it will be possible to achieve "twoBirds"
+  - involve/contemplate Jurgen too
 
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
     - it may be easier to jumpTo rather than integrateFrom
-- https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
-  - retrieval of CurbSide issue was caused by Case sensitivity on TT.folders.
-    - check -e's eMail
+
 - check the portal after adding a link here
   - review the server offer
     - do this as quickly as possible to gain architectural insights
@@ -30,8 +37,27 @@
   - (auto)merge when possible
     - review the Git commands
 
+- Spacing continues to be annoying.
+
+#### -11-
+...
+
+- review LinkedIn assignment notes for ..kesh scope
+  - verify the dupElimSheet
+    - repeat monetary cautions
+      - consider the retainer request
+
+- can StringsH.DDs be used to invoke API's
+  - try GeoSpatial access via Co-Op AND 'kesh
+
+- it may be best to wait until -11- to further investigate "order"
+  - this is because it will be too time consuming to close the existing gap
+    - some indicators are worth checking, in the mean time
+
+<hr>
+
 #### -10-
-- DataFlow architecure thoughts need more attention given the Client/Server dichotomies evident in the JrEsHw chat
+- DataFlow architecture thoughts need more attention given the Client/Server dichotomies evident in the JrEsHw chat
   - ... 
 - respond to Sonny re hire
   - perhaps by a trusted associate - if that enhances their value to ...Df
@@ -41,37 +67,44 @@
   - JrH discussions are cautionary
   - DLDfT chat ...
 
-#### -09- Due
-* ...
-* AssertiveWIFM additions for RichardC
-  * these are increasingly unlikely to be of interest to Richard
-    * shift focus to the ConventD audience to support the ThreeTransitions
-  * pursue this in spite of travel slippage
-    * distribute as intended, regardless of travel
+- https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
+  - retrieval of CurbSide issue was caused by Case sensitivity on TT.folders.
+    - check -e's eMail
+
+#### -09- (past) Due
 * preliminary GeoSpatial assessments
   * ...
 * there is an aparent difference between this *.MD and another file's editMechanism.
 
+
 ### 2024
 This area will be used to rough-out longer term plans.
 
-* more substantive GitHub work may evolve from using the desktop version(s)
-* ...
+- more substantive GitHub work may evolve from using the desktop version(s)
+
 
 ### 2023
-* make the SoW.HowTo available throughout DataFix, after a GsdT review
-  * run this by DelDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
-    * Devs should share "onBoarding" tasks
-      * this ( incumbent/proponent ) Training needs to happen at all three of the levels
-* Define and Conduct some Code Reviews
+- Waterloo trip Agenda
+
+
+#### -11-
+- CivicAtlas waterloo visit ?
+
+- make the SoW.HowTo available throughout DataFix, after a GsdT review
+  - run this by DevDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
+    - Devs should share "onBoarding" tasks
+      - this ( incumbent/proponent ) Training needs to happen at all three of the levels
+- Define and Conduct some Code Reviews
 
 #### -10-
-* evaluate CivicAtlas
-  * gain access to operational code that we can try building a application in
-    * consider the API issues
-  * interface to GeoSpatial
-    * offer a demo
- 
+- evaluate CivicAtlas
+  - gain access to operational code that we can try building an application in
+    - consider the API issues
+  - interface to GeoSpatial
+    - offer a demo
+- progress impeded: health ; NDA processing ; ...
+
+
 #### -09-
 ...
 
