@@ -6,6 +6,7 @@
 - consider open source Alerts - in conjunction with myEsdb
   - consider the CivicAtlas implications
     - ideally it will be possible to achieve "twoBirds"
+  - involve/contemplate Jurgen too
 
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
