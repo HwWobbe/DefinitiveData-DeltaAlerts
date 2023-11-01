@@ -8,6 +8,8 @@
 ...
 
 - review LinkedIn assignment notes for ..kesh scope
+  - StringsServer development
+    - ...
   - verify the dupElimSheet
     - repeat monetary cautions
       - this work helped magane the acquisition process
