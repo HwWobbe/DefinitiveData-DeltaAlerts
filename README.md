@@ -8,7 +8,7 @@
     - repeat monetary cautions
       - this work helped magane the acquisition process
 
-- it may be best to wait until -11- to further onvestigate "order"
+- it may be best to wait until -11- to further investigate "order"
   - this is because it will be too time consuming to close the existing gap
 
 - consider open source Alerts - in conjunction with myEsdb
