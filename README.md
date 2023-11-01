@@ -2,6 +2,8 @@
 
 ## 2023 quickLinks
 
+- "file conflict" is appearing
+  - Preint & review the larger blocks
 - Spacing continues to be annoying.
 
 ## 2023 quickLinks & quickNotes
