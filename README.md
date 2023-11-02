@@ -9,7 +9,8 @@
 
 - review LinkedIn assignment notes for ..kesh scope
   - StringsServer development
-    - ...
+    - 250 for ... ; 350 for ... ; 550 for ...
+      - next interval to be set post the 1st
   - verify the dupElimSheet
     - repeat monetary cautions
       - this work helped magane the acquisition process
