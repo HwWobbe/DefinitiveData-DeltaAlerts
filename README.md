@@ -48,8 +48,9 @@
 
 <hr>
 
-- craft a new file that can be used as a print test
-  - idName?
+- the Tasks file served as an adequate Print test
+  - craft a prettyLink to it trom from here
+    - ...
 
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
