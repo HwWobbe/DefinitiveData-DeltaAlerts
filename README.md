@@ -7,8 +7,6 @@
 ## 2023 quickLinks & quickNotes
 ...
 
-[2023's anticipated challenges](https://github.com/HwWobbe/WipHww/blob/main/6.0%20Conclusions.md#challenges)
-
 [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
 
 - review LinkedIn assignment notes for ..kesh scope
