@@ -15,7 +15,8 @@
     - repeat monetary cautions
       - this work helped manage the acquisition process
 - review payment methods
-  - ...
+  - on the basis of the most recent Invoice
+    - not the different presentations by BMO for Personal and Business accounts
 
 - it may be best to wait until -11- to further investigate "order"
   - this is because it will be too time consuming to close the existing gap
