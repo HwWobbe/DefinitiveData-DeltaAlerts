@@ -38,6 +38,11 @@
     - ideally it will be possible to achieve "twoBirds"
   - involve/contemplate Jurgen too
 
+<hr>
+
+- craft a new file that can be used as a print test
+  - idName?
+
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
     - it may be easier to jumpTo rather than integrateFrom
