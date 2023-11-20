@@ -28,7 +28,8 @@
   - this is because it will be too time consuming to close the existing gap
 
 - use "hr" markup until the apparent vagaries of spacing are better understood
-  - ...
+  - this Sections will likely evolve into Files
+    - explore how files can then be attached to PRs (which should be easy, if only via Commwnts)
 
 <hr>
 
