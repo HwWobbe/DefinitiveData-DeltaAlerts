@@ -50,7 +50,8 @@
 
 - the Tasks file served as an adequate Print test
   - craft a prettyLink to it trom from here
-    - ...
+    - 7.1 DefDataTasks.md
+      - find a working example
 
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
