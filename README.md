@@ -7,7 +7,7 @@
 ## 2023 quickLinks & quickNotes
 ...
 
-[2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
+- [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
 
 - review LinkedIn assignment notes for ..kesh scope
   - StringsServer development
