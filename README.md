@@ -13,7 +13,7 @@
       - next interval to be set post the 1st
   - verify the dupElimSheet
     - repeat monetary cautions
-      - this work helped magane the acquisition process
+      - this work helped manage the acquisition process
 - review payment methods
   - ...
 
