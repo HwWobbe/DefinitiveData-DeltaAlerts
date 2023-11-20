@@ -30,6 +30,7 @@
 - use "hr" markup until the apparent vagaries of spacing are better understood
   - ...
 
+<hr>
 
 - consider open source Alerts - in conjunction with myEsdb
   - consider the CivicAtlas implications
