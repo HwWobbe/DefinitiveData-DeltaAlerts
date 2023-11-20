@@ -26,6 +26,14 @@
 
 - it may be best to wait until -11- to further investigate "order"
   - this is because it will be too time consuming to close the existing gap
+    - a gradual migration is strongly preferred.
+   
+  - ... autoOutdent is not yet understoog
+ 
+- further autoOutdent
+
+- limit reached.
+- ...
 
 - use "hr" markup until the apparent vagaries of spacing are better understood
   - this Sections will likely evolve into Files
