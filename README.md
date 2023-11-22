@@ -7,12 +7,9 @@
 ## 2023 quickLinks & quickNotes
 ...
 
-- [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
-- add more links
-- review payment methods
-  - on the basis of the most recent Invoice
-    - note the different presentations by BMO for Personal and Business accounts
-
+- [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-) ; add more links
+- review payment methods - on the basis of the most recent Invoice
+  - note the different presentations by BMO for Personal and Business accounts
 - select the initial MicroContent for  Jr from the new DataDictionary
  - ...
 
