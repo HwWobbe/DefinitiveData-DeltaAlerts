@@ -9,6 +9,8 @@
 
 - [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
   - Fri: review Conference material ; Sat: add more links ; Sun: discuss with Dpl ; Mon: ... ; Tue: noSurprises GsdReview ; Wed: statement!
+  - ( ... )DashboardsH - need extension to be metaDash.H...
+  - ...
 - review payment methods - on the basis of the most recent Invoice
   - note the different presentations by BMO for Personal and Business accounts
 - select the initial MicroContent for  Jr from the new DataDictionary
