@@ -7,6 +7,9 @@
 ## 2023 quickLinks & quickNotes
 ...
 
+- [2023-12](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-12-)
+  - ...
+
 - [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
   - Fri: review Conference material ; discuss with Dpl ; Sat: add more links ; Sun: ; Mon: ... ; Tue: noSurprises GsdReview ; Wed: statement!
     - try to avoid wrapping
@@ -64,6 +67,9 @@
     - review the Git commands
 
 - Spacing continues to be annoying.
+
+#### -12-
+...
 
 #### -11-
 ...
