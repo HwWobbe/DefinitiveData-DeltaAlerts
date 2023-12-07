@@ -11,6 +11,7 @@
   - ...
   - ( ... )DashboardsH - need extension to be metaDash.H...
   - push the use of SqLite
+  - review the version of the SqLite/Dd that was delivered with a couple of hours today
   - investigate the flask/python libraries
 
 - [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
