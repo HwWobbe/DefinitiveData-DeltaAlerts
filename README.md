@@ -5,7 +5,7 @@
 
 # travelling, with only limited 'net access -12(-10 ... -14).
 
-- ...
+- posting will likely be interrupted
 - Spacing continues to be annoying.
 
 ## 2023 quickLinks & quickNotes
