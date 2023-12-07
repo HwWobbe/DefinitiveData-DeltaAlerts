@@ -10,6 +10,7 @@
 - [2023-12](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-12-)
   - ...
   - ( ... )DashboardsH - need extension to be metaDash.H...
+  - push the use of SqLite
   - investigate the flask/python libraries
 
 - [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
