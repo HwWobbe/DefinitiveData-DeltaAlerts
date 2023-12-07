@@ -1,6 +1,7 @@
 # ... Public
 
 ## 2023 quickLinks
+- ...
 
 # travelling, with only limited 'net access -12(-10 ... -14).
 - ...
