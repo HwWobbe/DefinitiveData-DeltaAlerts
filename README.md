@@ -2,6 +2,7 @@
 
 ## 2023 quickLinks
 
+## travelling, with only limited 'net access -12(-10 ... -14).
 - Spacing continues to be annoying.
 
 ## 2023 quickLinks & quickNotes
