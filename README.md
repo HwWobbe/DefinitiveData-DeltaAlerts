@@ -14,7 +14,10 @@
 - [2023-12](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-12-)
   - ...
   - ( ... )DashboardsH - need extension to be metaDash.H...
-  - push the use of SqLite
+  - link to twAzure as an umbrella for DefData
+    - this covers a NodeJs parasol that
+      - hosts WorkBooks as Json daa objects.
+  - push the use of SqLite to hold GeoSpatial data
   - review the version of the SqLite/Dd that was delivered with a couple of hours today
   - investigate the flask/python libraries
 
