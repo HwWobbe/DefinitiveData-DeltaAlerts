@@ -37,10 +37,6 @@
 - limit reached.
 - ...
 
-- use "hr" markup until the apparent vagaries of spacing are better understood
-  - this Sections will likely evolve into Files
-    - explore how files can then be attached to PRs (which should be easy, if only via Commwnts)
-
 <hr>
 
 - consider open source Alerts - in conjunction with myEsdb
@@ -127,6 +123,10 @@
   * ...
 * there is an aparent difference between this *.MD and another file's editMechanism.
 
+#### -08- (past) Due
+- use "hr" markup until the apparent vagaries of spacing are better understood
+  - this Sections will likely evolve into Files
+    - explore how files can then be attached to PRs (which should be easy, if only via Commwnts)
 
 ### 2024
 This area will be used to rough-out longer term plans.
