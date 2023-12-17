@@ -235,6 +235,20 @@ This area will be used to rough-out longer term plans.
 * expand the existing explanations of Significance-Precision
   * then start adding the .mi.ce.de.ye levels and their symbols
 
+#### -06-
+
+#### -05-
+
+#### -04-
+
+#### -03-
+
+#### -02-
+
+#### -01-
+
+<hr>
+
 # 2024:
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
