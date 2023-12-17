@@ -11,7 +11,7 @@
   - ( ... )DashboardsH - need extension to be metaDash.H...
   - link to twAzure as an umbrella for DefData
     - this covers a NodeJs parasol that
-      - hosts WorkBooks as Json daa objects.
+      - hosts WorkBooks as Json data objects.
   - push the use of SqLite to hold GeoSpatial data
   - review the version of the SqLite/Dd that was delivered with a couple of hours today
   - investigate the flask/python libraries
