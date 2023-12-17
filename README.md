@@ -13,8 +13,10 @@
     - this covers a NodeJs parasol that
       - hosts WorkBooks as Json data objects.
   - push the use of SqLite to hold GeoSpatial data
-  - review the version of the SqLite/Dd that was delivered with a couple of hours today
-  - investigate the flask/python libraries
+    - review the version of the SqLite/Dd that was delivered with a couple of hours today
+    - investigate the flask/python libraries
+    - Review "colosingWords"
+     - Iuues ...
 
 - [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
   - Fri: review Conference material ; discuss with Dpl ; Sat: add more links ; Sun: ; Mon: ... ; Tue: noSurprises GsdReview ; Wed: statement!
