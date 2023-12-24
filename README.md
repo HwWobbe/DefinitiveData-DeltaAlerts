@@ -2,6 +2,7 @@
 
 ## 2023 quickLinks
 - ...
+- include a reference from Pulse items to secondary progress goals
 
 ## 2023 quickLinks & quickNotes
 ...
