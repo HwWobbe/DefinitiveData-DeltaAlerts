@@ -22,7 +22,7 @@
     - Issues ...
 
 - [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
-  - Fri: review Conference material ; discuss with Dpl ; Sat: add more links ; Sun: ; Mon: ... ; Tue: noSurprises GsdReview ; Wed: statement!
+  - Fri: Conference material ; Sat: add more links ; Sun: ; Mon: ... ; Tue: noSurprises GsdReview ; Wed: statement!
     - try to avoid wrapping
 - review payment methods - on the basis of the most recent Invoice
   - note the different presentations by BMO for Personal and Business accounts
