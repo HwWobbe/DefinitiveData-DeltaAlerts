@@ -2,13 +2,16 @@
 
 ## 2024 quickLinks & quickNotes
 ...
+
+- ( roadMaps... )DashboardsH - need extension to be metaDash.H... 
+
 - include references from Pulse items to secondary progress goals
+
+- 2024 Budget approvals
+    - ...
 
 ## 2023 quickNotes
 - [2023-12](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-12-)
-  - 2024 Budget approvals
-    - ...
-  - ( ... )DashboardsH - need extension to be metaDash.H... 
   - link to twAzure as an umbrella for DefData
     - this covers a NodeJs parasol that
       - hosts WorkBooks as Json data objects.
