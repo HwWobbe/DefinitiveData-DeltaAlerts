@@ -2,9 +2,7 @@
 
 ## 2024 quickLinks & quickNotes
 ...
-
-## 2023 quickLinks
-- include a reference from Pulse items to secondary progress goals
+- include references from Pulse items to secondary progress goals
 
 ## 2023 quickNotes
 - [2023-12](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-12-)
