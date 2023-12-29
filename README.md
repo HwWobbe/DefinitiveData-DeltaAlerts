@@ -8,7 +8,7 @@
 - include references from Pulse items to secondary progress goals
 - 2024 Budget approvals
     - ...
-- link to the Git CheatSheet
+- link to the Git (reference sheet) ")CheatSheet"
 
 ## 2023 quickNotes
 - [2023-12](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-12-)
