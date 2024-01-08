@@ -10,6 +10,9 @@
   - ...
     - -08: revciews with DPL
       - UPlanet > GeoSpatial( Volcanos ) > StatsCan
+      - sketch the emerging processors hierarchy
+        - Azure > CSI/Df/repo(s) > NodeJs > ( TiddlyWiki < sqLite ) > CurbSide
+          - consider: drawIO or ...
       - test links to LinkedIn messages
     - -10: reviews with Ls and aJo
 - include references from Pulse items to secondary progress goals
