@@ -21,7 +21,7 @@
 - include references from Pulse items to secondary progress goals
 - 2024 Budget approvals
     - ...
-- link to the Git (reference sheet) ")CheatSheet"
+- link to the Git (reference sheet) "CheatSheet"
 
 <hr>
 
