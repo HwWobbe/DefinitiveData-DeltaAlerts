@@ -8,7 +8,7 @@
       - this should hide tentative ideas that cause confusion
   - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
   - ...
-    - -08: revciews with DPL
+    - -08: reciews with DPL
       - UPlanet > GeoSpatial( Volcanos ) > StatsCan
       - sketch the emerging processors hierarchy
         - Azure > CSI/Df/repo(s) > NodeJs > ( TiddlyWiki < sqLite ) > CurbSide 
