@@ -11,8 +11,11 @@
     - -08: revciews with DPL
       - UPlanet > GeoSpatial( Volcanos ) > StatsCan
       - sketch the emerging processors hierarchy
-        - Azure > CSI/Df/repo(s) > NodeJs > ( TiddlyWiki < sqLite ) > CurbSide
-          - consider: drawIO or ...
+        - Azure > CSI/Df/repo(s) > NodeJs > ( TiddlyWiki < sqLite ) > CurbSide 
+           - consider:
+             - new Els tool with its image support
+               -  screenGrabs
+             - drawIO or ...
       - test links to LinkedIn messages
     - -10: reviews with Ls and aJo
 - include references from Pulse items to secondary progress goals
