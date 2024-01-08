@@ -9,6 +9,7 @@
   - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
   - ...
     - -08: revciews with DPL
+      - UPlanet > GeoSpatial( Volcanos ) > StatsCan 
     - -10: reviews with Ls and aJo
 - include references from Pulse items to secondary progress goals
 - 2024 Budget approvals
