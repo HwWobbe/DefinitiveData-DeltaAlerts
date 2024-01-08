@@ -17,6 +17,8 @@
     - ...
 - link to the Git (reference sheet) ")CheatSheet"
 
+<hr>
+
 ## 2023 quickNotes
 - [2023-12](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-12-)
   - link to twAzure as an umbrella for DefData
