@@ -12,7 +12,8 @@
               - document the participant's WiifmIdeas
                 - start with a set of RoadmapTiles
                   - there is likely a need for RmT2023/ -01- naming
-  - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
+  - decide when to start removing material to .../2024
+   - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
   - ...
     - -08: reviews with DPL
       - UPlanet > GeoSpatial( Volcanos ) > StatsCan
