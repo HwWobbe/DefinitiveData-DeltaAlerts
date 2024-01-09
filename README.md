@@ -6,6 +6,7 @@
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
     - ... some Private links are likely tro be needed as formative (more detailed) plans emerge
       - this should hide tentative ideas that cause confusion
+        - key-able characters should become the first interface to high InformationDensity UniCode Symbols and Words
   - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
   - ...
     - -08: reviews with DPL
