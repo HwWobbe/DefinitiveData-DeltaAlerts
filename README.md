@@ -14,6 +14,7 @@
                   - there is likely a need for RmT2023/ -01- naming
   - decide when to:
     -  start removing material to .../2024
+      -  one goal should be to reduce page scrolling
     -  working on a 'local' platform and trusting sync
    - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
   - ...
