@@ -7,6 +7,9 @@
     - ... some Private links are likely tro be needed as formative (more detailed) plans emerge
       - this should hide tentative ideas that cause confusion
         - key-able characters should become the first interface to high InformationDensity UniCode Symbols and Words
+          - this can be achieved through nested DataDictionaries
+            - Dpl's Glossary goal may benefitt from the Emerging environment
+              - document the participant's WiifmIdeas
   - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
   - ...
     - -08: reviews with DPL
