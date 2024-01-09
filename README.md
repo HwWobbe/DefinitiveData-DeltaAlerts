@@ -10,6 +10,8 @@
           - this can be achieved through nested DataDictionaries
             - Dpl's Glossary goal may benefitt from the Emerging environment
               - document the participant's WiifmIdeas
+                - start with a set of RoadmapTiles
+                  - there is likely a need for rmT2023/ -01- naming
   - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
   - ...
     - -08: reviews with DPL
