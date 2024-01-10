@@ -15,7 +15,7 @@
   - decide when to:
     - start removing material to .../2024
       - one goal should be to reduce page scrolling
-    -  working on a 'local' platform and trusting sync
+    -  start working on a 'local' platform and trusting sync
    - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
      - this is a Jr goal that is not net confirmed
   - ...
