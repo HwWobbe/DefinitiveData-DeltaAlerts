@@ -34,6 +34,8 @@
     - ...
 - link to the Git (reference sheet) "CheatSheet"
 
+- started RmT2024q1
+
 <hr>
 
 ## 2023 quickNotes
