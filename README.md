@@ -30,7 +30,7 @@
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
   - ...
 - They may not be needed given GitHub's RoadMap support and Links to external repos
-  - DebateGraph fir issue resolution
+  - DebateGraph for issue resolution
   - Diigo Outliner and bestInClass bookmarking
   - TiddlyHost for external WorkFlow Interfaces and Integration
 
@@ -55,7 +55,6 @@
     - start removing material to .../2024
       - one goal should be to reduce page scrolling
     -  start working on a 'local' platform and trusting sync
-
  
 <hr>
 
