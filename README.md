@@ -3,7 +3,11 @@
 ## 2024 quickLinks & quickNotes
 ...
 
-- ( roadMaps... )DashboardsH - need extension to be metaDash.H... ( can exotic chars help?  e.g. 辰 )
+- ( roadMaps... )DashboardsH - need extension to be metaDash.H...
+  -  ( can exotic chars help?  e.g. 辰 -
+    -  apparently only if combined with another char since Chinese is quite common.
+      -  try the gothicZ prefered as as a Z(ero non-word noun like 辰� - FAIL 
+         - us eht eLativ Z like: 辰Z
     - ... some Private links are likely tro be needed as formative (more detailed) plans emerge
       - this should hide tentative ideas that cause confusion
         - key-able characters should become the first interface to high InformationDensity UniCode Symbols and Words
