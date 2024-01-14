@@ -3,7 +3,7 @@
 ## 2024 quickLinks & quickNotes
 ...
 
-- ( roadMaps... )DashboardsH - need extension to be metaDash.H...
+- ( roadMaps... )DashboardsH - need extension to be metaDash.H... ( can exotic chars help?  e.g. 辰 )
     - ... some Private links are likely tro be needed as formative (more detailed) plans emerge
       - this should hide tentative ideas that cause confusion
         - key-able characters should become the first interface to high InformationDensity UniCode Symbols and Words
