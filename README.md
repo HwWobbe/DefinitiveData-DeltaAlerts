@@ -9,15 +9,7 @@
     -  apparently only if combined with another char since Chinese is quite common.
       -  try the gothicZ prefered as as a Z(ero non-word noun like 辰� - FAIL 
          - us eht eLativ Z like: 辰Z - nope, so 辰Z0
-    - ... some Private links are likely tro be needed as formative (more detailed) plans emerge
-      - this should hide tentative ideas that cause confusion
-        - key-able characters should become the first interface to high InformationDensity UniCode Symbols and Words
-          - this can be achieved through nested DataDictionaries
-            - Dpl's Glossary goal may benefitt from the Emerging environment
-              - document the participant's WiifmIdeas
-                - start with a set of RoadmapTiles
-                  - there is likely a need for RmT2023/ -01- naming
-  - decide when to:
+      - decide when to:
     - start removing material to .../2024
       - one goal should be to reduce page scrolling
     -  start working on a 'local' platform and trusting sync
@@ -51,6 +43,14 @@
   - Diigo Outliner and bestInClass bookmarking
   - TiddlyHost for external WorkFlow Interfaces and Integration
 
+- ... some Private links are likely to be needed as formative (more detailed) plans emerge
+      - this should hide tentative ideas that cause confusion
+        - key-able characters should become the first interface to high InformationDensity UniCode Symbols and Words
+          - this can be achieved through nested DataDictionaries
+            - Dpl's Glossary goal may benefitt from the Emerging environment
+              - document the participant's WiifmIdeas
+                - start with a set of RoadmapTiles
+                  - there is likely a need for RmT2023/ -01- naming
 
 <hr>
 
