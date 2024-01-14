@@ -35,13 +35,13 @@
   - TiddlyHost for external WorkFlow Interfaces and Integration
 
 - ... some Private links are likely to be needed as formative (more detailed) plans emerge
-      - this should hide tentative ideas that cause confusion
-        - key-able characters should become the first interface to high InformationDensity UniCode Symbols and Words
-          - this can be achieved through nested DataDictionaries
-            - Dpl's Glossary goal may benefitt from the Emerging environment
-              - document the participant's WiifmIdeas
-                - start with a set of RoadmapTiles
-                  - there is likely a need for RmT2023/ -01- naming
+  - this should hide tentative ideas that cause confusion
+    - key-able characters should become the first interface to high InformationDensity UniCode Symbols and Words
+      - this can be achieved through nested DataDictionaries
+        - Dpl's Glossary goal may benefitt from the Emerging environment
+          - document the participant's WiifmIdeas
+            - start with a set of RoadmapTiles
+              - there is likely a need for RmT2023/ -01- naming
 
 ## 2024 quickNotes
 ...
