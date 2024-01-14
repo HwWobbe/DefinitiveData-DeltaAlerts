@@ -1,6 +1,6 @@
 # ... Public
 
-## 2024 quickLinks & quickNotes
+## 2024 quickLinks
 ...
 
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
@@ -51,6 +51,9 @@
               - document the participant's WiifmIdeas
                 - start with a set of RoadmapTiles
                   - there is likely a need for RmT2023/ -01- naming
+
+## 2024 quickNotes
+...
 
 <hr>
 
