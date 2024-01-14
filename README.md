@@ -5,10 +5,6 @@
 
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
   - ( can exotic chars help?  e.g. 辰 -
-    - they may not be needed given GitHub's RoadMap support and Links to external repos
-      - DebateGraph fir issue resolution
-      - Diigo Outliner and bestInClass bookmarking ;
-      - TiddlyHost for external WorkFlow Interfaces and Integration
       - ...
     -  apparently only if combined with another char since Chinese is quite common.
       -  try the gothicZ prefered as as a Z(ero non-word noun like 辰� - FAIL 
@@ -49,7 +45,11 @@
 ...
 
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
-- ...
+  - ...
+- They may not be needed given GitHub's RoadMap support and Links to external repos
+  - DebateGraph fir issue resolution
+  - Diigo Outliner and bestInClass bookmarking
+  - TiddlyHost for external WorkFlow Interfaces and Integration
 
 
 <hr>
