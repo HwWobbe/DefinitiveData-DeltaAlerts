@@ -4,9 +4,9 @@
 ...
 
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
-  -  ( can exotic chars help?  e.g. 辰 -
-    -  they may not be needed given GitHub's RoadMap support and Links to external repos
-      -  DebateGraph fir issue resolution
+  - ( can exotic chars help?  e.g. 辰 -
+    - they may not be needed given GitHub's RoadMap support and Links to external repos
+      - DebateGraph fir issue resolution
       - Diigo Outliner and bestInClass bookmarking ;
       - TiddlyHost for external WorkFlow Interfaces and Integration
       - ...
