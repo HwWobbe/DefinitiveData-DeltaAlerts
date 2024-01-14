@@ -4,15 +4,6 @@
 ...
 
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
-  - ( can exotic chars help?  e.g. 辰 -
-      - ...
-    -  apparently only if combined with another char since Chinese is quite common.
-      -  try the gothicZ prefered as as a Z(ero non-word noun like 辰� - FAIL 
-         - us eht eLativ Z like: 辰Z - nope, so 辰Z0
-      - decide when to:
-    - start removing material to .../2024
-      - one goal should be to reduce page scrolling
-    -  start working on a 'local' platform and trusting sync
    - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
      - this is a Jr goal that is not net confirmed
   - ...
@@ -55,6 +46,17 @@
 ## 2024 quickNotes
 ...
 
+- ( can exotic chars help?  e.g. 辰 -
+      - ...
+    -  apparently only if combined with another char since Chinese is quite common.
+      -  try the gothicZ prefered as as a Z(ero non-word noun like 辰� - FAIL 
+         - us eht eLativ Z like: 辰Z - nope, so 辰Z0
+      - decide when to:
+    - start removing material to .../2024
+      - one goal should be to reduce page scrolling
+    -  start working on a 'local' platform and trusting sync
+
+ 
 <hr>
 
 ## 2023 quickNotes
