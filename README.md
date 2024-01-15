@@ -1,26 +1,107 @@
 # ... Public
 
-## 2023 quickLinks
-
-- "file conflict" is appearing
-  - Preint & review the larger blocks
-- Spacing continues to be annoying.
-
-## 2023 quickLinks & quickNotes
+## 2024 quickLinks
 ...
 
-- review LinkedIn assignment notes for ..kesh scope
-  - verify the dupElimSheet
-    - repeat monetary cautions
-      - this work helped magane the acquisition process
+- ( roadMaps... )DashboardsH - need extension to be metaDash.H...
+   - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
+     - this is a Jr goal that is not yet confirmed
+  - ...
+    - -08: reviews with DPL
+      - UPlanet > GeoSpatial( Volcanos ) > StatsCan
+      - sketch the emerging processors hierarchy
+        - Azure > CSI/Df/repo(s) > NodeJs > ( TiddlyWiki < sqLite ) > CurbSide 
+           - consider:
+             - new Els tool with its image support
+               -  screenGrabs
+             - drawIO or ...
+      - test links to LinkedIn messages
+    - -10: reviews with Ls and aJo
+- include references from Pulse items to secondary progress goals
+- 2024 Budget approvals
+    - ...
+- link to the Git (reference sheet) "CheatSheet"
+
+- started RmT2024q1
+
+## 2024 initial RoadMap(s)
+...
+
+- ( roadMaps... )DashboardsH - need extension to be metaDash.H...
+  - ...
+- They may not be needed given GitHub's RoadMap support and Links to external repos
+  - DebateGraph for issue resolution
+  - Diigo Outliner and bestInClass bookmarking
+  - TiddlyHost for external WorkFlow Interfaces and Integration
+
+- ... some Private links are likely to be needed as formative (more detailed) plans emerge
+  - this should hide tentative ideas that cause confusion
+    - key-able characters should become the first interface to high InformationDensity UniCode Symbols and Words
+      - this can be achieved through nested DataDictionaries
+        - Dpl's Glossary goal may benefitt from the Emerging environment
+          - document the participant's WiifmIdeas
+            - start with a set of RoadmapTiles
+              - there is likely a need for RmT2023/ -01- naming
+
+## 2024 quickNotes
+...
+
+- ( can exotic chars help?  e.g. 辰 -
+      - ...
+    -  apparently only if combined with another char since Chinese is quite common.
+      -  try the gothicZ prefered as as a Z(ero non-word noun like 辰� - FAIL 
+         - us eht eLativ Z like: 辰Z - nope, so 辰Z0
+      - decide when to:
+    - start removing material to .../2024
+      - one goal should be to reduce page scrolling
+    -  start working on a 'local' platform and trusting sync
+ 
+<hr>
+
+## 2023 quickNotes
+- [2023-12](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-12-)
+  - link to twAzure as an umbrella for DefData
+    - this covers a NodeJs parasol that
+      - hosts WorkBooks as Json data objects.
+  - push the use of SqLite to hold GeoSpatial data
+    - initially this might make use got WoirkBooks as Json
+    - review the version of the SqLite/Dd that was delivered with a couple of hours today
+    - investigate the flask/python libraries
+  - Review "closingWords"
+    - Issues ...
+
+- [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
+  - Fri: Conference material ; Sat: add more links ; Sun: ; Mon: ... ; Tue: noSurprises GsdReview ; Wed: statement!
+    - try to avoid wrapping
+- review payment methods - on the basis of the most recent Invoice
+  - note the different presentations by BMO for Personal and Business accounts
+- select the initial MicroContent for  Jr from the new DataDictionary
+ - ...
 
 - it may be best to wait until -11- to further investigate "order"
   - this is because it will be too time consuming to close the existing gap
+    - a gradual migration is strongly preferred.
+   
+  - ... autoOutdent is not yet understoog
+ 
+- further autoOutdent
+
+- limit reached.
+- ...
+
+<hr>
 
 - consider open source Alerts - in conjunction with myEsdb
   - consider the CivicAtlas implications
     - ideally it will be possible to achieve "twoBirds"
   - involve/contemplate Jurgen too
+
+<hr>
+
+- the Tasks file served as an adequate Print test
+  - craft a prettyLink to it trom from here
+    - 7.1 DefDataTasks.md
+      - find a working example
 
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
@@ -41,8 +122,24 @@
 
 - Spacing continues to be annoying.
 
+#### -12-
+...
+##### travelling, with only limited 'net access -12(-10 ... -14).
+
+- posting will likely be interrupted
+- Spacing continues to be annoying.
+
+
 #### -11-
 ...
+
+- review LinkedIn assignment notes for ..kesh scope
+  - StringsServer development
+    - 250 for ... ; 350 for ... ; 550 for ...
+      - next interval to be set post the 1st
+  - verify the dupElimSheet
+    - repeat monetary cautions
+      - this work helped manage the acquisition process
 
 - review LinkedIn assignment notes for ..kesh scope
   - verify the dupElimSheet
@@ -78,6 +175,10 @@
   * ...
 * there is an aparent difference between this *.MD and another file's editMechanism.
 
+#### -08- (past) Due
+- use "hr" markup until the apparent vagaries of spacing are better understood
+  - this Sections will likely evolve into Files
+    - explore how files can then be attached to PRs (which should be easy, if only via Commwnts)
 
 ### 2024
 This area will be used to rough-out longer term plans.
@@ -185,6 +286,20 @@ This area will be used to rough-out longer term plans.
     * ...
 * expand the existing explanations of Significance-Precision
   * then start adding the .mi.ce.de.ye levels and their symbols
+
+#### -06-
+
+#### -05-
+
+#### -04-
+
+#### -03-
+
+#### -02-
+
+#### -01-
+
+<hr>
 
 # 2024:
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
