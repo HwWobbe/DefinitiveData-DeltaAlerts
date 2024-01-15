@@ -1,5 +1,10 @@
 # ... Public
 
+## 2023 quickLinks
+- prepare fr Sonny talks
+  - LzH discussion
+- Spacing continues to be annoying.
+
 ## 2024 quickLinks
 ...
 
