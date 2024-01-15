@@ -5,7 +5,7 @@
 
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
    - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
-     - this is a Jr goal that is not net confirmed
+     - this is a Jr goal that is not yet confirmed
   - ...
     - -08: reviews with DPL
       - UPlanet > GeoSpatial( Volcanos ) > StatsCan
