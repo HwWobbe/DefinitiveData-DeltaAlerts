@@ -1,11 +1,9 @@
 # ... Public
 
-## 2023 quickLinks
-- LzH discussion re a YyzTmoList pull
-- Spacing continues to be annoying.
-
 ## 2024 quickLinks
 ...
+
+- LzH discussion re a YyzTmoList pull
 
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
    - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
