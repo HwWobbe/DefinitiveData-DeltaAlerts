@@ -12,6 +12,7 @@
    - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
      - this is a Jr goal that is not yet confirmed
        - Dpl seems supportive - to be confirmed in the post Metting debrief of -02-19.
+         - ensure that Dpl get the same "do what you desire" respect given Jr
   - ...
     - -08: reviews with DPL
       - UPlanet > GeoSpatial( Volcanos ) > StatsCan
