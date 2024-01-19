@@ -1,8 +1,7 @@
 # ... Public
 
 ## 2023 quickLinks
-- prepare fr Sonny talks
-  - LzH discussion
+- LzH discussion re a YyzTmoList pull
 - Spacing continues to be annoying.
 
 ## 2024 quickLinks
