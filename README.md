@@ -5,6 +5,12 @@
 
 - LzH discussion re a YyzTmoList pull
   - this "makes sense" as a set of 9 monthly Yyz updates
+    - ensure everything possible is done to quantify the Accuracy and Coverage.
+      - this will ensure confidence in the Value of the service.
+        - a "checkout" process will obviously be needed to ensure appropriate actions are taken.
+      - Price should also be used to set Value with "last minute" updates are likely to be much more expensive than youtine maintenance.
+        - again, this must be quantified from both poerspectives
+    - Distrinbution rights are much less of a concern given :the Price must be the Price if Associates are to thrive.
 
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
    - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
