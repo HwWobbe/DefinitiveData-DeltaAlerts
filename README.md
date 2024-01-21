@@ -3,6 +3,9 @@
 ## 2024 quickLinks
 ...
 
+- a 2024/Name(s)s files should be mores memorable than the nascent 2024-01-DD files(s)
+  - make this an enhancement PR so iyt can be integrated more deeply in to the Milestone Projects GantCharts
+ 
 - LzH discussion re a YyzTmoList pull
   - this "makes sense" as a set of 9 monthly Yyz updates
     - ensure everything possible is done to quantify the Accuracy and Coverage.
