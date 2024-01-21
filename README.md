@@ -6,7 +6,7 @@
 
 - LzH discussion re a YyzTmoList pull
   - this "makes sense" as a set of 9 monthly Yyz updates
-    - link to the /2024/... file
+    - link to https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/commit/cdcf0261a94bbf79bb232489c5fbc791d1db2800#commitcomment-137521940
   - Distrinbution rights are much less of a concern given :the Price must be the Price if Associates are to thrive.
 
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
