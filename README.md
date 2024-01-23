@@ -4,6 +4,7 @@
 ## 2024 quickLinks
 ...
 
+- re-view of CurbSide in conjunction with Xememex/ & GeoSpatialH & Df:API(s) % SqLite
 - LzH discussion re a YyzTmoList pull
   - this "makes sense" as a set of 9 monthly Yyz updates
     - link to https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/commit/cdcf0261a94bbf79bb232489c5fbc791d1db2800#commitcomment-137521940
