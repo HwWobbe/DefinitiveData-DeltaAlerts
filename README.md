@@ -5,7 +5,11 @@
 ...
 
 - re-view of CurbSide in conjunction with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
-  - break this down into the Projects / Plans
+  - break this down into the Projects / Plans / Budgets
+    - subscription pricing can be set in the same Frequency of Alert manner
+      - Opt-out should still be allowed
+        - "mail-fail" alerts should be offered to newMovers in YYZ - EmaOn
+          - this could be done by Cities / utilities or MPAC or EmaOn - perhaps including a bureau report
  
 - LzH discussion re a YyzTmoList pull
   - this "makes sense" as a set of 9 monthly Yyz updates
