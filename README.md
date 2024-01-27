@@ -4,7 +4,7 @@
 ## 2024 quickLinks
 ...
 
-- re-view of CurbSide in conjunction with Xememex/ & GeoSpatialH & Df:API(s) % SqLite
+- re-view of CurbSide in conjunction with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
   - break this down into the Projects / Plans
  
 - LzH discussion re a YyzTmoList pull
