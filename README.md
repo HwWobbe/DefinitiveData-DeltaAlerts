@@ -10,6 +10,8 @@
       - Opt-out should still be allowed
         - "mail-fail" alerts should be offered to newMovers in YYZ - EmaOn
           - this could be done by Cities / utilities or MPAC or EmaOn - perhaps including a bureau report
+            - Alerts can be automated via CsCloud
+    - jkw hlh kfw re loyalty
  
 - LzH discussion re a YyzTmoList pull
   - this "makes sense" as a set of 9 monthly Yyz updates
