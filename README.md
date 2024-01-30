@@ -1,18 +1,16 @@
 
 # ... Public
 
-## 2024 quickLinks
-...
-
-- re-view of CurbSide in conjunction with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
-  - decide how to rs-structure this textual information to
-    - exploit the capabilitie of DebateGrapgh
-    - googleDocs: (collaborative editing) < googleKeep (easy Notes)
-    - Diigo: nesting tags & Annotation @ Outliner
-    - GitHub
-      -   @
-        -   CurbSide9. End notes
-  - jkw hlh kfw re loyalty
+# 2024 quickLinks
+## re-view of CurbSide in conjunction with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
+### decide how to rs-structure this textual information to
+#### exploit the capabilitie of DebateGrapgh
+#### googleDocs: (collaborative editing) < googleKeep (easy Notes)
+#### Diigo: nesting tags & Annotation @ Outliner
+- GitHub
+  - @
+  -   CurbSide9. End notes
+- jkw hlh kfw re loyalty
  
 - LzH discussion re a YyzTmoList pull
   - this "makes sense" as a set of 9 monthly Yyz updates
