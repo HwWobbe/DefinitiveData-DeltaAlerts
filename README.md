@@ -11,6 +11,10 @@
         - "mail-fail" alerts should be offered to newMovers in YYZ - EmaOn
           - this could be done by Cities / utilities or MPAC or EmaOn - perhaps including a bureau report
             - Alerts can be automated via CsCloud
+    - decide how to rs-structure this textual information to
+        - exploit the capabilitie of DebateGrapg
+        - googleDocs: (collaborative editing) < googleKeep (easy Notes)
+        - Diigo: nesting tags & Annotation @ Outliners
     - jkw hlh kfw re loyalty
  
 - LzH discussion re a YyzTmoList pull
