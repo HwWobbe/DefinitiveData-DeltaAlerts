@@ -5,7 +5,8 @@
 ## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 ### decide how to re-structure this textual information to
 #### exploit the capabilitie of DebateGrapgh
-- adds (alaborate) ConText and Formatting 
+- adds (elaborate) ConText and Formatting
+  - discuss a possible SdqServer > SqLite port 
 #### googleDocs: (collaborative editing) < googleKeep (easy Notes)
 - with DebateGraph as a possible Notes Pre0cursor
 #### Diigo: nesting tags & Annotation @ Outliner
