@@ -6,6 +6,7 @@
 ### decide how to re-structure this textual information to
 #### exploit the capabilitie of DebateGrapgh
 #### googleDocs: (collaborative editing) < googleKeep (easy Notes)
+- with DebateGraph as a possible Notes Pre0cursor that also adds Formating and ConText
 #### Diigo: nesting tags & Annotation @ Outliner
 - GitHub
   - @
