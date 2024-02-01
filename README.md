@@ -3,7 +3,7 @@
 
 # 2024 quickLinks
 ## re-view of CurbSide in conjunction with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
-### decide how to rs-structure this textual information to
+### decide how to re-structure this textual information to
 #### exploit the capabilitie of DebateGrapgh
 #### googleDocs: (collaborative editing) < googleKeep (easy Notes)
 #### Diigo: nesting tags & Annotation @ Outliner
