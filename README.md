@@ -1,5 +1,6 @@
 
 # ... Public
+DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 # 2024 quickLinks
 ## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
