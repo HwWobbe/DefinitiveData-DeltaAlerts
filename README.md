@@ -4,6 +4,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 # 2024 quickLinks
 ## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
+- 2024:0202: schedule adjustments are needed
 ### decide how to re-structure this textual information to
 #### exploit the capabilitie of DebateGrapgh
 - adds (elaborate) ConText and Formatting
