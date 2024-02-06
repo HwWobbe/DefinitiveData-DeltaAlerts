@@ -5,6 +5,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 # 2024 quickLinks
 ## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 - 2024:
+  - 0206: perhaps we should have an Excel file created for Jjw, that he can theen discuss with Kfw
   - 0205: suggest an enhanced focus on SqLite & its Table Fields
   - 0202: schedule adjustments are needed
 ### decide how to re-structure this textual information to
