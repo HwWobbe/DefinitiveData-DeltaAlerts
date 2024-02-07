@@ -5,7 +5,10 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 # 2024 quickLinks
 ## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 - 2024:
-  - 0207: review & respond to Nounbase
+  - 0207:
+    - review & respond to Nounbase
+    - prepare for PennyC * DefDataYyz > Eon > Eca
+      - try doing this in DG:Bubbles
   - 0206: perhaps we should have an Excel file created for Jkw, that he can theen discuss with Kfw
   - 0205: suggest an enhanced focus on SqLite & its Table Fields
   - 0202: schedule adjustments are needed
