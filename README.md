@@ -6,7 +6,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 - 2024:
   - 0210: refined LTD uses should improve navigation.
-    - 2011: tested and confirmed.  The evolution will likely lead to tiddleChains that may contain branching choice points
+    - 2011:
+      - tested and confirmed.  The evolution will likely lead to tiddleChains that may contain branching choice points
+      - review edit procedures for https://hwwobbe.github.io/
   - 0209: TwDd refinements / bootstrapping new version
   - 0207:
     - review & respond to Nounbase
