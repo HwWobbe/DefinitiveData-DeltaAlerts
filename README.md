@@ -17,17 +17,6 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - 0206: perhaps we should have an Excel file created for Jkw, that he can theen discuss with Kfw
   - 0205: suggest an enhanced focus on SqLite & its Table Fields
   - 0202: schedule adjustments are needed
-### decide how to re-structure this textual information to
-#### exploit the capabilitie of DebateGrapgh
-- adds (elaborate) ConText and Formatting
-  - discuss a possible SdqServer > SqLite port 
-#### googleDocs: (collaborative editing) < googleKeep (easy Notes)
-- with DebateGraph as a possible Notes Pre0cursor
-#### Diigo: nesting tags & Annotation @ Outliner
-- GitHub
-  - @
-  -   CurbSide9. End notes
-- jkw hlh kfw re loyalty
  
 - LzH discussion re a YyzTmoList pull
   - this "makes sense" as a set of 9 monthly Yyz updates
