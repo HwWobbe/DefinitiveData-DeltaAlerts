@@ -5,7 +5,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 # 2024 quickLinks
 ## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 - 2024:
-  - 0210: refined LTD uses.
+  - 0210: refined LTD uses should improve navigation.
   - 0209: TwDd refinements / bootstrapping new version
   - 0207:
     - review & respond to Nounbase
