@@ -7,7 +7,6 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - 2024:
   - 0215: re-schedule Demo for TomaA
     - now Focus on Dd
-    - changes posted appear to be delayed - seemed to be caught up
   - 0214: continue reducing this page
   - 0210: refined LTD uses should improve navigation.
     - 2011:
