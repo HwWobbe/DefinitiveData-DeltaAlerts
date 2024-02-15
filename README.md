@@ -5,6 +5,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 # 2024 quickLinks
 ## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 - 2024:
+  - 2015: re-schedule Demo for TomaA
   - 0210: refined LTD uses should improve navigation.
     - 2011:
       - tested and confirmed.  The evolution will likely lead to tiddleChains that may contain branching choice points
