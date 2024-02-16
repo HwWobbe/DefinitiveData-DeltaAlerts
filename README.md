@@ -6,6 +6,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 - 2024:
   - 0229: could be a logical page break
+    - in a regular month this wold leave 30 & 31 free for cleanup
+    - in a leap year, -02-29 is available as a fourYearMileStome
   - 0220: re-schedule Demo for TomaA
     - he is particularly interesetd in the Synchronization issue
       - Dpl confirms it is not trivial to move the SqLite file as party of the inBrowser payload
