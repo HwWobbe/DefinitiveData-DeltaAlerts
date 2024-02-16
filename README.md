@@ -7,7 +7,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - 2024:
   - 0220: re-schedule Demo for TomaA
     - he is particularly interesetd in the Synchronization issue
-      - is it not trivial to moce the SqLite file as party of the inBrowser payload?
+      - Dpl confirms it is not trivial to move the SqLite file as party of the inBrowser payload
+        - this makes synchronization more of a priority
   - 0216:
     - now Focus on Demos that advance the Yyz objective(s)
       - Penny @ MPAC ; Terry @ CA for Teranet insights ; EOn for recentMover TopUps
