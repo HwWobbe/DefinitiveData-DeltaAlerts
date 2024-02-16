@@ -5,6 +5,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 # 2024 quickLinks
 ## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 - 2024:
+  - 0331: March is about to become TtTmo rather that being TnTmo
   - 0229: could be a logical page break
     - in a regular month this wold leave 30 & 31 free for cleanup
     - in a leap year, -02-29 is available as a fourYearMileStome
