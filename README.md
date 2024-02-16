@@ -5,7 +5,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 # 2024 quickLinks
 ## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 - 2024:
-  - 0215: re-schedule Demo for TomaA
+  - 0220: re-schedule Demo for TomaA
+    - he is particularly interesetd in the Synchronization issue
+      - is it not trivial to moce the SqLite file as party of the inBrowser payload?
     - now Focus on Dd
   - 0214: continue reducing this page
   - 0210: refined LTD uses should improve navigation.
