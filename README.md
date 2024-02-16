@@ -9,7 +9,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - he is particularly interesetd in the Synchronization issue
       - is it not trivial to moce the SqLite file as party of the inBrowser payload?
   - 0216:
-    - now Focus on Dd
+    - now Focus on Demos
     - the changeUntil 10X limit seems to wotk better for focusing attention.
   - 0214: continue reducing this page
   - 0210: refined LTD uses should improve navigation.
