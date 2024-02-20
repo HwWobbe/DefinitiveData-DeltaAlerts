@@ -56,7 +56,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - -10: reviews with Ls and aJo
 - include references from Pulse items to secondary progress goals
 - 2024 Budget approvals
-    - ...
+    - Review post the -05- contract(s)
 - link to the Git (reference sheet) "CheatSheet"
 
 - started RmT2024q1
