@@ -3,8 +3,9 @@
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 # 2024 quickLinks
-## re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
-- 2024:
+## 2024:
+### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
+
   -0302:
     - Demos need definition
     - March is now TtTmo ( rather that being TnTmo- 0401 )
