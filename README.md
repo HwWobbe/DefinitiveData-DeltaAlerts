@@ -7,7 +7,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - 2024:
   - 0302: March is now TtTmo ( rather that being TnTmo- 0401 )
     - this type of timePeriod metamorphisis happens for all recocognized timePeriods
-  - 0229: 2 X Dev walkTrus
+  - 0229: 2 X Dev walkThru(s)
   - 0229: could be a logical page break
     - in a regular month this would leave 30 & 31 free for cleanup
     - in a leap year, -02-29 is available as a fourYearMileStome
