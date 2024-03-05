@@ -6,7 +6,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## 2024:
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
-  - 0303: - Demo plans refined ( TerryP SeqU NounB )
+  - 0305: - Demo plans refined ( ls.SeqU NounB TerryP vusoft )
   - 0302:
     - Demos need definition
     - March is now TtTmo ( rather that being TnTmo- 0401 )
