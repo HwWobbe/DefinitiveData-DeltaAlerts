@@ -6,6 +6,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## 2024:
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
+  - 0310: CurbSide Features demo or Fuctiuons demo ??
+    - Features should focus on myFirstAvm > build to buyTheMPAC version for Trust.
+      - measure the discrepancies that arise as specs are tailor to mySpecific needs 
   - 0305: - Demo plans refined ( ls.SeqU NounB TerryP vusoft )
   - 0302:
     - Demos need definition
