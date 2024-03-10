@@ -8,7 +8,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
   - 0310: CurbSide Features demo or Fuctiuons demo ??
     - Features should focus on myFirstAvm > build to buyTheMPAC version for Trust.
-      - measure the discrepancies that arise as specs are tailor to mySpecific needs 
+      - measure the discrepancies that arise as specs are tailor to mySpecific needs
+        - consider the functionsl cspsbilitiesd of the TidTools imageCapture tool
+          - this may be an effective way of crafting relativeStrength pl;ots that support myHomeValues
   - 0305: - Demo plans refined ( ls.SeqU NounB TerryP vusoft )
   - 0302:
     - Demos need definition
