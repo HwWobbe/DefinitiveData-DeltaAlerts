@@ -7,6 +7,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
   - 0311:
+    - bundle some changes into another PR.
+      - ...
     - test tablet access
       - ( reduce the Security concerns )
     - Postman is needed to use the API.
