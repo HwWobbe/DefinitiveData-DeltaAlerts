@@ -6,8 +6,11 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## 2024:
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
-  - 0311: Postman is needed to use the API.
-    - Dpl offered assistance
+  - 0311:
+    - test tablet access
+      - ( reduce the Security concerns )
+    - Postman is needed to use the API.
+      - Dpl offered assistance
   - 0310: CurbSide Features demo or Fuctions demo ??
     - Features should focus on myFirstAvm > build to buyTheMPAC version for Trust.
       - measure the discrepancies that arise as specs are tailor to mySpecific needs
