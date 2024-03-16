@@ -9,6 +9,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - 0316:
     - prototype a ChatDd to assess the capabilities of small , local solutions.
     - ensure access to a simple editor for local *.html pages, when working on Android.
+    - review the Chat infrastructure across all systems
   - 0315: 0313: 0311:
     - test tablet access
       - ( reduce the Security concerns )
