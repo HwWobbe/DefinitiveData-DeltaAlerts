@@ -10,6 +10,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - test tablet access
       - ( reduce the Security concerns )
       - seems adequate for now, combined with 2FA
+      - this is valid at least for the larger tablet.
+        - the small can be reviewed using desktop techs to prepare account creds.
     - Postman is needed to use the API.
       - Dpl offered assistance
     - added CsC & GsC - ( Curb side & Geo spatial )
