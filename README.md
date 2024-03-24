@@ -109,6 +109,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 ## 2024 quickNotes
 ...
+- review LinkedIn assignment notes for ..kesh scope
+  - verify the dupElimSheet
+  -   repeat monetary cautions
 
 - ( can exotic chars help?  e.g. 辰 -
       - ...
@@ -151,7 +154,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - further autoOutdent
 
 - limit reached.
-- ...
+  - ...
+
 
 <hr>
 
