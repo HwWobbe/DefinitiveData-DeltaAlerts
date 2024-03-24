@@ -51,6 +51,19 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - link to https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/commit/cdcf0261a94bbf79bb232489c5fbc791d1db2800#commitcomment-137521940
   - Distrinbution rights are much less of a concern given :the Price must be the Price if Associates are to thrive.
 
+- include references from Pulse items to secondary progress goals
+- 2024 Budget approvals
+    - Review post the -05- contract(s)
+- link to the Git (reference sheet) "CheatSheet"
+
+- started RmT2024q1
+
+## 2024 initial RoadMap(s)
+...
+
+- ( roadMaps... )DashboardsH - need extension to be metaDash.H...
+  - ...
+
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
    - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
      - this is a Jr goal that is not yet confirmed
@@ -67,18 +80,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
              - drawIO or ...
       - test links to LinkedIn messages
     - -10: reviews with Ls and aJo
-- include references from Pulse items to secondary progress goals
-- 2024 Budget approvals
-    - Review post the -05- contract(s)
-- link to the Git (reference sheet) "CheatSheet"
 
-- started RmT2024q1
-
-## 2024 initial RoadMap(s)
-...
-
-- ( roadMaps... )DashboardsH - need extension to be metaDash.H...
-  - ...
 - They may not be needed given GitHub's RoadMap support and Links to external repos
   - DebateGraph for issue resolution
   - Diigo Outliner and bestInClass bookmarking
