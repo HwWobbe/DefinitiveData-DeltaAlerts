@@ -7,6 +7,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
   - 0323: general updates to plans
+    - these should be expressed as a PR
     - increase the Demo emphasis.
       - focus on the Sales opinions after an initial PreView
         - prepare a script that the Devs can use for the PreView
