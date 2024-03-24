@@ -7,16 +7,16 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
   - 0323: general updates to plans
-  - 0316:
-    - prototype a ChatDd to assess the capabilities of small , local solutions.
-    - ensure access to a simple editor for local *.html pages, when working on Android.
-      - do this before the next trip
     - increase the Demo emphasis.
       - focus on the Sales opinions after an initial PreView
         - prepare a script that the Devs can use for the PreView
           - this should make use of the off shore Latitude * Longitude data capture
             - push this at Jkw & Kfw
               - have them prepare a demo for Sales / Penny & Hlh
+  - 0316:
+    - prototype a ChatDd to assess the capabilities of small , local solutions.
+    - ensure access to a simple editor for local *.html pages, when working on Android.
+      - do this before the next trip
     - review the Chat infrastructure across all systems
   - 0315: 0313: 0311:
     - test tablet access
