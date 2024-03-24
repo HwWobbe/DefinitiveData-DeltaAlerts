@@ -6,6 +6,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## 2024:
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
+  - 0311:
+    - bundle some changes into another PR.
+      - ...
   - 0323: general updates to plans
     - these should be expressed as a PR
     - increase the Demo emphasis.
@@ -14,11 +17,13 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
           - this should make use of the off shore Latitude * Longitude data capture
             - push this at Jkw & Kfw
               - have them prepare a demo for Sales / Penny & Hlh
+
   - 0316:
     - prototype a ChatDd to assess the capabilities of small , local solutions.
     - ensure access to a simple editor for local *.html pages, when working on Android.
       - do this before the next trip
     - review the Chat infrastructure across all systems
+
   - 0315: 0313: 0311:
     - test tablet access
       - ( reduce the Security concerns )
@@ -29,16 +34,18 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
       - Dpl offered assistance
         - els said that he knew this was now a priority
     - added CsC & GsC - ( Curb side & Geo spatial )
-  - 0310: CurbSide Features demo or Fuctions demo ??
-    - Features should focus on myFirstAvm > build to buyTheMPAC version for Trust.
-      - measure the discrepancies that arise as specs are tailor to mySpecific needs
-        - consider the functionsl cspsbilitiesd of the TidTools imageCapture tool
-          - this may be an effective way of crafting relativeStrength pl;ots that support myHomeValues
+
+- 0310: CurbSide Features demo or Fuctions demo ??
+  - Features should focus on myFirstAvm > build to buyTheMPAC version for Trust.
+    - measure the discrepancies that arise as specs are tailor to mySpecific needs
+      - consider the functionsl cspsbilitiesd of the TidTools imageCapture tool
+        - this may be an effective way of crafting relativeStrength pl;ots that support myHomeValues
   - 0305: - Demo plans refined ( ls.SeqU NounB TerryP vusoft )
   - 0302:
     - Demos need definition
     - March is now TtTmo ( rather that being TnTmo- 0401 )
       - this type of timePeriod metamorphisis happens for all recocognized timePeriods
+
   - 0229: 2 X Dev walkThru(s)
   - 0229: could be a logical page break
     - in a regular month this would leave 30 & 31 free for cleanup
