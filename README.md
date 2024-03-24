@@ -1,18 +1,180 @@
-# ... Public
 
-## 2023 quickLinks
+# ... Public
+DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
+
+# 2024 quickLinks
+## 2024:
+### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
+
+  - 0323: general updates to plans
+  - 0316:
+    - prototype a ChatDd to assess the capabilities of small , local solutions.
+    - ensure access to a simple editor for local *.html pages, when working on Android.
+    - review the Chat infrastructure across all systems
+    - increase the Demo emphasis.
+  - 0315: 0313: 0311:
+    - test tablet access
+      - ( reduce the Security concerns )
+      - seems adequate for now, combined with 2FA
+      - this is valid at least for the larger tablet.
+        - the small can be reviewed using desktop techs to prepare account creds.
+    - Postman is needed to use the API.
+      - Dpl offered assistance
+        - els said that he knew this was now a priority
+    - added CsC & GsC - ( Curb side & Geo spatial )
+  - 0310: CurbSide Features demo or Fuctions demo ??
+    - Features should focus on myFirstAvm > build to buyTheMPAC version for Trust.
+      - measure the discrepancies that arise as specs are tailor to mySpecific needs
+        - consider the functionsl cspsbilitiesd of the TidTools imageCapture tool
+          - this may be an effective way of crafting relativeStrength pl;ots that support myHomeValues
+  - 0305: - Demo plans refined ( ls.SeqU NounB TerryP vusoft )
+  - 0302:
+    - Demos need definition
+    - March is now TtTmo ( rather that being TnTmo- 0401 )
+      - this type of timePeriod metamorphisis happens for all recocognized timePeriods
+  - 0229: 2 X Dev walkThru(s)
+  - 0229: could be a logical page break
+    - in a regular month this would leave 30 & 31 free for cleanup
+    - in a leap year, -02-29 is available as a fourYearMileStome
+    - review https://github.com/sequentech
+  - 0220: re-schedule Demo for TomaA
+    - he is particularly interesetd in the Synchronization issue
+      - Dpl confirms it is not trivial to move the SqLite file as party of the inBrowser payload
+        - this makes synchronization more of a priority
+  - 0216:
+    - now Focus on Demos that advance the Yyz objective(s)
+      - Penny @ MPAC ; Terry @ CA for Teranet insights ; EOn for recentMover TopUps
+    - the changeUntil 10X limit seems to wotk better for focusing attention.
+  - 0214: continue reducing this page
+  - 0210: refined LTD uses should improve navigation.
+    - 2011:
+      - tested and confirmed.
+        - The evolution will likely lead to tiddleChains that may contain branching choice points
+      - review edit procedures for https://hwwobbe.github.io/
+  - 0209: TwDd refinements / bootstrapping new version
+  - 0207:
+    - review & respond to Nounbase
+    - prepare for PennyC * DefDataYyz > Eon > Eca
+      - try doing this in DG:Bubbles
+  - 0206: perhaps we should have an Excel file created for Jkw, that he can theen discuss with Kfw
+  - 0205: suggest an enhanced focus on SqLite & its Table Fields
+  - 0202: schedule adjustments are needed
+ 
+- LzH discussion re a YyzTmoList pull
+  - this "makes sense" as a set of 9 monthly Yyz updates
+    - link to https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/commit/cdcf0261a94bbf79bb232489c5fbc791d1db2800#commitcomment-137521940
+  - Distrinbution rights are much less of a concern given :the Price must be the Price if Associates are to thrive.
+
+- ( roadMaps... )DashboardsH - need extension to be metaDash.H...
+   - re-work these on the assumption that Df will start assuming the production developmentment work under "relationship" building.
+     - this is a Jr goal that is not yet confirmed
+       - Dpl seems supportive - to be confirmed in the post Metting debrief of -02-19.
+         - ensure that Dpl get the same "do what you desire" respect given Jr
+  - ...
+    - -08: reviews with DPL
+      - UPlanet > GeoSpatial( Volcanos ) > StatsCan
+      - sketch the emerging processors hierarchy
+        - Azure > CSI/Df/repo(s) > NodeJs > ( TiddlyWiki < sqLite ) > CurbSide 
+           - consider:
+             - new Els tool with its image support
+               -  screenGrabs
+             - drawIO or ...
+      - test links to LinkedIn messages
+    - -10: reviews with Ls and aJo
+- include references from Pulse items to secondary progress goals
+- 2024 Budget approvals
+    - Review post the -05- contract(s)
+- link to the Git (reference sheet) "CheatSheet"
+
+- started RmT2024q1
+
+## 2024 initial RoadMap(s)
 ...
 
+- ( roadMaps... )DashboardsH - need extension to be metaDash.H...
+  - ...
+- They may not be needed given GitHub's RoadMap support and Links to external repos
+  - DebateGraph for issue resolution
+  - Diigo Outliner and bestInClass bookmarking
+  - TiddlyHost for external WorkFlow Interfaces and Integration
+
+- ... some Private links are likely to be needed as formative (more detailed) plans emerge
+  - this should hide tentative ideas that cause confusion
+    - key-able characters should become the first interface to high InformationDensity UniCode Symbols and Words
+      - this can be achieved through nested DataDictionaries
+        - Dpl's Glossary goal may benefitt from the Emerging environment
+          - document the participant's WiifmIdeas
+            - start with a set of RoadmapTiles
+              - there is likely a need for RmT2023/ -01- naming
+
+## 2024 quickNotes
+...
 - review LinkedIn assignment notes for ..kesh scope
   - verify the dupElimSheet
   -   repeat monetary cautions
 
+- ( can exotic chars help?  e.g. 辰 -
+      - ...
+    -  apparently only if combined with another char since Chinese is quite common.
+      -  try the gothicZ prefered as as a Z(ero non-word noun like 辰� - FAIL 
+         - us eht eLativ Z like: 辰Z - nope, so 辰Z0
+      - decide when to:
+    - start removing material to .../2024
+      - one goal should be to reduce page scrolling
+    -  start working on a 'local' platform and trusting sync
+ 
+<hr>
+
+## 2023 quickNotes
+- [2023-12](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-12-)
+  - link to twAzure as an umbrella for DefData
+    - this covers a NodeJs parasol that
+      - hosts WorkBooks as Json data objects.
+  - push the use of SqLite to hold GeoSpatial data
+    - initially this might make use got WoirkBooks as Json
+    - review the version of the SqLite/Dd that was delivered with a couple of hours today
+    - investigate the flask/python libraries
+  - Review "closingWords"
+    - Issues ...
+
+- [2023-11](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#-11-)
+  - Fri: Conference material ; Sat: add more links ; Sun: ; Mon: ... ; Tue: noSurprises GsdReview ; Wed: statement!
+    - try to avoid wrapping
+- review payment methods - on the basis of the most recent Invoice
+  - note the different presentations by BMO for Personal and Business accounts
+- select the initial MicroContent for  Jr from the new DataDictionary
+ - ...
+
+- it may be best to wait until -11- to further investigate "order"
+  - this is because it will be too time consuming to close the existing gap
+    - a gradual migration is strongly preferred.
+   
+  - ... autoOutdent is not yet understoog
+ 
+- further autoOutdent
+
+- limit reached.
+  - ...
+
+
+<hr>
+
+- consider open source Alerts - in conjunction with myEsdb
+  - consider the CivicAtlas implications
+    - ideally it will be possible to achieve "twoBirds"
+  - involve/contemplate Jurgen too
+
+<hr>
+
+- the Tasks file served as an adequate Print test
+  - craft a prettyLink to it trom from here
+    - 7.1 DefDataTasks.md
+      - find a working example
+
 - "expectations to satisfy for dependents" ranks higher than my "new Initiatives"
   - consider Trusted Commitments
     - it may be easier to jumpTo rather than integrateFrom
-- https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
-  - retrieve CurbSide
-    - check -e's eMail
+
 - check the portal after adding a link here
   - review the server offer
     - do this as quickly as possible to gain architectural insights
@@ -26,46 +188,94 @@
   - (auto)merge when possible
     - review the Git commands
 
-#### -10-
-* respond to Sonny re hire
-  * perhaps by a trusted associate - if that enhances their value to ...Df
-    * discussed by LzH
-      * sent resume to Lz
-* consider the possible interactions of CivicAtlasDf
-  * JrH discussions are cautionary
-  * DLDfT chat ...
+- Spacing continues to be annoying.
 
-#### -09- Due
-* ...
-* AssertiveWIFM additions for RichardC
-  * these are increasingly unlikely to be of interest to Richard
-    * shift focus to the ConventD audience to support the ThreeTransitions
-  * pursue this in spite of travel slippage
-    * distribute as intended, regardless of travel
+#### -12-
+...
+##### travelling, with only limited 'net access -12(-10 ... -14).
+
+- posting will likely be interrupted
+- Spacing continues to be annoying.
+
+
+#### -11-
+...
+
+- review LinkedIn assignment notes for ..kesh scope
+  - StringsServer development
+    - 250 for ... ; 350 for ... ; 550 for ...
+      - next interval to be set post the 1st
+  - verify the dupElimSheet
+    - repeat monetary cautions
+      - this work helped manage the acquisition process
+
+- review LinkedIn assignment notes for ..kesh scope
+  - verify the dupElimSheet
+    - repeat monetary cautions
+      - consider the retainer request
+
+- can StringsH.DDs be used to invoke API's
+  - try GeoSpatial access via Co-Op AND 'kesh
+
+- it may be best to wait until -11- to further investigate "order"
+  - this is because it will be too time consuming to close the existing gap
+    - some indicators are worth checking, in the mean time
+
+<hr>
+
+#### -10-
+- DataFlow architecture thoughts need more attention given the Client/Server dichotomies evident in the JrEsHw chat
+  - ... 
+- respond to Sonny re hire
+  - perhaps by a trusted associate - if that enhances their value to ...Df
+    - discussed by LzH
+      - sent resume to Lz
+- consider the possible interactions of CivicAtlasDf
+  - JrH discussions are cautionary
+  - DLDfT chat ...
+
+- https://github.com/HwWobbe/DefinitiveData-DeltaAlerts#-2023-07
+  - retrieval of CurbSide issue was caused by Case sensitivity on TT.folders.
+    - check -e's eMail
+
+#### -09- (past) Due
 * preliminary GeoSpatial assessments
   * ...
 * there is an aparent difference between this *.MD and another file's editMechanism.
 
+#### -08- (past) Due
+- use "hr" markup until the apparent vagaries of spacing are better understood
+  - this Sections will likely evolve into Files
+    - explore how files can then be attached to PRs (which should be easy, if only via Commwnts)
+
 ### 2024
 This area will be used to rough-out longer term plans.
 
-* more substantive GitHub work may evolve from using the desktop version(s)
-* ...
+- more substantive GitHub work may evolve from using the desktop version(s)
+
 
 ### 2023
-* make the SoW.HowTo available throughout DataFix, after a GsdT review
-  * run this by DelDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
-    * Devs should share "onBoarding" tasks
-      * this ( incumbent/proponent ) Training needs to happen at all three of the levels
-* Define and Conduct some Code Reviews
+- Waterloo trip Agenda
+
+
+#### -11-
+- CivicAtlas waterloo visit ?
+
+- make the SoW.HowTo available throughout DataFix, after a GsdT review
+  - run this by DevDf first, perhaps as a basis for a Job Description for a Co-Op with Derrick.
+    - Devs should share "onBoarding" tasks
+      - this ( incumbent/proponent ) Training needs to happen at all three of the levels
+- Define and Conduct some Code Reviews
 
 #### -10-
-* evaluate CivicAtlas
-  * gain access to operational code that we can try building a application in
-    * consider the API issues
-  * interface to GeoSpatial
-    * offer a demo
- 
+- evaluate CivicAtlas
+  - gain access to operational code that we can try building an application in
+    - consider the API issues
+  - interface to GeoSpatial
+    - offer a demo
+- progress impeded: health ; NDA processing ; ...
+
+
 #### -09-
 ...
 
@@ -144,6 +354,20 @@ This area will be used to rough-out longer term plans.
     * ...
 * expand the existing explanations of Significance-Precision
   * then start adding the .mi.ce.de.ye levels and their symbols
+
+#### -06-
+
+#### -05-
+
+#### -04-
+
+#### -03-
+
+#### -02-
+
+#### -01-
+
+<hr>
 
 # 2024:
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
