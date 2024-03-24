@@ -16,6 +16,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
         - prepare a script that the Devs can use for the PreView
           - this should make use of the off shore Latitude * Longitude data capture
             - push this at Jkw & Kfw
+              - have them prepare a demo for Sales / Penny & Hlh
     - review the Chat infrastructure across all systems
   - 0315: 0313: 0311:
     - test tablet access
