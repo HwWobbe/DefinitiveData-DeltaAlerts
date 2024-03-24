@@ -6,6 +6,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## 2024:
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
+  - 0323: general updates to plans
   - 0316:
     - prototype a ChatDd to assess the capabilities of small , local solutions.
     - ensure access to a simple editor for local *.html pages, when working on Android.
