@@ -19,6 +19,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
         - the small can be reviewed using desktop techs to prepare account creds.
     - Postman is needed to use the API.
       - Dpl offered assistance
+        - els said that he knew this was now a priority
     - added CsC & GsC - ( Curb side & Geo spatial )
   - 0310: CurbSide Features demo or Fuctions demo ??
     - Features should focus on myFirstAvm > build to buyTheMPAC version for Trust.
