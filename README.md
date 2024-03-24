@@ -12,6 +12,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - ensure access to a simple editor for local *.html pages, when working on Android.
       - do this before the next trip
     - increase the Demo emphasis.
+      - focus on the Sales opinions after an initial PreView
+        - prepare a script that the Devs can use for the PreView
     - review the Chat infrastructure across all systems
   - 0315: 0313: 0311:
     - test tablet access
