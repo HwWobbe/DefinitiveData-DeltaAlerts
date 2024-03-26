@@ -6,7 +6,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## 2024:
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
-  - 0311:
+  - 0325: wikiPedia spat re userPages needs resolution
+  - 0321:
     - bundle some changes into another PR.
       - ...
   - 0323: general updates to plans
