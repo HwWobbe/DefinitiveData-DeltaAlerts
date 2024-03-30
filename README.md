@@ -7,6 +7,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
   - 0325: wikiPedia spat re userPages needs resolution
+    - 0330: permanent edit Ban by pirranah in spite of reassurances & goodFaith progress
   - 0321:
     - bundle some changes into another PR.
       - ...
