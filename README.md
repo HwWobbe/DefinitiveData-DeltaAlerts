@@ -10,6 +10,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - 0330: permanent edit Ban by pirranah in spite of reassurances & goodFaith progress
       - monitor for mitigation, in spite of low probability
         - prepare a reasoned public retort - twitter is a valid media to use
+          - suggest - just a caution - as a learning experience - since bullying comes natuarally to many
   - 0321:
     - bundle some changes into another PR.
       - ...
