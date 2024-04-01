@@ -2,6 +2,8 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+- https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-04
+
 # 2024 quickLinks
 ## 2024:
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
