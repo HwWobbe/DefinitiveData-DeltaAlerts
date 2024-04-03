@@ -8,6 +8,10 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 # 2024 quickLinks
 ## 2024:
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
+
+  -0403:
+    - ...
+    
   - 0321:
     - bundle some changes into another PR.
       - ...
