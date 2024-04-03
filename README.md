@@ -63,11 +63,15 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## 2024 initial RoadMap(s)
 ### 2024-04
 
+#### priors needing resolution
+
   - 0325: wikiPedia spat re userPages needs resolution - 0331: Oops: too late.
     - 0330: permanent edit Ban by pirranah in spite of reassurances & goodFaith progress
       - monitor for mitigation, in spite of low probability
         - prepare a reasoned public retort - twitter is a valid media to use
           - suggest - just a caution - as a learning experience - since bullying comes natuarally to many
+
+#### other:
 
 - ( roadMaps... )DashboardsH - need extension to be metaDash.H...
   - ...
