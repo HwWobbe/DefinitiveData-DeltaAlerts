@@ -9,9 +9,10 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## 2024:
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
-  -0405: Toma initial Role clarification?
+  - 0408: Sonny status?
+  - 0405: Toma initial Role clarification?
   
-  -0403:
+  - 0403:
     - ...
     
   - 0321:
