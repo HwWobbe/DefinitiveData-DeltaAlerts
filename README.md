@@ -10,6 +10,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
 
   - 0408: Sonny status?
+    - -16: Lz to pay and & - also to review missing YYZ slices
     - -04: LzH discussion
   - 0405: Toma initial Role clarification?
     - -19: gather feedback
