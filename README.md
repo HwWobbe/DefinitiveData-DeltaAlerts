@@ -8,7 +8,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 # 2024 quickLinks
 ## 2024:
 ### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite
-
+  - 0420: Lz personal delay
   - 0418: LzH File & Demos
   - 0408: Sonny status: Paid & active
     - -16: Lz to pay and & - also to review missing YYZ slices
