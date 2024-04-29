@@ -17,14 +17,17 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - 0421: Gjw post-operation visit
   - 0420: Lz personal delay
   - 0418: LzH File & Demos
-  - 0408: Sonny status: Paid & active
-    - -16: Lz to pay and & - also to review missing YYZ slices
-    - -04: LzH discussion
-  - 0405: Toma initial Role clarification?
-    - -19: gather feedback
-  
-  - 0403:
-    - ...
+
+#### 2024-04-0? fortnight
+- 0408: Sonny status: Paid & active
+  - -16: Lz to pay and & - also to review missing YYZ slices
+  - -04: LzH discussion
+- 0405: Toma initial Role clarification?
+  - -19: gather feedback
+- 0403:
+  - ...
+
+    #### ...
     
   - 0321:
     - bundle some changes into another PR.
