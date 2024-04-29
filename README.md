@@ -9,7 +9,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 ## 2024:
 ### 2024-04:
-#### re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite 
+#### 2024-04-2?: re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite 
   - 0429: Marketing Plan review - tomorrow
   - 0426: keyboard upgrade - Logitech
   - 0425: Realtor ; Penney , Lz
