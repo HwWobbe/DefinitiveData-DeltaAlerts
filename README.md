@@ -17,7 +17,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - 0421: Gjw post-operation visit
   - 0420: Lz personal delay
 
-#### 0418: LzH File & Demos
+#### 2024-04-1?: -18: LzH File & Demos
 
 #### 2024-04-0? fortnight
 - 0408: Sonny status: Paid & active
