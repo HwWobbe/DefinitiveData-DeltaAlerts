@@ -9,7 +9,12 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 ## 2024:
 ### 2024-05:
-* Toma's Data Fix(es) are promising.
+- Toma's Data Fix(es) are promising.
+  - encourage them, but
+    - lead towards more immediate uses, perhaps chaining
+      - By(s). > Boards > ( Eon & MPAC )
+      - OnTheList uses
+        - Using JkLaLi 
 
 - ReFocus: OnTheList ?
 
