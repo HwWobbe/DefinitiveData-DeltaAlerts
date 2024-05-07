@@ -14,7 +14,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - lead towards more immediate uses, perhaps chaining
       - By(s). > Boards > ( Eon & MPAC )
       - OnTheList uses
-        - Using JkLaLi 
+        - Using JkLaLi
+      - Fraud ( Colin ; DrK ) > Bureaux
 
 - ReFocus: OnTheList ?
 
