@@ -9,7 +9,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 ## 2024:
 ### 2024-05:
-...
+* Toma's Data Fix(es) are promising.
 
 - ReFocus: OnTheList ?
 
