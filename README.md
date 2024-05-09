@@ -4,9 +4,11 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - OnTheList
   - ...
+- gist clean-up & consolidation
+  - may provide an accessible HTML LandingPage
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-04
   - degrade the prior month's notes
-- gist clean-up & consolidation
+
  
 # 2024 quickLinks
 
