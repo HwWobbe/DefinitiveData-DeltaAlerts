@@ -2,6 +2,8 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+- OnTheList
+  - ...
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-04
   - degrade the prior month's notes
  
