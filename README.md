@@ -31,7 +31,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - d eferred pending Contract considerations
   - 0426: keyboard upgrade - Logitech
     - stalled whilst searching for documentation
-      - review YouTube
+      - review of YouTube worked. - progress made but more study needed
   - 0425: Realtor ; Penney , Lz
   - 0424: consider WikiPedia fundraising response - ...
   - 0423: plan for improved Asset Management 
