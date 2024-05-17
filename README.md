@@ -23,7 +23,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
       - ( GaryP ) > TerryP 
       - Fraud ( Colin ; DrK ) > Bureaux
 
-- ReFocus: OnTheList ?
+- ReFocus: OnTheList - to meet the integrate DfVv & AdManCa wish of Dpl
 
 ### 2024-04:
 #### 2024-04-2?: re-view of CurbSide with Xememex/ & GeoSpatialH & Df:API(s) & SqLite 
