@@ -3,7 +3,8 @@
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - OnTheList
-  - ...
+  - confirm this is an adequate reponse for Dpl
+ 
 - gist clean-up & consolidation
   - may provide an accessible HTML LandingPage
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-04
