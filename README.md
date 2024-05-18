@@ -7,6 +7,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
  
 - gist clean-up & consolidation
   - may provide an accessible HTML LandingPage
+- https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry 
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-04
   - degrade the prior month's notes
   - start making TnWork relationship notes
