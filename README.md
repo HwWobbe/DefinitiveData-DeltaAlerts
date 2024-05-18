@@ -7,6 +7,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
  
 - gist clean-up & consolidation
   - may provide an accessible HTML LandingPage
+    - standardize SymbolsH
+      - ideally via a methodology
     - test via DiggoH
 - DiigoH & ./Wiki's neeeds further integration
 - https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry
