@@ -4,6 +4,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - OnTheList
   - confirm this is an adequate reponse for Dpl
+  - Gary sees this as a way of getting me involved in GroupTerryT
+    - This group seems to have too many interested parties
+      - If you want to go quickly - go alone.  If far, go together"
  
 - gist clean-up & consolidation
   - may provide an accessible HTML LandingPage
