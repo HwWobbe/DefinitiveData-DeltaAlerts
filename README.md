@@ -10,6 +10,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
  
 - gist clean-up & consolidation
   - may provide an accessible HTML LandingPage
+    - test this
     - standardize SymbolsH
       - ideally via a methodology
     - test via DiggoH
