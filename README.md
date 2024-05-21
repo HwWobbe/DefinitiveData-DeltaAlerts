@@ -16,6 +16,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
       - ideally via a methodology
     - test via DiggoH
 - DiigoH & ./Wiki's neeeds further integration
+  - consider: DebateGraph DropBox DynaList
 - https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry
 - review wikis
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-04
