@@ -11,6 +11,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - his assumption seems to be that I will get a Ministerial meeting to try for Centre of Excellence funding
       - try crafting a separate PreponderanceOf Evidence page
         - this could appear within two repos, perhaps using git commands
+          - ideally, one should be private 
  
 - Add to preponderanceOfEvidence with a verifiedON YYMMDD value.
   - supoport any ontario property owner ( span regions )
