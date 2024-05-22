@@ -9,6 +9,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - This group seems to have too many interested parties
       - If you want to go quickly - go alone.  If far, go together"
     - his assumption seems to be that I will get a Ministerial meeting to try for Centre of Excellence funding
+      - try crafting a separate PreponderanceOf Evidence page
  
 - Add to preponderanceOfEvidence with a verifiedON YYMMDD value.
   - supoport any ontario property owner ( span regions )
