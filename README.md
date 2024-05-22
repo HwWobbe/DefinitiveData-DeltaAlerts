@@ -8,6 +8,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - Gary sees this as a way of getting me involved in GroupTerryP
     - This group seems to have too many interested parties
       - If you want to go quickly - go alone.  If far, go together"
+    - his assumption seems to be that I will get a Ministerial meeting to try for Centre of Excellence funding
  
 - gist clean-up & consolidation
   - may provide an accessible HTML LandingPage
