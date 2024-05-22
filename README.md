@@ -23,7 +23,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-04
   - degrade the prior month's notes
   - start making TnWork relationship notes
-- explore and encourage Eric's efforts
+- explore and encourage the EricS efforts
  
 # 2024 quickLinks
 
