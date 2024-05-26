@@ -26,6 +26,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - standardize SymbolsH
       - ideally via a methodology
     - test via DiggoH
+- more integration of CPT seems beneficial to my workflows
 - DiigoH & ./Wiki's neeeds further integration
   - consider: DebateGraph DropBox DynaList
 - https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry
