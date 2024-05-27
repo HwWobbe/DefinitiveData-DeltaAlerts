@@ -1,6 +1,8 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+- 2024:05-27: internal Navigation improvements based on H1 - H6 use
+
 - 2024-05-24: 🔢 - others selections seem to result from the :... like: 💯 ...
   
 - OnTheList
