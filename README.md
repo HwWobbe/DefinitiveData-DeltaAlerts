@@ -2,8 +2,7 @@
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - 2024-05-24: 🔢 - others selections seem to result from the :... like: 💯 ...
-  - 🈵 - could this be a clipboard effect?
-  - try searching for these symbols
+  
 - OnTheList
   - confirm this is an adequate reponse for Dpl
     - strength the VV focus
@@ -25,6 +24,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - test this
     - standardize SymbolsH
       - ideally via a methodology
+        - 🈵 - could this be a clipboard effect?
+        - try searching for these symbols
     - test via DiggoH
 - more integration of CPT seems beneficial to my workflows
 - DiigoH & ./Wiki's neeeds further integration
