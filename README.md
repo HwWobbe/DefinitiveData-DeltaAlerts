@@ -28,6 +28,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
         - try searching for these symbols
     - test via DiggoH
 - more integration of CPT seems beneficial to my workflows
+  - updates to my Gists were effective
 - DiigoH & ./Wiki's neeeds further integration
   - consider: DebateGraph DropBox DynaList
 - https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry
