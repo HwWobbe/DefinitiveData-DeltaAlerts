@@ -1,6 +1,10 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+- 2024-06-04: spent the last few days establishing a workFlowPath with two entry Nodes:
+  - TiddlyWiki / a MwsTw prootype
+  - gKeep with Shared, collaborative Notes.
+ 
 - 2024:05-27: internal Navigation improvements based on H1 - H6 use
   - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts?tab=readme-ov-file#2024-quicklinks
  
