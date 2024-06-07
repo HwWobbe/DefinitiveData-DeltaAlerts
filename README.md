@@ -1,6 +1,7 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+- 2024-06-07: started linking to other APP repos.
 - 2024-06-04: spent the last few days establishing a workFlowPath with two entry Nodes:
   - TiddlyWiki / a MwsTw prootype
   - gKeep with Shared, collaborative Notes.
