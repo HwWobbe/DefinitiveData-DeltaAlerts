@@ -4,7 +4,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - 2024-06-22: Review planned Tasks to refresh the current considerations
   - craft an undated list of these
     - make it a ranked list
-      - shift focus to DIG for Data Quality
+      - shift focus to DIG for Data Quality, but edit each at least once to maintain momentum
 - 2024-06-14: retain the view that Alerts are better value but at a higher (maintenance) Price
 - 2024-06-07: started linking to other APP repos.
 - 2024-06-04: spent the last few days establishing a workFlowPath with two entry Nodes:
