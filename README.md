@@ -5,6 +5,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - starting to separate "top" and 'phi' into goalsH and toolsH respectively
   - suggesting that there is a need for a marketing Lead to suggest Client focused solutions
     - especially since Marketing and Techology Names are now segregated
+  - assuming Barb with be an initial admin. Lead
 - 2024-07-01:
   - initiated
 - 2024-06-22: Review planned Tasks to refresh the current considerations
