@@ -10,16 +10,6 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - assuming Barb with be an initial admin. Lead
 - 2024-07-01:
   - initiated
-- 2024-06-22: Review planned Tasks to refresh the current considerations
-  - craft an undated list of these
-    - make it a ranked list
-      - shift focus to DIG for Data Quality, but edit each at least once to maintain momentum
-- 2024-06-14: retain the view that Alerts are better value but at a higher (maintenance) Price
-- 2024-06-07: started linking to other APP repos.
-- 2024-06-04: spent the last few days establishing a workFlowPath with two entry Nodes:
-  - TiddlyWiki / a MwsTw prototype
-  - gKeep with Shared, collaborative Notes.
-  - this could be a hybrid ( man/machine )procedure
  
 - 2024:05-27: internal Navigation improvements based on H1 - H6 use
   - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts?tab=readme-ov-file#2024-quicklinks
@@ -64,6 +54,20 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 # 2024 quickLinks
 
 ## 2024:
+### 2024-07:
+
+### 2024-06:
+- 2024-06-22: Review planned Tasks to refresh the current considerations
+  - craft an undated list of these
+    - make it a ranked list
+      - shift focus to DIG for Data Quality, but edit each at least once to maintain momentum
+- 2024-06-14: retain the view that Alerts are better value but at a higher (maintenance) Price
+- 2024-06-07: started linking to other APP repos.
+- 2024-06-04: spent the last few days establishing a workFlowPath with two entry Nodes:
+  - TiddlyWiki / a MwsTw prototype
+  - gKeep with Shared, collaborative Notes.
+  - this could be a hybrid ( man/machine )procedure
+
 ### 2024-05:
 - Toma's Data Fix(es) are promising.
   - encourage them, but
