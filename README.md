@@ -10,7 +10,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - assuming Barb with be an initial admin. Lead
 - 2024-07-01:
   - initiated
- 
+
 - 2024:05-27: internal Navigation improvements based on H1 - H6 use
   - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts?tab=readme-ov-file#2024-quicklinks
  
