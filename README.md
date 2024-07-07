@@ -1,6 +1,7 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+_ 2024-07-07: InterLinked the Information Infrastructure to provide maby more entry points for each Audience Type
 - 2024-07-06: CurbSide testing upgraded
 - 2024-07-05:
   - ( Plan )TeamsH ; ( CoPilot ChatH )AiH
