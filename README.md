@@ -1,6 +1,7 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+- 2024-07-08: revised daily WorkFlows
 - 2024-07-07: InterLinked the Information Infrastructure for many more entry points for each Audience Type
   - started building a metaEntryPort at TiddlyHost
     - sent a LinkedIn profile to an associate fpr considerationn in the ConTexts of HealthCare and CanadaPost
