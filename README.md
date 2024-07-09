@@ -1,6 +1,7 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+- 2024-07-09: Gjw $vmInstall
 - 2024-07-08: revised daily WorkFlows - primarily in TwH 
   - .tn: meet bookKeepers : PlansTp
 - 2024-07-07: InterLinked the Information Infrastructure for many more entry points for each Audience Type
