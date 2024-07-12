@@ -1,7 +1,8 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
-- -07-11: TpT-09( Gjw $vmInstall )
+- -07-13: TpT-09( Gjw $vmInstall )
+- -07-12: ( Haversine )CurbSide
 - 2024-07-08: revised daily WorkFlows - primarily in TwH 
   - .tn: meet bookKeepers : PlansTp
 - 2024-07-07: InterLinked the Information Infrastructure for many more entry points for each Audience Type
