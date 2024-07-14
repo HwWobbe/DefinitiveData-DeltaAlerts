@@ -4,6 +4,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - -07-19: Tfo checkpoint
   - here, in GitHub, keep merging .tn and .tt
   - relocate .tp to subFolders
+- -07-14: started a ReView of PyTorch to gain an alternative to ChatGpt
 - -07-13: TpT-09( Gjw $vmInstall )
 - -07-12: ( Haversine )CurbSide
   - Gsd re re-schedule Contracts/Employees
