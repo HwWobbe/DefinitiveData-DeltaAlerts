@@ -4,7 +4,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - -07-19: Tfo checkpoint
   - here, in GitHub, keep merging .tn and .tt
   - relocate .tp to subFolders
-  - prepate for AnJ (?? preferable to aJo /?)
+  - prepare for AnJ (?? preferable to aJo /?)
     - consider this syntax more deeply
 - -16: consider intermediary linkage sites:
   - DiigoH TiddlyHost ...
