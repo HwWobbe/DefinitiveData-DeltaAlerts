@@ -4,6 +4,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - -07-19: Tfo checkpoint
   - here, in GitHub, keep merging .tn and .tt
   - relocate .tp to subFolders
+- -16: consider intermediary linkage sites:
+  - DiigoH TiddlyHost ...
 - -07-15: catch-up
   - -07-13: TpT-09( Gjw $vmInstall )
   - -07-12: ( Haversine )CurbSide
