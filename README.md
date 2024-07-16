@@ -6,6 +6,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - relocate .tp to subFolders
   - prepare for AnJ (?? preferable to aJo /?)
     - consider this syntax more deeply
+  - chech ...4o for local Git clarifications, rather than just using GitHub help
 - -16: consider intermediary linkage sites:
   - DiigoH TiddlyHost ...
 - -07-15: catch-up
