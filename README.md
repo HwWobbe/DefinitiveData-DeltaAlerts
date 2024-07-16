@@ -11,6 +11,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
       - it should be possible to Do:( copyPaste text from here Then:have 4o refine it And: email the result )Do:
         - YAML should help
           - CamelCase links will also help
+            - 4o should be able to expand CamelCase in several ways
 - -16: consider intermediary linkage sites:
   - DiigoH TiddlyHost ...
 - -07-15: catch-up
