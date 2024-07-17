@@ -1,7 +1,7 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
-- -07-19: Tfo checkpoint
+- -07-19: Tfo checkpoint ...
   - here, in GitHub, keep merging .tn and .tt
   - relocate .tp to subFolders
   - prepare for AnJ (?? preferable to aJo /?)
