@@ -12,10 +12,10 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
         - YAML should help
           - CamelCase links will also help
             - 4o should be able to expand CamelCase in several ways
-- -16: consider intermediary linkage sites:
+- -17: consider intermediary linkage sites:
   - DiigoH
   - DebateGraph - for HTML support
-  - GitHub GIST(s) * Wikis - for wikiMarkdownDialogs
+  - GitHub GIST(s) & Wikis - for wikiMarkdownDialogs
   - TiddlyHost 
 - -07-15: catch-up
   - -07-13: TpT-09( Gjw $vmInstall )
