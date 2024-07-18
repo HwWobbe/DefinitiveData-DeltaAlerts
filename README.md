@@ -2,7 +2,8 @@
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - -07-29: Tfo & Tmo checkpoint(s) ...
-
+  - Tqu(arter) focus as well as Tye
+ 
 - -07-19: Tfo checkpoint ...
   - prepare for AnJ (?? preferable to aJo /?)
     - consider this syntax more deeply
