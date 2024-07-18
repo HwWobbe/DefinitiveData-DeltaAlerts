@@ -12,6 +12,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
         - YAML should help
           - CamelCase links will also help
             - 4o should be able to expand CamelCase in several ways
+- -18: consider DiigoH for "locked" sites: WardsWiki, CommunityWiki, OddMuse, WikiPedia
 - -17: consider intermediary linkage sites:
   - DiigoH DebateGraph 
   - DebateGraph - for HTML support
