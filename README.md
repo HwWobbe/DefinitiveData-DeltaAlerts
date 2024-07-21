@@ -7,6 +7,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - Ailinks - direct & via DiigoH
   - ReView .git(s)
     - consider moreSubFiles
+    - -21: intensity restored
   - check ...4o for local Git clarifications, rather than just using GitHub help
     - WayLe= L(eft) e(ternal) - may be an effective way to de-bug Instructions
       - it should be possible to Do:( copyPaste text from here Then:have 4o refine it And: email the result )Do:
