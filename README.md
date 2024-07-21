@@ -3,6 +3,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - -07-29: Tfo & Tmo checkpoint(s) ...
   - Tqu(arter) focus as well as Tye
+    - review Medium post
   - ReView .git(s)
     - consider moreSubFiles
   - check ...4o for local Git clarifications, rather than just using GitHub help
