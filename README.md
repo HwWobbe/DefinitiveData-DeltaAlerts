@@ -5,6 +5,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - Tqu(arter) focus as well as Tye
     - review Medium post(s)
       - Python system seems to be an important intermediate Productivity Improvement step
+        - a re-install is underway to fix a carelss typo
     - Ailinks - direct & via DiigoH
         - test this further
     - How to use Chat(s) for my RePo(s)
