@@ -6,6 +6,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - review Medium post(s)
       - Python system seems to be an important intermediate Productivity Improvement step
     - Ailinks - direct & via DiigoH
+        - test this further
   - ReView .git(s)
     - consider moreSubFiles
       - AiHwQuery
