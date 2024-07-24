@@ -10,6 +10,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
         - set up Printing across H's systems
     - Ailinks - direct & via DiigoH
         - test this further
+          - particularly w.r.t. PDFs
     - How to use Chat(s) for my RePo(s)
   - ReView .git(s)
     - consider moreSubFiles
