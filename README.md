@@ -13,6 +13,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
           - particularly w.r.t. PDFs
     - How to use Chat(s) for my RePo(s)
   - 07-29: Refine the Gist(s)
+    - consider HTMX use
   - ReView .git(s)
     - consider moreSubFiles
       - AiHwQuery
