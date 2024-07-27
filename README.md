@@ -3,6 +3,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - -07-29: Tfo & Tmo checkpoint(s) ...
   - Tqu(arter) focus as well as Tye
+    - discuss loacNewsNeeds with Kyle
     - review Medium post(s)
       - Python system seems to be an important intermediate Productivity Improvement step
         - re-installed to fix a careless typo
@@ -13,6 +14,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
           - particularly w.r.t. PDFs
     - How to use Chat(s) for my RePo(s)
   - 07-29: Refine the Gist(s)
+    - howTo enable 
     - consider HTMX use
       - also Chat use
     - start a NewPr at the end of this month
