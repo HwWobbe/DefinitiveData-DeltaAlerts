@@ -15,6 +15,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - 07-29: Refine the Gist(s)
     - consider HTMX use
       - also Chat use
+    - start a NewPr at the end of this month
   - ReView .git(s)
     - consider moreSubFiles
       - AiHwQuery
