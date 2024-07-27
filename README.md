@@ -5,7 +5,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - Tqu(arter) focus as well as Tye
     - review Medium post(s)
       - Python system seems to be an important intermediate Productivity Improvement step
-        - a re-install is underway to fix a careless typo
+        - re-installed to fix a careless typo
           - this will likly lead to a full .nix install in order to get the integration benefits of/for LLama
         - set up Printing across H's systems
     - Ailinks - direct & via DiigoH
