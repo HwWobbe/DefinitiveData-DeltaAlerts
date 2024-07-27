@@ -3,7 +3,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - -07-29: Tfo & Tmo checkpoint(s) ...
   - Tqu(arter) focus as well as Tye
-    - discuss loacNewsNeeds with Kyle
+    - discuss localNewsNeeds with Kyle
+      - Post and Blog Vlog Text infrastructure
     - review Medium post(s)
       - Python system seems to be an important intermediate Productivity Improvement step
         - re-installed to fix a careless typo
