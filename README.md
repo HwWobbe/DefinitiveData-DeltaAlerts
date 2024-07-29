@@ -32,39 +32,6 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
           - CamelCase links will also help
             - 4o should be able to expand CamelCase in several ways
 
-- -07-29: Tfo & Tmo checkpoints ...
-  - ...
- 
-- -07-19: Tfo checkpoint ...
-  - prepare for AnJ (?? preferable to aJo /?)
-    - consider this syntax more deeply
-  - here, in GitHub, keep merging .tn and .tt
-  - relocate .tp to subFolders
- - -18: consider DiigoH for "locked" sites: WardsWiki, CommunityWiki, OddMuse, WikiPedia
-- -17: consider intermediary linkage sites:
-  - DiigoH DebateGraph 
-  - DebateGraph - for HTML support
-  - GitHub GIST(s) & Wikis - for wikiMarkdownDialogs
-  - TiddlyHost 
-- -07-15: catch-up
-  - -07-13: TpT-09( Gjw $vmInstall )
-  - -07-12: ( Haversine )CurbSide
-  - Gsd re re-schedule Contracts/Employees
-- 2024-07-08: revised daily WorkFlows - primarily in TwH 
-  - .tn: meet bookKeepers : PlansTp
-- 2024-07-07: InterLinked the Information Infrastructure for many more entry points for each Audience Type
-  - started building a metaEntryPort at TiddlyHost
-    - sent a LinkedIn profile to an associate fpr considerationn in the ConTexts of HealthCare and CanadaPost
-- 2024-07-06: CurbSide testing upgraded
-- 2024-07-05:
-  - ( Plan )TeamsH ; ( CoPilot ChatH )AiH
-- 2024-07-03:
-  - starting to separate "top" and 'phi' into goalsH and toolsH respectively
-  - suggesting that there is a need for a marketing Lead to suggest Client focused solutions
-    - especially since Marketing and Techology Names are now segregated
-  - assuming Barb with be an initial admin. Lead
-- 2024-07-01:
-  - initiated
 
 - [2024-06](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-06)
 
