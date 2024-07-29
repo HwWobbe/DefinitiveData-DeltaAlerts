@@ -10,6 +10,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
         - re-installed to fix a careless typo
           - this will likly lead to a full .nix install in order to get the integration benefits of/for LLama
         - set up Printing across H's systems
+      - ConSider: BotH uses in this context.
     - Ailinks - direct & via DiigoH
         - test this further
           - particularly w.r.t. PDFs
