@@ -32,6 +32,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
           - CamelCase links will also help
             - 4o should be able to expand CamelCase in several ways
 
+  <hr>
 
 - [2024-06](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-06)
 
