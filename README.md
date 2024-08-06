@@ -37,7 +37,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
           - CamelCase links will also help
             - 4o should be able to expand CamelCase in several ways
 
+## -08- Milestones:
 - -08-01: startup
+- -0806 ...Bot use(s)
 
   <hr>
 
