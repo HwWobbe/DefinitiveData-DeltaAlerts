@@ -39,7 +39,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 ## -08- Milestones:
 - -08-01: startup
-- -0806 ...Bot use(s)
+- -0806 "BotHww.UniCode" use(s)
 
   <hr>
 
