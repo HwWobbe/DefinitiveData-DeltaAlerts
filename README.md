@@ -2,6 +2,7 @@
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - -08-09: Barb re funds - in Progress
+  - try adding this to a project, ideally with MileStones
 - -08-19: ... `/` "ask": Sales vs. Marketing ?
 - -0829: ... `/` use TelegraphChars as Dates
 - 09-09: ...
