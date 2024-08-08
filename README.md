@@ -1,6 +1,7 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+- m09-19: extend AiBot.Functions
 - -09-29: Tmo checkpoint(s) ...
   - how to make updates reach this level
   - consider the need to refine the use of date in this section
