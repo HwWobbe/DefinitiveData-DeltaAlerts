@@ -1,7 +1,7 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
-- -08-09: Barb re funds 
+- -08-09: Barb re funds - in Progress
 - -08-19: ... `/` "ask": Sales vs. Marketing ?
 - -0829: ... `/` use TelegraphChars as Dates
 - 09-09: ...
