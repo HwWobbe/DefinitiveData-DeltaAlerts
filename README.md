@@ -4,6 +4,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - -08-09:
   - Lz re PDF status
     - admonished for noReports
+      - provoked some activity with:
+        - Es/moreBugsFDorJrHlh, and a bit of a ReView of Jr/Toma
   - Barb re funds - in Progress
     - try adding this to a project, ideally with MileStones
     - 
