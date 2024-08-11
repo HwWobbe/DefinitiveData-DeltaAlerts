@@ -1,6 +1,8 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+- -08-12: talk to Gjw re card use by Bark
+  - test older system acces to QuickBooks
 - -08-09:
   - Lz re PDF status
     - admonished for noReports
