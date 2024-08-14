@@ -3,6 +3,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - -08-15: GoTeam reply to Aj CC Lz
   - accepted shared folder from Bdc
+  - see re-deploy comment in other file @ ...
  
 - -08-12: talk to Gjw re card use by Barb
   - test older system acces to QuickBooks
