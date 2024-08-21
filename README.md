@@ -1,6 +1,7 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+- determine if my 'anthropic' Bot can Tweet
 - -08-15: GoTeam reply to Aj CC Lz
   - accepted shared folder from Bdc
     - start adding additional data
