@@ -5,6 +5,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - start with MyData
   - Build to MyInfo ( "Information is Data in a ConText" :HwW )
 - determine if my 'anthropic' Bot can Tweet
+  - provide the relative advantages of various communication  Channels
+    - acknowledge the precedent insights of TheResearchBoard
 - -08-15: GoTeam reply to Aj CC Lz
   - accepted shared folder from Bdc
     - start adding additional data
