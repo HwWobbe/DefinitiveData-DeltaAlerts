@@ -7,6 +7,11 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - determine if my 'anthropic' Bot can Tweet
   - provide the relative advantages of various communication  Channels
     - acknowledge the precedent insights of TheResearchBoard
+      - it will be interesting to Ask: Progect OutComes based on the InfoContext available Now
+        - InfoNow should emerge and AskMethods should improve
+          - DoNot: Build TheOs - instead Use the OS whenever possible
+            - Windows vs. Nix
+              - Browsers are OsPlus - BillGates
 - -08-15: GoTeam reply to Aj CC Lz
   - accepted shared folder from Bdc
     - start adding additional data
