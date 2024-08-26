@@ -4,6 +4,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - Demonstrate the ReverseBuy and PrivacyAssured ConCept(s)
   - start with MyData
   - Build to MyInfo ( "Information is Data in a ConText" :HwW )
+    - Alert(s) pipeline(s) will be needed
+   
 - determine if my 'anthropic' Bot can Tweet
   - provide the relative advantages of various communication  Channels
     - acknowledge the precedent insights of TheResearchBoard
