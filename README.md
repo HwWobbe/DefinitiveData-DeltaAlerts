@@ -5,7 +5,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - start with MyData
   - Build to MyInfo ( "Information is Data in a ConText" :HwW )
     - Alert(s) pipeline(s) will be needed
-   
+
+- gsd knew NIST but believes it is a Distant ConcernTn 
 - determine if my 'anthropic' Bot can Tweet
   - provide the relative advantages of various communication  Channels
     - acknowledge the precedent insights of TheResearchBoard
