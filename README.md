@@ -9,7 +9,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - Build to MyInfo ( "Information is Data in a ConText" :HwW )
     - Alert(s) pipeline(s) will be needed
       - compelling usefulness is essential, but so is playing to the vested interests of current repos
-
+  - GIS - Jeremy - teach a candidate rather than do.
 - gsd knew NIST but believes it is a Distant ConcernTn
   - perhaps CaDfQss instead?
 - determine if my 'anthropic' Bot can Tweet
