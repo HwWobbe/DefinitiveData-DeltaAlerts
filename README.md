@@ -1,7 +1,7 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
-- Demonstrate the ReverseBuy and PrivacyAssured ConCept(s)
+- Demonstrate the ReverseBuy.offer and PrivacyAssured ConCept(s)
   - start with MyData
     - Wealth ( Real estate < GIS < Latitude Longitude )
       - ...
