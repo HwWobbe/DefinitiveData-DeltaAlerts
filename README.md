@@ -6,12 +6,16 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - Wealth ( Real estate < GIS < Latitude Longitude )
       - ...
       - Health > AhH
+
   - Build to MyInfo ( "Information is Data in a ConText" :HwW )
     - Alert(s) pipeline(s) will be needed
       - compelling usefulness is essential, but so is playing to the vested interests of current repos
+  
   - GIS - Jeremy - teach a candidate rather than do.
+
 - gsd knew NIST but believes it is a Distant ConcernTn
   - perhaps CaDfQss instead?
+
 - determine if my 'anthropic' Bot can Tweet
   - provide the relative advantages of various communication  Channels
     - acknowledge the precedent insights of TheResearchBoard
@@ -20,6 +24,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
           - DoNot: Build TheOs - instead Use the OS whenever possible
             - Windows vs. Nix
               - Browsers are OsPlus - BillGates
+
+<hr>
+
 - -08-15: GoTeam reply to Aj CC Lz
   - accepted shared folder from Bdc
     - start adding additional data
