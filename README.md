@@ -14,6 +14,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   
   - GIS - Jeremy - teach a candidate rather than do.
 
+- try to apply 7pennies as Company Roles
 - gsd knew NIST but believes it is a Distant ConcernTn
   - perhaps CaDfQss instead?
 
