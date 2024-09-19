@@ -13,6 +13,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - position myData to frontRun MetaData
   
   - GIS - Jeremy - teach a candidate rather than do.
+    - 0918: suggested Lz have TA teach her how to teach Sonny
 
 - try to apply 7pennies as Company Roles
 - gsd knew NIST but believes it is a Distant ConcernTn
