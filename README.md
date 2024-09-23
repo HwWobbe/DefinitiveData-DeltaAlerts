@@ -30,6 +30,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 <hr>
 
+- -09-22:
+  - ...
 - -08-15: GoTeam reply to Aj CC Lz
   - accepted shared folder from Bdc
     - start adding additional data
