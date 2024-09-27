@@ -11,6 +11,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - Alert(s) pipeline(s) will be needed
       - compelling usefulness is essential, but so is playing to the vested interests of current repos
     - position myData to frontRun MetaData
+  - Sequent seemed to "get" the spread tp other Data via GisData
   
   - GIS - Jeremy - teach a candidate rather than do.
     - 0918: suggested Lz have TA teach her how to teach Sonny
