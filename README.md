@@ -10,8 +10,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - Build to MyInfo ( "Information is Data in a ConText" :HwW )
     - Alert(s) pipeline(s) will be needed
       - compelling usefulness is essential, but so is playing to the vested interests of current repos
+        - a userProvided keySegment might work
     - position myData to frontRun MetaData
-  - Sequent seemed to "get" the spread tp other Data via GisData
+  - Sequent seemed to "get" the spread to other Data via GisData
   
   - GIS - Jeremy - teach a candidate rather than do.
     - 0918: suggested Lz have TA teach her how to teach Sonny
