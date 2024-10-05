@@ -2,8 +2,9 @@
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - OnTheList
-  - develop a comprehensive scenario for this
-    - ...
+  - develop a comprehensive scenario for this that addresses:
+    - Agent of Subject - Privacy
+     - What's it worth? - MPAC
 
 ## 2024-10:
 
