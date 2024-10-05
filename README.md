@@ -2,7 +2,8 @@
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - OnTheList
-  - ...
+  - develop a comprehensive scenario for this
+    - ...
 - Demonstrate to Consumers, the ReverseBuy.offer and PrivacyAssured ConCept(s)
   - start with MyData (prepare to frontRun MetaData)
     - Wealth ( Real estate < GIS < Latitude Longitude )
