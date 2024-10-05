@@ -5,6 +5,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - develop a comprehensive scenario for this that addresses:
     - Agent of Subject - Privacy
      - What's it worth? - MPAC
+- if AnthropicBot can tweety - try a directed Tweet
 
 ## 2024-10:
 
