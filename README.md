@@ -11,6 +11,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - review JrH emails
   - TomaA might be streamlined via PRs
     - ?? perhaps a ScavengeExtension /?
+      - craft a ScavengeExtension hyperLink to test
  
 ## 2024-10:
 
