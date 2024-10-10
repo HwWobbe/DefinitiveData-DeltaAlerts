@@ -3,6 +3,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#ivi-should-likely-be-a-separate-file
   - prettyfy this
+    - consider promoting https://www.cos.io/
 
   - 
 - OnTheList
