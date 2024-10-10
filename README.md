@@ -5,6 +5,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - develop a comprehensive scenario for this that addresses:
     - Agent of Subject - Privacy
      - What's it worth? - MPAC
+  - this should also evolve into MailFail
+ 
 - if AnthropicBot can tweet - try a directedTweet
   - this could streamline LzH
 
