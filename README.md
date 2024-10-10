@@ -50,6 +50,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 <hr>
 
+## IVI should likely be a separate file.
+...
+
 ## 2024-09:
 
 - -09-22:
