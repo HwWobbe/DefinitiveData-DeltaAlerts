@@ -6,7 +6,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - consider promoting https://www.cos.io/
   - ...
  
-- OnTheList
+- OnTheList - should this be presenred as an initial example of what will be dome?
+  - ...
+ 
   - develop a comprehensive scenario for this that addresses:
     - Agent of Subject - Privacy
      - What's it worth? - MPAC
