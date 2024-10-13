@@ -15,6 +15,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - if AnthropicBot can tweet - try a directedTweet
   - this could streamline LzH
 
+...
+
 - review JrH emails
   - TomaA might be streamlined via PRs
     - ?? perhaps a ScavengeExtension /?
