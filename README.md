@@ -6,8 +6,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - consider promoting https://www.cos.io/
   - ...
  
-- OnTheList - should this be presenred as an initial example of what will be dome?
-  - ...
+- OnTheList
+  - should this be presenred as an initial example of what will be dome?
+    - it might help to talk about the role of the Subject and the possible ways this "common" electoral tokenm could be used.
  
   - develop a comprehensive scenario for this that addresses:
     - Agent of Subject - Privacy
