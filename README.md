@@ -6,7 +6,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - add a link ( after confirming OAuth is in effect )
   - consider the use of colorNotes to improve device independance
     - this needs prior testing due to the weak documentation
-  - StatisHTL is also a contender
+  - StaticHTML is also a contender
     - tyry crafting a simple page for Lz
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#ivi-should-likely-be-a-separate-file
   - prettyfy this
