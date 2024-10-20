@@ -12,7 +12,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - a Calendar entry could also work
       - this is active for transfering SymbolsH easilt.
   - minimize the interference of this most recent spate of Notes with the needed focus om OnTheList
-    - This can be done by re-positioning text Blocks and using bookmarks evvectively.
+    - This can be done by re-positioning text Blocks and using bookmarks effectively.
 
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#ivi-should-likely-be-a-separate-file
   - prettyfy this
