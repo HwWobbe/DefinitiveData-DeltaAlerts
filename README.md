@@ -7,7 +7,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - consider the use of colorNotes to improve device independance
     - this needs prior testing due to the weak documentation
   - StaticHTML is also a contender
-    - tyry crafting a simple page for Lz
+    - try crafting a simple page for Lz
+      - add a link to the TiddlyHost source - since it is a benign link
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#ivi-should-likely-be-a-separate-file
   - prettyfy this
     - consider promoting https://www.cos.io/
