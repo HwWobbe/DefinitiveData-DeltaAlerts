@@ -9,6 +9,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - StaticHTML is also a contender
     - try crafting a simple page for Lz
       - add a link to the TiddlyHost source - since it is a benign link
+    - a Calendar entry could also work
+      - this is active for transfering SymbolsH easilt.
+       
 - https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#ivi-should-likely-be-a-separate-file
   - prettyfy this
     - consider promoting https://www.cos.io/
