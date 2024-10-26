@@ -4,6 +4,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - standardized navigation (regardless of currentDevise) still needs improvement.
   - try TwMws since it has the best dataCapture methodology
     - add a link ( after confirming OAuth is in effect )
+      - validate this before resuming the SoW discussion
+
   - consider the use of colorNotes to improve device independance
     - this needs prior testing due to the weak documentation
   - StaticHTML is also a contender (especially for testing with LzH )
