@@ -3,7 +3,10 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 ## 2024-11:
 
-- standardized navigation (regardless of currentDevise) still needs improvement.
+- refine the DiigoH Outliner methods
+  - ...
+ 
+  - standardized navigation (regardless of currentDevise) still needs improvement.
   - try TwMws since it has the best dataCapture methodology
     - add a link ( after confirming OAuth is in effect )
       - validate this before resuming the SoW discussion
