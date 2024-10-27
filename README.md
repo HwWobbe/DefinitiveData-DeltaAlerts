@@ -5,7 +5,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - refine the DiigoH Outliner methods
   - ...
- 
+
+<hr>
+
   - standardized navigation (regardless of currentDevise) still needs improvement.
   - try TwMws since it has the best dataCapture methodology
     - add a link ( after confirming OAuth is in effect )
