@@ -7,6 +7,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - Can these be used to craft ConText statements in a manner similar to DebateGraph?
     - it should be efficient to drive this with Calendar objects that provide 'imminent' warnings
 - test the adequacy of print capabilities for that site.
+- confirm the schedule for a live demo with LzH
 
 <hr>
 
