@@ -5,6 +5,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - the 10th commit should be with a PR
   - one goal is to have an automated merge of a quickLinks file
+    - select an appropriate name for such a page
   - ideally:
     - this will be a common component in several (pages) contexts 
     - reduce maintenance effort
