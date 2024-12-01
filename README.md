@@ -4,6 +4,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## 2024-12:
 
 - the 10th commit should be with a PR
+  - one goal is to have an automated merge of a quickLinks file
   - ideally that will provide insights into the relativeStrength coloring
 
 ## 2024-11:
