@@ -1,6 +1,8 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+## 2024-12:
+
 ## 2024-11:
 
 - refine the DiigoH Outliner methods
