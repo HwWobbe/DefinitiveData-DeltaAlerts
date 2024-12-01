@@ -3,7 +3,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 ## 2024-12:
 
-- ...
+- the 10th commit should be with a PR
 
 
 ## 2024-11:
