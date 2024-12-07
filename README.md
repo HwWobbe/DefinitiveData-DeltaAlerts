@@ -8,6 +8,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
         - still apparently a valid assumption - but continuing to test the Hypothesis
 - PrTn should happen at 30 which is also needed as another test
   - this 30th edit shoud trigger the PR.
+    - DONE - & appears successfully so.
+      - re-test the shading
 
 ## 2025-12:
 This block will be removed into a separate file.
