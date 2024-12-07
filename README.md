@@ -2,6 +2,8 @@
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 ## 2025-12:
+This block will be removed into a separate file.
+
 ...
 
 
