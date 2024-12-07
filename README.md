@@ -7,7 +7,8 @@ This block will be removed into a separate file.
 
 ### ㏘
 - implement this as a countDown
-  - at leaast until my PR use is more effective
+  - at leaast until my PR use is more effective-
+- test the theory that 3X color margings are needed to affect shading
 
 <hr>
 
