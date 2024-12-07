@@ -7,7 +7,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
       - testing 25 = 1 + 8 X 3
         - still apparently a valid assumption - but continuing to test the Hypothesis
 - PrTn should happen at 30 which is also needed as another test
-  - this 30th edit shoud trigger the PR - Testing
+  - this 30th edit should trigger the PR - Testing
 
 ## 2025-12:
 This block will be removed into a separate file.
