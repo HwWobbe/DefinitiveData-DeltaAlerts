@@ -11,7 +11,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - DONE - & appears successfully so.
       - re-test of the shading should happen @ 37
         - this bump was the result of needed to fix errors in subordinate files
-          - confirmation expected
+          - confirmation expected, so review is ...
 
 ## 2025-12:
 This block will be removed into a separate file.
