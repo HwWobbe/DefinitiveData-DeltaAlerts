@@ -5,7 +5,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - may need to be greaterThan
     - which seems to work
       - testing 25 = 1 + 8 X 3
-        - still apparently a valid assumption
+        - still apparently a valid assumption - but continuing to test the Hypothesis
 - PrTn should happen at 30
 
 ## 2025-12:
