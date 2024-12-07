@@ -3,6 +3,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
 - 7 X 3 = 21
   - may need to be greaterThan
+    - which seems to work
 - ...
 
 ## 2025-12:
