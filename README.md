@@ -7,6 +7,7 @@ This block will be removed into a separate file.
 
 ### ㏘
 - implement this as a countDown
+  - at leaast until my PR use is more effective
 
 <hr>
 
