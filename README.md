@@ -10,6 +10,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
   - this 30th edit shoud trigger the PR.
     - DONE - & appears successfully so.
       - re-test of the shading should happen @ 37
+        - this bump was the result of needed to fix errors in subordinate files
 
 ## 2025-12:
 This block will be removed into a separate file.
