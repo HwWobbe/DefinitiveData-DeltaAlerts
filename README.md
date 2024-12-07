@@ -8,6 +8,8 @@ This block will be removed into a separate file.
 ### ㏘
 - 
 
+<hr>
+
 ## 2024-12:
 
 - the 10th commit should be with a PR
