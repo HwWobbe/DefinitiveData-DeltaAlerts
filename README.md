@@ -1,6 +1,10 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 
+## 2025-12:
+...
+
+
 ## 2024-12:
 
 - the 10th commit should be with a PR
