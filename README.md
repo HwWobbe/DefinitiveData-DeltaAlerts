@@ -7,6 +7,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
       - testing 25 = 1 + 8 X 3
         - still apparently a valid assumption - but continuing to test the Hypothesis
 - .co: this really focuses much attention on the major item in a month
+  - .re: try Tags as a WayTo focus across months.
+    - perhaps there is a type of TransClusion
+      - check the wikiPages
 
 - PrTn happened at 30 which - needed as another test
   - this 30th edit shoud trigger the PR.
