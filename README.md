@@ -6,7 +6,9 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
     - which seems to work
       - testing 25 = 1 + 8 X 3
         - still apparently a valid assumption - but continuing to test the Hypothesis
-- PrTn should happen at 30 which is also needed as another test
+- .co: this really focuses much attention on the major item in a month
+
+- PrTn happened at 30 which - needed as another test
   - this 30th edit shoud trigger the PR.
     - DONE - & appears successfully so.
       - re-test of the shading should happen @ 37
