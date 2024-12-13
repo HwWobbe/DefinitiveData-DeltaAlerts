@@ -23,7 +23,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
             - final confirmation - did not seem conclusive, at +. but was at >.
 
 ## 2025-12:
-This block will be removed into a separate file.
+This block is part of a countDown sequence ending at 2025-01.  2025 be removed into a separate file.
 ...
 
 ### ㏘
