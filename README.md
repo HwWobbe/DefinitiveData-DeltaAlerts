@@ -29,6 +29,7 @@ This block is part of a countDown sequence ending at 2025-01.  2025 be removed i
 ### ㏘
 - implement this as a countDown
   - at leaast until my PR use is more effective-
+  - enlist BotsH 
 - test the theory that 3X color margings are needed to affect shading
 
 <hr>
