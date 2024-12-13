@@ -14,6 +14,20 @@ This block is part of a countDown sequence ending at 2025-01.  2025 be removed i
 
 <hr>
 
+
+<hr>
+
+## 2024-12:
+
+- the 10th commit should be with a PR
+  - one goal is to have an automated merge of a quickLinks file
+    - select an appropriate name for such a page (QlShared)
+      - implement this
+  - ideally:
+    - this will be a common component in several (pages) contexts 
+    - reduce maintenance effort
+    - provide insights into the relativeStrength coloring
+
 - implement this as a countDown
   - at leaast until my PR use is more effective-
   - enlist BotsH for ease and consistency
@@ -36,20 +50,6 @@ This block is part of a countDown sequence ending at 2025-01.  2025 be removed i
         - this bump was the result of needed to fix errors in subordinate files
           - confirmation expected, so review is POSITIVE
             - final confirmation - did not seem conclusive, at +. but was at >.
-
-
-<hr>
-
-## 2024-12:
-
-- the 10th commit should be with a PR
-  - one goal is to have an automated merge of a quickLinks file
-    - select an appropriate name for such a page (QlShared)
-      - implement this
-  - ideally:
-    - this will be a common component in several (pages) contexts 
-    - reduce maintenance effort
-    - provide insights into the relativeStrength coloring
 
 ## 2024-11:
 
