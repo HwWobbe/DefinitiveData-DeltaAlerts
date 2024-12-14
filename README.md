@@ -11,7 +11,9 @@ This block is part of a countDown sequence ending at 2025-01.
     - ideas:
       - ...Tn ( Tt @ scale + 1 )
       - zoomOut ( to the next larger ecclosing RTimePeriod
-      - ... 
+      - Topic PreFix & Precision SufFix
+      - Category clusters ( Fraktur )
+      - snakeCase biDirectional conversions 
 
 
 ### ㏘
