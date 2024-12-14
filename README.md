@@ -7,6 +7,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ## 2025-12:
 This block is part of a countDown sequence ending at 2025-01.  
 - 2025 will be "pushedDown" into a separate file.
+  - it will be interesting to see how this is solved when 2012-01 is finally saturated.
 
 
 ### ㏘
