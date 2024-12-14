@@ -13,7 +13,10 @@ This block is part of a countDown sequence ending at 2025-01.
       - zoomOut ( to the next larger ecclosing RTimePeriod
       - Topic PreFix & Precision SufFix
       - Category clusters ( Fraktur )
-      - snakeCase biDirectional conversions 
+      - snakeCase biDirectional conversions
+  - document the workDone to establish the viability of each of these
+    - imnclude the simplifications needed to bridge the knowledgeGaps between techTypes (Hw) and userTypes (Lz)
+      - distinguish ViabilityTest efforts and UAT efforts
 
 
 ### ㏘
