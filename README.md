@@ -5,7 +5,7 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 <hr>
 
 ### -01: ... -11 :
-...
+Items in this area are either explicitly scheduled or as needed for overflow from "later" areas.
 
 ## 2025-12:
 This block is part of a countDown sequence ending at 2025-01.  
