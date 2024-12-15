@@ -17,7 +17,7 @@ This block is part of a countDown sequence ending at 2025-01.
   - document the workDone to establish the viability of each of these
     - imnclude the simplifications needed to bridge the knowledgeGaps between techTypes (Hw) and userTypes (Lz)
       - distinguish ViabilityTest efforts and UAT efforts
-
+- ...
 
 ### ㏘
 
