@@ -2,7 +2,7 @@
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 ...
 
-- obviously this and the next section  will diverge as the year progresses.
+- obviously thhe next two 2025 sections will diverge as the year progresses.
 
 <hr>
 
