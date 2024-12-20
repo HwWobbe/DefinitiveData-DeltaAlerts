@@ -12,6 +12,8 @@ Items in this area are either explicitly scheduled or "as needed" for overflow f
 - 2025 EaOn early
 - EaCa early
 
+<hr>
+
 ## 2025-12:
 This block is part of a countDown sequence ending at 2025-01.  
 - 2025 will be "pushedDown" into a separate file.
