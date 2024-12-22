@@ -11,6 +11,7 @@ Items in this area are either explicitly scheduled or "as needed" for overflow f
 
 - 2025 EaOn early
 - EaCa early
+- try a nested Folder as shown in https://github.com/Gk0Wk/TiddlySeq/tree/master/src/drawio
 
 <hr>
 
