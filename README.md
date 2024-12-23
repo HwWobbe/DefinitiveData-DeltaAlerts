@@ -1,5 +1,6 @@
 # ... Public
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
+...
 
 - 7 X 3 = 21
   - may need to be greaterThan
@@ -9,14 +10,38 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
 - PrTn should happen at 30 which is also needed as another test
   - this 30th edit should trigger the PR - Testing
 
+- Obviously the next two 2025 sections will diverge as the year progresses and the intermediate months are inserted.
+
+<hr>
+
+### -01: ... -11 :
+Items in this area are either explicitly scheduled or "as needed" for overflow from "later" areas.
+
+- 2025 EaOn early
+- EaCa early
+- try a nested Folder as shown in https://github.com/Gk0Wk/TiddlySeq/tree/master/src/drawio
+
+<hr>
+
 ## 2025-12:
-This block will be removed into a separate file.
-...
+This block is part of a countDown sequence ending at 2025-01.  
+- 2025 will be "pushedDown" into a separate file.
+  - it will be interesting to see how this is solved when 2012-01 is finally saturated.
+    - ideas:
+      - ...Tn ( Tt @ scale + 1 )
+      - zoomOut ( to the next larger ecclosing RTimePeriod
+      - Topic PreFix & Precision SufFix
+      - Category clusters ( Fraktur )
+      - snakeCase biDirectional conversions
+  - document the workDone to establish the viability of each of these
+    - imnclude the simplifications needed to bridge the knowledgeGaps between techTypes (Hw) and userTypes (Lz)
+      - distinguish ViabilityTest efforts and UAT efforts
+- ...
 
 ### ㏘
-- implement this as a countDown
-  - at leaast until my PR use is more effective-
-- test the theory that 3X color margings are needed to affect shading
+
+<hr>
+
 
 <hr>
 
@@ -30,6 +55,29 @@ This block will be removed into a separate file.
     - this will be a common component in several (pages) contexts 
     - reduce maintenance effort
     - provide insights into the relativeStrength coloring
+
+- implement this as a countDown
+  - at leaast until my PR use is more effective-
+  - enlist BotsH for ease and consistency
+- test the theory that 3X color margings are needed to affect shading
+
+- 7 X 3 = 21
+  - may need to be greaterThan
+    - which seems to work
+      - testing 25 = 1 + 8 X 3
+        - still apparently a valid assumption - but continuing to test the Hypothesis
+- .co: this really focuses much attention on the major item in a month
+  - .re: try Tags as a WayTo focus across months.
+    - There is a type of TransClusion via PRs
+      - check the wikiPages
+
+- PrTn happened at 30 which - needed as another test
+  - this 30th edit shoud trigger the PR.
+    - DONE - & appears successfully so.
+      - re-test of the shading should happen @ 37
+        - this bump was the result of needed to fix errors in subordinate files
+          - confirmation expected, so review is POSITIVE
+            - final confirmation - did not seem conclusive, at +. but was at >.
 
 ## 2024-11:
 
