@@ -4,7 +4,7 @@
 ...
 
 - a 2024/Name(s)s files should be mores memorable than the nascent 2024-01-DD files(s)
-  - make this an enhancement PR so iyt can be integrated more deeply in to the Milestone Projects GantCharts
+  - make this an enhancement PR so it can be integrated more deeply into the Milestone Projects GantCharts
  
 - LzH discussion re a YyzTmoList pull
   - this "makes sense" as a set of 9 monthly Yyz updates
