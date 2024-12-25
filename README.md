@@ -1,5 +1,5 @@
 # ... Public
-DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f...
+DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f... !
 ...
 
 - 7 X 3 = 21
