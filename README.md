@@ -17,7 +17,8 @@ DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f... !
 ### -01: ... -11 :
 Items in this area are either explicitly scheduled or "as needed" for overflow from "later" areas.
 
-- 2025 EaOn early
+- 2025 EaOn early - "DfHiatus" results
+  - OnTheList becomes the point of focal 
 - EaCa early
 - try a nested Folder as shown in https://github.com/Gk0Wk/TiddlySeq/tree/master/src/drawio
 
