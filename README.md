@@ -1,4 +1,6 @@
 # ... Public
+
+It may be easiest to host a centralQuickLinks as a Gist.
 DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f... !
 ...
 
