@@ -1,8 +1,8 @@
 # ... Public
 
-It may be easiest to host a centralQuickLinks as a Gist.
-DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f... !
-...
+- It may be easiest to host a centralQuickLinks as a Gist.
+- DefinitiveData-DeltaAlerts may morph into a DataAlerts.ca peer of D...f... !
+- ...
 
 - 7 X 3 = 21
   - may need to be greaterThan
