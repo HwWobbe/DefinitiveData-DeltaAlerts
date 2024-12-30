@@ -3,6 +3,9 @@
 - work on IOdeas for DaniPlus that recognize the Revision opportunities inherent in OnTheList
   - technical viability ,then economic viability
     - clarify the obligations for seedCapital
+      - equaly pay or equal work - is a fundamental principle
+        - for both parties
+        - seed capital can be thought of as debt at commercial rates, that needs toi be re-paid
 - It may be easiest to host a centralQuickLinks as a Gist.
   - first try to scavenge the older ones
     - if this fails a remote site will serve instead
