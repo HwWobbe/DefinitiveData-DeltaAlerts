@@ -6,7 +6,9 @@
       - equaly pay or equal work - is a fundamental principle
         - for both parties
         - seed capital is debt at commercial rates, that needs to be re-paid
-- consider a content migration plan
+- consider a content migration plan that reduces the size of these pages.
+  - it should include local storage.
+    - perhaps starting with just a notepad editor
 - It may be easiest to host a centralQuickLinks as a Gist.
   - first try to scavenge the older ones
     - if this fails a remote site will serve instead
