@@ -1,5 +1,8 @@
 # ... Public
 
+- work on IOdeas for DaniPlus that recognize the Revision opportunities inherent in OnTheList
+  - technical viability ,then economic viability
+    - clarify the obligations for seedCapital
 - It may be easiest to host a centralQuickLinks as a Gist.
   - first try to scavenge the older ones
     - if this fails a remote site will serve instead
