@@ -492,6 +492,9 @@ This block is part of a countDown sequence ending at 2025-01.
 - select the initial MicroContent for  Jr from the new DataDictionary
  - ...
 
+- confirmed Xmmx can act as a dataDictionary in theCloud
+  - ...
+ 
 - it may be best to wait until -11- to further investigate "order"
   - this is because it will be too time consuming to close the existing gap
     - a gradual migration is strongly preferred.
