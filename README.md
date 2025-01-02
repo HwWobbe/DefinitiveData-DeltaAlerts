@@ -1,6 +1,6 @@
 # ... Public
 
-- review prior to 24-01-02
+- reviewed prior to 24-01-02.
   - emails for Time - Priorities for 2024.qu.1.key(s) points
 
 - work on IOdeas for DaniPlus that recognize the Revision opportunities inherent in OnTheList
