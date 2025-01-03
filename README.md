@@ -3,8 +3,10 @@
 - reviewed prior to 24-01-02.
   - emails for Time - Priorities for 2024.qu.1.key(s) points
 
-- work on IOdeas for DaniPlus that recognize the Revision opportunities inherent in OnTheList
+- work on Ideas (for DaniPlus) that recognize the Revision opportunities inherent in OnTheList
   - technical viability ,then economic viability
+    - consider the WiifMe needs of all participants
+      - with what limits?
     - clarify the obligations for seedCapital
       - equaly pay or equal work - is a fundamental principle
         - for both parties
