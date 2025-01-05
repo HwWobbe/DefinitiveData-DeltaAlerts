@@ -11,7 +11,7 @@
       - equaly pay or equal work - is a fundamental principle
         - for both parties
         - seed capital is debt at commercial rates, that needs to be re-paid
-  - an otate the meeting
+  - annotate the meeting
 - consider a content migration plan that reduces the size of these pages.
   - it should include local storage.
     - perhaps starting with just a notepad editor
