@@ -2,6 +2,7 @@
 
 - TA & OnTheList activities may gain some focus
   - 0110: SoW preparation really needs attention
+    - can this serve as a test on the DaniS relationship ?
 - provide more guidance to ToA
 - reviewed prior to 25-01-02.
   - emails for Time - Priorities for 2024.qu.1.key(s) points
