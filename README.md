@@ -9,6 +9,7 @@
 
 - provide more guidance to ToA
   - via GitHub ?
+    - desktop syncs may need to be a preRequisite activity
 
 - reviewed prior to 25-01-02.
   - emails for Time - Priorities for 2024.qu.1.key(s) points
