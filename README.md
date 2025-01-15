@@ -3,6 +3,8 @@
 - AsksH: for a sevenPenies diagram
   - extend this to the 19 level of course
 
+- encourage AasDuat
+
 - TA & OnTheList activities may gain some focus
   - 0110: SoW preparation really needs attention
     - can this serve as a test on the DaniS relationship ?
