@@ -68,8 +68,6 @@ This block is part of a countDown sequence ending at 2025-01.
       - distinguish ViabilityTest efforts and UAT efforts
 - ...
 
-### ㏘
-
 <hr>
 
 ### Done:
