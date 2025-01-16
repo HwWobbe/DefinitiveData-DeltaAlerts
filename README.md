@@ -1,7 +1,7 @@
 # ... Public
 
-- AsksH: for a sevenPenies diagram
-  - extend this to the 19 level of course
+- AsksH: was done for a sevenPenies diagram
+  - extended this to the 19 level of course
 
 - encourage AasDuat
 
