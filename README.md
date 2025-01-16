@@ -2,9 +2,11 @@
 
 - encourage AasDuat
 
+- RootStart for a shared PR
 - TA & OnTheList activities may gain some focus
   - 0110: SoW preparation really needs attention
     - can this serve as a test on the DaniS relationship ?
+- RootEnd
 
 - provide more guidance to ToA
   - via GitHub ?
