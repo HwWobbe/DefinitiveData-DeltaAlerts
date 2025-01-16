@@ -1,8 +1,5 @@
 # ... Public
 
-- AsksH: was done for a sevenPenies diagram
-  - extended this to the 19 level of course
-
 - encourage AasDuat
 
 - TA & OnTheList activities may gain some focus
@@ -75,6 +72,9 @@ This block is part of a countDown sequence ending at 2025-01.
 
 <hr>
 
+### Done:
+- AsksH: was done for a sevenPenies diagram
+  - extended this to the 19 level of course
 
 <hr>
 
