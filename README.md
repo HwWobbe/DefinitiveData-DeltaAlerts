@@ -8,6 +8,7 @@
       - anticipate more Alias fiels
         - explain the Mosaic Tiles = 1 FSA and its 8 adjacent neighbours
           - feed into AskS for textExpansion
+            - this could include aditional background like the WP: FSA page
   - 0110: ( TA )SoW preparation really needs attention
     - can this serve as a test on the DaniS relationship ?
 
