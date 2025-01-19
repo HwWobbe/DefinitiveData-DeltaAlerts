@@ -10,7 +10,7 @@
           - feed into AskS for textExpansion
             - this could include aditional background like the WP: FSA page
   - note my tendency to use CoPilot inceases with its emerging capabilities.
-    - ...
+    - try  applying this to Python first
   - 0110: ( TA )SoW preparation really needs attention
     - can this serve as a test on the DaniS relationship ?
 
