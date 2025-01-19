@@ -2,8 +2,9 @@
 
 - encourage Aas(Duat - cannot confirm)
 
-- TA & OnTheList activities may gain some focus
-  - 0110: SoW preparation really needs attention
+- TA & OnTheList activities must gain more focus
+  - 0119: dupElim needs
+  - 0110: ( TA )SoW preparation really needs attention
     - can this serve as a test on the DaniS relationship ?
 
 - provide more guidance to ToA
