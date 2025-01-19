@@ -6,6 +6,7 @@
   - 0119: dupElim needs
     - SqLite < loadYourOwn M subset
       - anticipate more Alias fiels
+        - expain the Mosaic Tiles = 1 FSA and its 8 adjacent neighbours
   - 0110: ( TA )SoW preparation really needs attention
     - can this serve as a test on the DaniS relationship ?
 
