@@ -1,6 +1,6 @@
 # ... Public
 
-- encourage Aas(use the new cah )
+- encourage Aas( 䖼 )
 
 - TA & OnTheList activities must gain more focus
   - 0119: dupElim needs
