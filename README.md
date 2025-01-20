@@ -1,6 +1,6 @@
 # ... Public
 
-- encourage Aas(Duat - cannot confirm)
+- encourage Aas(use the new cah )
 
 - TA & OnTheList activities must gain more focus
   - 0119: dupElim needs
