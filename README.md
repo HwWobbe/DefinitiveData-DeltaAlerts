@@ -5,7 +5,7 @@
 - TA & OnTheList activities must gain more focus
   - 0119: dupElim needs
     - SqLite < loadYourOwn M subset
-      - anticipate more Alias fiels
+      - anticipate more Alias fields
         - explain the Mosaic Tiles = 1 FSA and its 8 adjacent neighbours
           - feed into AskS for textExpansion
             - this could include aditional background like the WP: FSA page
