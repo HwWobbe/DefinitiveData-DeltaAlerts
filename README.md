@@ -1,6 +1,6 @@
 # ... Public
 
-- encourage Aas( 䖼⺞ )
+- encourage Aas( 䖼ℑ=⺞ )
 
 - TA & OnTheList activities must gain more focus
   - 0119: dupElim needs
