@@ -1,6 +1,7 @@
 # ... Public
 
 - encourage Aas( 䖼ℑ=⺞ )
+  - consider relative value
 
 - TA & OnTheList activities must gain more focus
   - 0119: dupElim needs
