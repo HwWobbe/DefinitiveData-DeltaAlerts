@@ -6,6 +6,7 @@
       - refine this into a TwTable using 䖼
         - consider the Security of MwsTw
           - this could be an alternate task for TA
+            - alternatively perhaps a EdD via SergeJ
 
 - TA & OnTheList activities must gain more focus
   - 0119: dupElim needs
