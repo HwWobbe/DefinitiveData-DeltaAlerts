@@ -3,6 +3,7 @@
 - encourage Aas( 䖼ℑ=⺞ )
   - consider relative value
     - 5 : 1 is very poor
+      - refine this into a TwTable using 䖼
 
 - TA & OnTheList activities must gain more focus
   - 0119: dupElim needs
