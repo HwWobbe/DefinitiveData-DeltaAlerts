@@ -1,5 +1,10 @@
 # ... Public
 
+## 2025-02:
+  - TA follow-up
+
+<hr>
+
 - encourage Aas( 䖼ℑ=⺞ )
   - consider relative value
     - 5 : 1 is very poor
