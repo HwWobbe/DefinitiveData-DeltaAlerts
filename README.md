@@ -3,6 +3,10 @@
 ## 2025-02:
   - TA follow-up
 
+- RootStart for a shared PR
+- TA & OnTheList activities may gain some focus
+- investigate the many colored lines
+
 <hr>
 
 - encourage Aas( 䖼ℑ=⺞ )
@@ -26,6 +30,7 @@
     - try  applying this to Python first
   - 0110: ( TA )SoW preparation really needs attention
     - can this serve as a test on the DaniS relationship ?
+- RootEnd
 
 - provide more guidance to ToA
   - via GitHub ?
@@ -85,7 +90,7 @@ This block is part of a countDown sequence ending at 2025-01.
       - Category clusters ( Fraktur )
       - snakeCase biDirectional conversions
   - document the workDone to establish the viability of each of these
-    - imnclude the simplifications needed to bridge the knowledgeGaps between techTypes (Hw) and userTypes (Lz)
+    - include the simplifications needed to bridge the knowledgeGaps between techTypes (Hw) and userTypes (Lz)
       - distinguish ViabilityTest efforts and UAT efforts
 - ...
 
