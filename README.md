@@ -1,10 +1,34 @@
 # ... Public
 
-- encourage AasDuat
+## 2025-02:
+  - TA follow-up
 
 - RootStart for a shared PR
 - TA & OnTheList activities may gain some focus
-  - 0110: SoW preparation really needs attention
+- investigate the many colored lines
+
+<hr>
+
+- encourage Aas( 䖼ℑ=⺞ )
+  - consider relative value
+    - 5 : 1 is very poor
+      - refine this into a TwTable using 䖼
+        - consider the Security of MwsTw
+          - this could be an alternate task for TA
+            - alternatively perhaps a EdD via SergeJ
+- review AP for contact DaniS
+  - then contact Serge
+
+- TA & OnTheList activities must gain more focus
+  - 0119: dupElim needs
+    - SqLite < loadYourOwn M subset
+      - anticipate more Alias fields
+        - explain the Mosaic Tiles = 1 FSA and its 8 adjacent neighbours
+          - feed into AskS for textExpansion
+            - this could include aditional background like the WP: FSA page
+  - note my tendency to use CoPilot inceases with its emerging capabilities.
+    - try  applying this to Python first
+  - 0110: ( TA )SoW preparation really needs attention
     - can this serve as a test on the DaniS relationship ?
 - RootEnd
 
@@ -66,7 +90,7 @@ This block is part of a countDown sequence ending at 2025-01.
       - Category clusters ( Fraktur )
       - snakeCase biDirectional conversions
   - document the workDone to establish the viability of each of these
-    - imnclude the simplifications needed to bridge the knowledgeGaps between techTypes (Hw) and userTypes (Lz)
+    - include the simplifications needed to bridge the knowledgeGaps between techTypes (Hw) and userTypes (Lz)
       - distinguish ViabilityTest efforts and UAT efforts
 - ...
 
