@@ -2,6 +2,7 @@
 
 ## 2025-02:
   - TA follow-up
+    - Sponsored?
 
 - RootStart for a shared PR
 - TA & OnTheList activities may gain some focus
