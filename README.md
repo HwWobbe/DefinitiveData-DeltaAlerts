@@ -5,6 +5,7 @@
     - Sponsored?
 
 - RootStart for a shared PR
+  - this should likely be a file
 - TA & OnTheList activities may gain some focus
   - continue to emphasize the role of the Subject in Privacy ConText(s)
 - investigate the many colored lines
