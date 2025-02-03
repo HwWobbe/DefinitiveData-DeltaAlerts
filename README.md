@@ -8,6 +8,7 @@
 - TA & OnTheList activities may gain some focus
   - continue to emphasize the role of the Subject in Privacy ConText(s)
 - investigate the many colored lines
+* plan an EdDf expansion assuming BoastTools
 
 <hr>
 
