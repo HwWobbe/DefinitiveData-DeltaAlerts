@@ -9,7 +9,8 @@
     - explore:
       -  BankOfTheWest with Eric
       - Keep locally as an alternative
-        - discuss this with the new RbcFg team as a separate Buisiness entity, keeping the option of the FoTrust available- 
+        - discuss this with the new RbcFg team as a separate Buisiness entity, keeping the option of the FoTrust available-
+          - goodManners demands a prior talk with Dan
 
 - RootStart for a shared PR
   - this should likely be a file
