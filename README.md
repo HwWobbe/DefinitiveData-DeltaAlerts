@@ -6,6 +6,10 @@
       - determine what the sponsorship level can be based on the $25,000 annualy as an HST limit & likely CAD/USD
         - TA needs to review his situation and decide
   - also Mario. Matt, Eric, depending on the fees
+    - explore:
+      -  BankOfTheWest with Eric
+      - Keep locally as an alternative
+        - discuss this with the new RbcFg team as a separate Buisiness entity, keeping the option of the FoTrust available- 
 
 - RootStart for a shared PR
   - this should likely be a file
