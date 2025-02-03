@@ -3,6 +3,7 @@
 ## 2025-02:
   - TA follow-up
     - Sponsored?
+      - determine what the sponsorship level can be based on the $25,000 annualy as an HST limit & likely CAD/USD
 
 - RootStart for a shared PR
   - this should likely be a file
