@@ -6,7 +6,8 @@
       - Sponsored?
         - determine what the sponsorship level can be based on the $25,000 annualy as an HST limit & likely CAD/USD
           - TA needs to review his situation and decide
-    - payment mthods are still a concern 
+    - payment methods are still a concern - 0207: Lz confirms Rbc is still active
+      - es: BankOfTheWest is reBranded now as just BMO
   - also Mario. Matt, Eric, depending on the fees
     - explore:
       -  BankOfTheWest with Eric
