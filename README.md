@@ -9,6 +9,10 @@
     - payment methods are still a concern - 0207: Lz confirms Rbc is still active
       - es: BankOfTheWest is reBranded now as just BMO
   - also Mario. Matt, Eric, depending on the fees
+    - is a DebitCard a prudent first step?
+      - discuss this with the "new"? folk
+        - list the considerations - post AsksH
+
     - explore:
       -  BankOfTheWest with Eric
       - Keep locally as an alternative
