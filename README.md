@@ -24,6 +24,8 @@
             - I can talk about the next details of my plans
               - this might collect some appeal
 
+<hr>
+
 - RootStart for a shared PR
   - this should likely be a file
 - TA & OnTheList activities may gain some focus
