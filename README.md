@@ -12,6 +12,9 @@
     - is a DebitCard a prudent first step?
       - discuss this with the "new"? folk
         - list the considerations - post AsksH
+          - noFees IF minimum balance is maintained
+          - transfer convenience and timing
+          - ...
 
     - explore:
       -  BankOfTheWest with Eric
