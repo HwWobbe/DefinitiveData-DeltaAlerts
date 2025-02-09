@@ -15,7 +15,7 @@
           - noFees IF minimum balance is maintained
           - transfer convenience and timing
           - ...
-
+         
     - explore:
       -  BankOfTheWest with Eric
       - Keep locally as an alternative
@@ -25,6 +25,9 @@
               - this might collect some appeal
 
 <hr>
+
+- this page has an active prettyLink
+
 
 - RootStart for a shared PR
   - this should likely be a file
