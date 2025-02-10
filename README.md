@@ -8,6 +8,7 @@
           - TA needs to review his situation and decide
     - payment methods are still a concern - 0207: Lz confirms Rbc is still active
       - es: BankOfTheWest is reBranded now as just BMO
+      - TA may be capped by HST considerations re 30K/year
   - also Mario. Matt, Eric, depending on the fees
     - is a DebitCard a prudent first step?
       - discuss this with the "new"? folk
