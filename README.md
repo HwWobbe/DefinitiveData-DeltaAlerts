@@ -15,7 +15,7 @@
         - list the considerations - post AsksH
           - noFees IF minimum balance is maintained
           - transfer convenience and timing
-          - ...
+    - duplicates discussions are problematic
          
     - explore:
       -  BankOfTheWest with Eric
