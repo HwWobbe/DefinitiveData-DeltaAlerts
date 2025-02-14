@@ -26,6 +26,8 @@
           - goodManners demands a prior talk with Dan
             - I can talk about the next details of my plans
               - this might collect some appeal
+- LOOM demo is scheduled for MonDay
+  - remind LzH
 
 <hr>
 
