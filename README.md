@@ -35,7 +35,7 @@
     - [2024-Done](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-Done)
   - [2024-06](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-06)
   - undertake further tests here
-    - [2025-02](https://[github.com/HwWobbe/DefinitiveData-DeltaAlerts](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/edit/main/README.md#2025-02)
+    - [2025-02](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/edit/main/README.md#2025-02)
     
 - RootStart for a shared PR
   - this should likely be a file
