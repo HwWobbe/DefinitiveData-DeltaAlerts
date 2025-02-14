@@ -35,7 +35,7 @@
     - [2024-Done](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-Done)
   - [2024-06](https://github.com/HwWobbe/DefinitiveData-DeltaAlerts/blob/main/README.md#2024-06)
   - undertake further tests here
-  
+    
 - RootStart for a shared PR
   - this should likely be a file
 - TA & OnTheList activities may gain some focus
