@@ -5,6 +5,9 @@
     - now, again, wants verbal contact.  Suggest a Pause until we can produce a proper StatamentOfWork.
       - cannot even start this until next month
         - discuss this with Dpl & LzT
+      - Jr & Es have other priorities - which is why the relatively independent path appleas.
+        - pay of some docs since Jr said this showed some promise.
+          - ...
     - accepted SoW approach - assuming goodFaith on workLoad planning (in early stages)
       - Sponsored?
         - determine what the sponsorship level can be based on the $25,000 annualy as an HST limit & likely CAD/USD
