@@ -4,6 +4,7 @@
   - TA follow-up
     - now, again, wants verbal contact.  Suggest a Pause until we can produce a proper StatamentOfWork.
       - cannot even start this until next month
+        - discuss this with Dpl & LzT
     - accepted SoW approach - assuming goodFaith on workLoad planning (in early stages)
       - Sponsored?
         - determine what the sponsorship level can be based on the $25,000 annualy as an HST limit & likely CAD/USD
