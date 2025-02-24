@@ -2,7 +2,7 @@
 
 ## 2025-02:
   - TA follow-up
-    - now, again, wants verbal contact.  Suggest a Pause until we can produce a proper StatamentOfWork.
+    - now, again, TA wants verbal contact.  Suggest a Pause until we can produce a proper StatamentOfWork.
       - cannot even start this until next month
         - discuss this with Dpl & LzT
       - Jr & Es have other priorities - which is why the relatively independent path appleas.
