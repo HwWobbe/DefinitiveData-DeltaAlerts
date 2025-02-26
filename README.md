@@ -4,7 +4,7 @@
   - TA follow-up
     - reached out in a effort to restore Contact
       - Response needed
-        - focus on just buuild a SqLite version of a data table.
+        - focus on just build a SqLite version of a data table.
           - I suggest Toronto postCose "M"...
     - now, again, TA wants verbal contact.  Suggest a Pause until we can produce a proper StatamentOfWork.
       - cannot even start this until next month
