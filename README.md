@@ -2,6 +2,7 @@
 
 * leading spaces are compromized (in my view)
   * parends do seem to triggering the "COPY" offer
+    * this may create Flow opportunities - especially if Links can be incorporated
  
 ## 2025-03:
 ...
