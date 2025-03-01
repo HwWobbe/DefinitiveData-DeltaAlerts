@@ -1,5 +1,8 @@
 # ... Public
 
+* leading spaces are compromized (in my view)
+  * parends do seem to triggering the "COPY" offer
+ 
 ## 2025-03:
 ...
   - WFH versus WFO
