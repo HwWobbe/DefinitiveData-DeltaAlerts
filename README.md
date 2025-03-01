@@ -2,7 +2,10 @@
 
 ## 2025-03:
 ...
-  - ...
+  - WFH versus WFO
+    - Culture erodesd under WFH
+      - reinforce it with joint short trips
+        - try LcHd on a StL River Cruise
 
 ## 2025-02:
   - TA follow-up
