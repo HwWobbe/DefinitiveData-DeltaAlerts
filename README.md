@@ -5,9 +5,10 @@
 
 * howTo: distinguish a Year folder grom a Year page
 * WFH versus WFO
- * Culture erodesd under WFH
+ * Culture erodes under WFH
    * reinforce it with joint short trips
      * try LcHd on a StL River Cruise
+   * discuss: DplT
 
 ## 2025-02:
   - TA follow-up
