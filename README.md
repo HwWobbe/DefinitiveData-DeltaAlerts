@@ -1,9 +1,7 @@
 # ... Public
 
-* leading spaces are compromized (in my view)
-  * parends do seem to triggering the "COPY" offer
-    * this may create Flow opportunities - especially if Links can be incorporated
- 
+* howTo: distinguish a Year folder grom a Year page
+
 ## 2025-03:
 ...
   - WFH versus WFO
