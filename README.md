@@ -3,7 +3,8 @@
 ## 2025-03:
 ...
 
-* howTo: distinguish a Year folder grom a Year page
+* howTo: distinguish a Year folder from a Year page
+  * rehaps 2025.md versys 2025-md.md
 * WFH versus WFO
  * Culture erodes under WFH
    * reinforce it with joint short trips
