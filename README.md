@@ -4,7 +4,7 @@
 ...
 
 * howTo: distinguish a Year folder from a Year page
-  * rehaps 2025.md versys 2025-md.md
+  * perhaps 2025.md versys 2025-md.md
 * WFH versus WFO
  * Culture erodes under WFH
    * reinforce it with joint short trips
