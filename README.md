@@ -11,6 +11,7 @@
      * try LcHd on a StL River Cruise
        * an under-whelming reaction from Ls
    * discuss: DplT
+* shadingLevel tests suggest recursion for each level baced on the remaiing lower ones
 
 ## 2025-02:
   - TA follow-up
