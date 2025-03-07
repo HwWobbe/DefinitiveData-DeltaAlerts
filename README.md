@@ -9,6 +9,7 @@
  * Culture erodes under WFH
    * reinforce it with joint short trips
      * try LcHd on a StL River Cruise
+       * an under-whelming reaction from Ls
    * discuss: DplT
 
 ## 2025-02:
