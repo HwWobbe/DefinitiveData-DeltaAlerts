@@ -1,6 +1,9 @@
+
 * parends may be triggering the "COPY" offer
-  * https://github.com/PySpur-Dev/pyspur
-    * [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
+  * perhaps not - as shown by this second use
+    * https://github.com/PySpur-Dev/pyspur
+      * [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
+
 
 # ... Public
 
