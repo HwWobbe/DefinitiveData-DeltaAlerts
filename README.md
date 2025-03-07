@@ -2,7 +2,7 @@
 * parends may be triggering the "COPY" offer
   * perhaps not - as shown by this second use
     * it would be nice to have though ...
-      * ... as a cascade
+      * ... as a cascade to other topPages
     * https://github.com/PySpur-Dev/pyspur
       * [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
 
