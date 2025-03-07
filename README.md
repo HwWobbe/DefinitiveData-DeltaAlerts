@@ -6,11 +6,11 @@
 * howTo: distinguish a Year folder from a Year page
   * perhaps 2025.md versys 2025-md.md
 * WFH versus WFO
- * Culture erodes under WFH
-   * reinforce it with joint short trips
-     * try LcHd on a StL River Cruise
-       * an under-whelming reaction from Ls
-   * discuss: DplT
+  * Culture erodes under WFH
+    * reinforce it with joint short trips
+      * try LcHd on a StL River Cruise
+        * an under-whelming reaction from Ls
+  * discuss: DplT
 * shadingLevel tests suggest recursion for each level baced on the remaiing lower ones
   * nextLevel test
 
