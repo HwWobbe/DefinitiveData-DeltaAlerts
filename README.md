@@ -1,4 +1,10 @@
 
+  * leading spaces are compromized (in my view)
+  * do the leading spaces trigger this COPY effect?
+    * its beginning to look very likely
+      * assume this is so - at least for now
+     
+
 * parends may be triggering the "COPY" offer
   * perhaps not - as shown by this second use
     * it would be nice to have though ...
