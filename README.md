@@ -4,6 +4,8 @@
       * its beginning to look very likely
         * assume this is so - at least for now
           * still a FAIL - in spite of the leading spaces
+            * deeper indentation finally made it work.
+              * this now allows Cascades
      
 
 * parends may be triggering the "COPY" offer
