@@ -1,8 +1,9 @@
 
-  * leading spaces are compromized (in my view)
-  * do the leading spaces trigger this COPY effect?
-    * its beginning to look very likely
-      * assume this is so - at least for now
+    * leading spaces are compromized (in my view)
+    * do the leading spaces trigger this COPY effect?
+      * its beginning to look very likely
+        * assume this is so - at least for now
+          * still a FAIL - in spite of the leading spaces
      
 
 * parends may be triggering the "COPY" offer
