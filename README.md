@@ -4,6 +4,7 @@
       * deeper indentation finally made it work.
         * this now allows Cascades
 
+Consider: 〖 various unicode parends 〗
 
 * parends may be triggering the "COPY" offer
   * perhaps not - as shown by this second use
