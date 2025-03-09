@@ -4,7 +4,8 @@
       * deeper indentation finally made it work.
         * this now allows Cascades
 
-Consider: 〖 various unicode parends 〗
+* Consider: 〖 various unicode parends 〗
+  * their significance will need to be documented since there are no conventions for Authors to follow
 
 * parends may be triggering the "COPY" offer
   * perhaps not - as shown by this second use
