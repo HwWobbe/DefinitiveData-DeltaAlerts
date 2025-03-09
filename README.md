@@ -6,7 +6,7 @@
 
 * Consider: 〖 various unicode parends 〗
   * their significance will need to be documented since there are no conventions for Authors to follow
-    * check wikipedia though
+    * check wikipedia though, as a precation against unnecessary efforts
 
 * parends may be triggering the "COPY" offer
   * perhaps not - as shown by this second use
