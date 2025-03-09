@@ -1,8 +1,11 @@
 
-    * leading spaces can be compromized 
-    * do the leading spaces trigger this COPY effect?
-      * deeper indentation finally made it work.
-        * this now allows Cascades
+    - leading spaces can be compromized 
+    - do the leading spaces trigger this COPY effect?
+      - deeper indentation finally made it work.
+        - this now allows Cascades
+          - will links work in these blocks
+            - can HTML anchors be used?
+        
 
 * Consider: 〖 various unicode parends 〗
   * their significance will need to be documented since there are no conventions for Authors to follow
