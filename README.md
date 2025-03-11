@@ -17,6 +17,7 @@
       * ... as a cascade to other topPages
         * try copy the first working block to a gist
           * this was a FAIL.
+            * solved - specify precisely HowTo
     * https://github.com/PySpur-Dev/pyspur
       * [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
 
