@@ -4,8 +4,10 @@
           - will links work in these blocks
             - can HTML anchors be used?
        - these Comments shiould be a part of my quickLinks area(s)
-         - confirm headings can be added, like this:
+         - confirm headings cannot be added, like this:
            - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
+             - likely due to active CSS
+               - try "inspect"
         
 
 - Consider: 〖 various unicode parends 〗
