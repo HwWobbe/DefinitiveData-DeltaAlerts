@@ -4,11 +4,13 @@
           - will links work in these blocks
             - can HTML anchors be used?
        - these Comments shiould be a part of my quickLinks area(s)
+         - confirm headings can be added, like this:
+           - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
         
 
-* Consider: 〖 various unicode parends 〗
-  * their significance will need to be documented since there are no conventions for Authors to follow
-    * check wikipedia though, as a precation against unnecessary efforts
+- Consider: 〖 various unicode parends 〗
+  - their significance will need to be documented since there are no conventions for Authors to follow
+    - check wikipedia though, as a precation against unnecessary efforts
 
 * parends may be triggering the "COPY" offer
   * perhaps not - as shown by this second use
