@@ -1,7 +1,5 @@
 
-    - leading spaces can be compromized 
-    - do the leading spaces trigger this COPY effect?
-      - deeper indentation finally made it work.
+       - deeper indentation finally made it work.
         - this now allows Cascades
           - will links work in these blocks
             - can HTML anchors be used?
