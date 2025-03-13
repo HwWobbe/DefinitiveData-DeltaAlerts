@@ -25,9 +25,9 @@
 # ... Public
 
 ## 2025-04:
-* !! 242: link these to: DiigoH > TH:... > ... or a private rePo
-* !! 244: 
-* !! 246: 
+* !! 242: possible links: ..
+* !! 244: ..  DiigoH > TH:... > ... or a private rePo
+* !! 246: .. DocsH with Creds
 
 ## 2025-03:
 ...
