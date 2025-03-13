@@ -25,7 +25,7 @@
 # ... Public
 
 ## 2025-04:
-* !! 242:
+* !! 242: link these to: DiigoH > TH:... > ... or a private rePo
 * !! 244: 
 * !! 246: 
 
