@@ -15,7 +15,9 @@
 
 <hr>
 
-- allHelkd pending a few wotk Priorities
+- allHeld pending a few wotk Priorities
+  - scheduling may need to be via Tiddlers
+    - this should be based on TiddlyHost
 - Consider: 〖 various unicode parends 〗
   - their significance will need to be documented since there are no conventions for Authors to follow
     - check wikipedia though, as a precation against unnecessary efforts
