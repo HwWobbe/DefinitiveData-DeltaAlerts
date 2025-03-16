@@ -15,6 +15,7 @@
 
 <hr>
 
+- allHelkd pending a few wotk Priorities
 - Consider: 〖 various unicode parends 〗
   - their significance will need to be documented since there are no conventions for Authors to follow
     - check wikipedia though, as a precation against unnecessary efforts
