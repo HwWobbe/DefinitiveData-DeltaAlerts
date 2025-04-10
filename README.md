@@ -16,7 +16,7 @@
 <hr>
 
 - review the TH transaction FAIL reports
-  - ...
+  - card fail?
 - allHeld pending a few work Priorities
   - scheduling may need to be via Tiddlers
     - this should be based on TiddlyHost
