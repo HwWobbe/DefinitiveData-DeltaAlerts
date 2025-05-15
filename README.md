@@ -26,18 +26,23 @@
   - their significance will need to be documented since there are no conventions for Authors to follow
     - check wikipedia though, as a precation against unnecessary efforts
 
-* parends may be triggering the "COPY" offer
-  * perhaps not - as shown by this second use
-    * it would be nice to have though ...
-      * ... as a cascade to other topPages
-        * try copy the first working block to a gist
-          * this was a FAIL.
-            * solved - specify precisely HowTo
-    * https://github.com/PySpur-Dev/pyspur
-      * [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
+- parends may be triggering the "COPY" offer
+  - perhaps not - as shown by this second use
+    - it would be nice to have though ...
+      - ... as a cascade to other topPages
+        - try copy the first working block to a gist
+          - this was a FAIL.
+            - solved - specify precisely HowTo
+    - https://github.com/PySpur-Dev/pyspur
+      - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
 
 
 # ... 〖 Public 〗
+
+## 2025-05:
+- ...
+
+
 
 ## 2025-04:
 * !! 242: possible links: ..
