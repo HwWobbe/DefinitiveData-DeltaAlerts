@@ -11,7 +11,7 @@
         
 
 ### QuickLinks
-...
+- Note:the common QuickLinks may be effective - since this is a second WORKs instance.
 
 <hr>
 
