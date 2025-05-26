@@ -22,7 +22,7 @@
     - 0524: continues
       - but can tap - try the other card with possible address variations
       - ...
-- allHeld pending a few work Priorities
+- Al - lHeld pending a few work Priorities
   - scheduling may need to be via Tiddlers
     - this should be based on TiddlyHost
       - DropBox
