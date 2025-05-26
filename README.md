@@ -17,6 +17,7 @@
 <hr>
 
 - 0525: resusmption of logging
+  - inserted PUBLIC line into Copy zone successfully
 - review the TH transaction FAIL reports
   - card fail?
     - 0524: continues
