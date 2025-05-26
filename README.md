@@ -15,7 +15,8 @@
 
 <hr>
 
-- ...
+- 0525: ...
+  - ...
 - review the TH transaction FAIL reports
   - card fail?
     - 0524: continues
