@@ -16,8 +16,7 @@
 
 <hr>
 
-- 0525: ...
-  - ...
+- 0525: resusmption of logging
 - review the TH transaction FAIL reports
   - card fail?
     - 0524: continues
