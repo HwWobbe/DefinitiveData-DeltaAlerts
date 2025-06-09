@@ -16,6 +16,8 @@
 
 <hr>
 
+- 0608: CoPilot is likely to gain traction
+  - @DF experimentation is virtually certain
 - 0525: resusmption of logging
   - inserted〖 Public 〗line into Copy zone successfully
 - review the TH transaction FAIL reports
