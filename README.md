@@ -23,6 +23,7 @@
 - 0608: CoPilot is likely to gain traction
   - @DF experimentation is virtually certain
     - see the KfwNotes
+      - pull K. in deeper
 
 - 0608: CoPilot is likely to gain traction
 
