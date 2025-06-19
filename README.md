@@ -21,11 +21,12 @@
 
 ## 2025-06:
 ...
-- 0608: CoPilot is likely to gain traction
+- 0619: CoPilot is likely to gain traction
   - @DF experimentation is virtually certain
     - see the KfwNotes
       - pull K. in deeper
-
+  - GitHub considerations ?
+ 
 - 0608: CoPilot is likely to gain traction
 
 <hr>
