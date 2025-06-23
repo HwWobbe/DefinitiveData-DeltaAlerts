@@ -9,7 +9,7 @@
          - confirm headings cannot be added, like this:
            - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
              - likely due to active CSS
-               - try "inspect"
+               - try "inspect" - ...
         
 
 ### QuickLinks
