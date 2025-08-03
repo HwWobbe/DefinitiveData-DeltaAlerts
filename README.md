@@ -5,6 +5,7 @@
             - can HTML anchors be used?
        - LaLo build out 
        -〖 Public 〗
+         - add more bracket types
        - these Comments shiould be a part of my quickLinks area(s)
          - confirm headings cannot be added, like this:
            - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
