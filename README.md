@@ -14,7 +14,7 @@
         
 
 ### QuickLinks & Comments:
-- Note:the common QuickLinks may be effective - since this is a second WORKs instance.
+- Note: the common QuickLinks may be effective - since this is a second WORKs instance.
 - prepare for 0819 at LoTm
 
 <hr>
