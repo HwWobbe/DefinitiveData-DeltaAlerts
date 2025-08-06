@@ -16,6 +16,7 @@
 ### QuickLinks & Comments:
 - Note: the common QuickLinks may be effective - since this is a second WORKs instance.
 - prepare for 0819 at LoTm
+  - preceeded by the 0818 - perhaps at UoW
 
 <hr>
 
