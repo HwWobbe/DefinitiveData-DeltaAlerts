@@ -17,6 +17,8 @@
 - Note: the common QuickLinks may be effective - since this is a second WORKs instance.
 - prepare for 0819 at LoTm
   - preceeded by the 0818 - perhaps at UoW
+    - consider travel times to LoTm from UW
+      - Marysville is of interest to Lz
 
 <hr>
 
