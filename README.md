@@ -15,6 +15,7 @@
 
 ### QuickLinks & Comments:
 - Note: the common QuickLinks may be effective - since this is a second WORKs instance.
+  - persist in ytring to understand this.
 - CnIt and f.c.r. could be shared, refactored content 
 - prepare for 0819 at LoTm
   - preceeded by the 0818 - perhaps at UoW
