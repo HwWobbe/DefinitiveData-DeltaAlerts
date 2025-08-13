@@ -28,13 +28,15 @@
 ## 2025-08:
 ...
 
--2025-08-11: GistsH digression
+-2025-08-13: () dynamic topics may emerge here
 
-- 2025-08-10:
-  - test the use of Bots as guides.
+  -2025-08-11: GistsH digression
 
-- 2025-08-04:
-  - ...
+    - 2025-08-10:
+      - test the use of Bots as guides.
+
+  - 2025-08-04:
+    - ...
 
 <hr>
 
