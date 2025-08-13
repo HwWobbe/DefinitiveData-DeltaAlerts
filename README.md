@@ -31,7 +31,8 @@
 -2025-08-11: GistsH digression
 
 - 2025-08-10:
-  - ...
+  - test the use of Bots as guides.
+
 - 2025-08-04:
   - ...
 
