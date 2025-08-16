@@ -30,6 +30,7 @@
 ...
 
 -2025-08-13: () dynamic topics may emerge here
+  - 08-18: craft a .tb foundation
   - 08-14: start designing this on the assumption that TextBlze is a foundational technology.
 
   -2025-08-11: GistsH digression
