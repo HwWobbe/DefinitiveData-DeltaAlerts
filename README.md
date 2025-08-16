@@ -18,6 +18,7 @@
   - persist in trying to understand the intermittant appearance of these blocks.
 - CnIt and f.c.r. could be shared, refactored content
   - consider the potential enhancements of a dynamic, generic title. based on the current ToolStack
+    - Chat... suloutions should be effective
 - prepare for 0819 at LoTm
   - preceeded by the 0818 - perhaps at UoW
     - consider travel times to LoTm from UW
