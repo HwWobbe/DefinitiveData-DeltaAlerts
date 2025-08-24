@@ -25,6 +25,7 @@
   - preceeded by the 0818 - perhaps at UoW
     - consider travel times to LoTm from UW
       - Marysville is of interest to Lz
+- -06-: GitHub considerations ? - OrgChanges ?
 
 <hr>
 
@@ -51,8 +52,7 @@
   - @DF experimentation is virtually certain
     - see the KfwNotes
       - pull K. in deeper
-  - GitHub considerations ?
- 
+   
 - 0608: CoPilot is likely to gain traction
 
 <hr>
