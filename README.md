@@ -18,6 +18,7 @@
   - consider TextBlaze impacts
     - persist in trying to understand the intermittant appearance of these blocks.
 - explore more of the nuances of TransClude (TW) versus InJect (TB)
+  - this nay just be a matter of dev. "comfort" anf familiarity
 - CnIt and f.c.r. could be shared, refactored content
   - consider the potential enhancements of a dynamic, generic title. based on the current ToolStack
     - Chat... solutions should be effective
