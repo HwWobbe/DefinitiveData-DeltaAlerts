@@ -35,6 +35,10 @@
 ## 2025-09:
 ...
 
+- trying to review Latitude
+  - ...
+
+
 ## 2025-08:
 ...
 
