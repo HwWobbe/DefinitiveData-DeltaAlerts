@@ -15,6 +15,7 @@
 
 ### QuickLinks & Comments:
 - Note: the common QuickLinks may be effective - since this is a second WORKs instance.
+  - 0925: DoorScore meeting set
   - 0924: ...
   - consider TextBlaze impacts
     - persist in trying to understand the intermittant appearance of these blocks.
