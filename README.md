@@ -38,6 +38,9 @@
 ## 2026-04:
 ...
 
+- incorporate this into the EdD2025 claim
+  - refine PULLs to assemble content in a wrapper
+
 <hr>
 
 ## 2025-10:
