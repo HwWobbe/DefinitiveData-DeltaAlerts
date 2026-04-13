@@ -40,6 +40,7 @@
 
 - incorporate this into the EdD2025 claim
   - refine PULLs to assemble content in a wrapper
+  - explore further implications of notebookLM = KgMs( Graph ) vs. PkMs
 
 <hr>
 
