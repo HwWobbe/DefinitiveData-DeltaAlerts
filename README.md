@@ -38,6 +38,8 @@
 ## 2026-04:
 ...
 
+- GrokChat is a relatively easy way to build a schema
+  - 4146 is an effective key
 - incorporate this into the EdD2025 claim
   - refine PULLs to assemble content in a wrapper
   - explore further implications of notebookLM = KgMs( Graph ) vs. PkMs
