@@ -45,7 +45,7 @@
   - refine PULLs to assemble content in a wrapper
   - explore further implications of notebookLM = KgMs( Graph ) vs. PkMs
 - 4E00 implementation started
-  - TbH support is active
+  - TbH support is active via http://localhost:8080/#4e01
  
 <hr>
 
