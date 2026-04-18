@@ -44,7 +44,9 @@
   - supports the prototypes / pilots to illustrate the effective ways to propogate Consumer solutions
   - refine PULLs to assemble content in a wrapper
   - explore further implications of notebookLM = KgMs( Graph ) vs. PkMs
-
+- 4E00 implementation started
+  - TbH sppout is active
+ 
 <hr>
 
 ## 2025-10:
