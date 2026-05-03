@@ -16,7 +16,7 @@
 ### QuickLinks & Comments:
 - Note: the common QuickLinks may be effective - since this is a second WORKs instance.
   - 200503: 
-    - review CdRe
+    - review CsRe
   - 260424:
     - TbH is likely superior to the preceding copyBlock
   - 260422: NotebookLLM refinements
