@@ -18,7 +18,7 @@
   - 23:40 -  update(s)
 - 2026-05-07:
   - AiTrain: MixedRadixPosiionalNotation
-    - try teaching by example, based on a nN solutio that start out from a recognized CamelCase field value
+    - try teaching by example, based on nN solutions that start out from a recognized CamelCase field value
 - 2026-05-05
   - https://opendatakingston.cityofkingston.ca/datasets/survey-benchmark-monuments/explore?location=44.347750%2C-76.446350%2C10
 - Note: the common QuickLinks may be effective - since this is a second WORKs instance.
