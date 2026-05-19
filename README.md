@@ -15,6 +15,7 @@
 
 ### QuickLinks & Comments:
 - 2026-05-18:
+  - 23:50 - date tweaks
   - 23:40 -  update(s)
 - 2026-05-07:
   - AiTrain: MixedRadixPosiionalNotation
