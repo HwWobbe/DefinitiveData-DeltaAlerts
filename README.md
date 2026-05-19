@@ -14,9 +14,9 @@
         
 
 ### QuickLinks & Comments:
--2026-05-18:
+- 2026-05-18:
   - 23:40 -  update(s)
--2026-05-07:
+- 2026-05-07:
   - AiTrain: MixedRadixPosiionalNotation
     - try teaching by example, based on a nN solutio that start out from a recognized CamelCase field value
 - 2026-05-05
