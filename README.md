@@ -15,7 +15,7 @@
 
 ### QuickLinks & Comments:
 - 2026-05-19:
-  - ...
+  - extend use of GitHub > KeepH via Marks + rightClick
 - 2026-05-18:
   - 23:59 - EoD = EndOfDay
   - 23:50 - date tweaks
