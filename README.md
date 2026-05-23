@@ -15,6 +15,7 @@
 
 ### QuickLinks & Comments:
 - 2026-05-19:
+  - repoSourceId will be needed when Files are moved between repo/folders
   - extend use of GitHub > KeepH via Marks + rightClick
     - also copy into TwH for PKM retension
 - 2026-05-18:
