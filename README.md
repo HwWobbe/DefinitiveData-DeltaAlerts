@@ -14,7 +14,7 @@
         
 
 ### QuickLinks & Comments:
-- 2026-05-31: endOfMont
+- 2026-05-31: endOfMonth
 - 2026-05-29: ClaudeCode integration
 - 2026-05-19:
   - -23: ( repoSourceId will be needed when Files are moved between repo/folders )...-19overLoad
