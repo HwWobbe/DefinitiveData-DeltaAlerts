@@ -14,7 +14,8 @@
         
 
 ### QuickLinks & Comments:
-- 2026-06-13: setUp a Blaze.organization - initially only adding S.
+- 2026-06-17: DataBlaze refinements start
+- 2026-06-13: setUp a Blaze.organization - initially only adding S. then Lz
 - 2026-06-02: ...
 - 2026-05-31: endOfMonth
 - 2026-05-29: ClaudeCode integration
