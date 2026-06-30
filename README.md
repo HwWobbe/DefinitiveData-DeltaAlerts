@@ -16,6 +16,7 @@
 ### QuickLinks & Comments:
 - 2026-06-30:
   - Still erroneous Date calculations
+  - likely based on bad encoding assumptions
 - 2026-06-29: MarkT
 - 2026-06-18: ...
   - -17: DataBlaze refinements start
