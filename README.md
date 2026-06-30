@@ -17,6 +17,7 @@
 - 2026-06-30:
   - Still erroneous Date calculations
   - likely based on bad encoding assumptions
+  - in spite of a "doNotAssume directive
 - 2026-06-29: MarkT
 - 2026-06-18: ...
   - -17: DataBlaze refinements start
